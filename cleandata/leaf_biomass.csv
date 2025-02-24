@@ -1,0 +1,283 @@
+UiD,num_pot,genotype,soil,treatment,id,num_leaf,tray,experiment,region,north_LatY,west_LongX,country,dw_g,dw_mg
+,17,CVSt,Sao Domingos,50%FC,17,L1,9,2,Ribeira São Domingos (Nora),15.018798,-23.548427,Cabo Verde,0.0033,3.3
+,17,CVSt,Sao Domingos,50%FC,17,L2,9,2,Ribeira São Domingos (Nora),15.018798,-23.548427,Cabo Verde,0.0164,16.4
+,17,CVSt,Sao Domingos,50%FC,17,L3,9,2,Ribeira São Domingos (Nora),15.018798,-23.548427,Cabo Verde,0.0636,63.6
+,17,CVSt,Sao Domingos,50%FC,17,L4,9,2,Ribeira São Domingos (Nora),15.018798,-23.548427,Cabo Verde,0.1077,107.7
+,17,CVSt,Sao Domingos,50%FC,17,L5,9,2,Ribeira São Domingos (Nora),15.018798,-23.548427,Cabo Verde,0.0409,40.9
+,17,CVSt,Sao Domingos,50%FC,17,L6,9,2,Ribeira São Domingos (Nora),15.018798,-23.548427,Cabo Verde,0.0021,2.1
+,17,CVSt,Sao Domingos,50%FC,17,Stem,9,2,Ribeira São Domingos (Nora),15.018798,-23.548427,Cabo Verde,0.1889,188.9
+,33,CVSt,Sutton Bonington,50%FC,33,L1,13,2,Sutton Bonington,52.833265,-1.24906,UK,0.0041,4.1
+,33,CVSt,Sutton Bonington,50%FC,33,L2,13,2,Sutton Bonington,52.833265,-1.24906,UK,0.0161,16.1
+,33,CVSt,Sutton Bonington,50%FC,33,L3,13,2,Sutton Bonington,52.833265,-1.24906,UK,0.0409,40.9
+,33,CVSt,Sutton Bonington,50%FC,33,L4,13,2,Sutton Bonington,52.833265,-1.24906,UK,0.075,75
+,33,CVSt,Sutton Bonington,50%FC,33,L5,13,2,Sutton Bonington,52.833265,-1.24906,UK,0.0524,52.4
+,33,CVSt,Sutton Bonington,50%FC,33,L6,13,2,Sutton Bonington,52.833265,-1.24906,UK,0.0051,5.1
+,33,CVSt,Sutton Bonington,50%FC,33,Stem,13,2,Sutton Bonington,52.833265,-1.24906,UK,0.1537,153.7
+,,Zm523,Tarrafal,50%FC,R84,L1,9,2,Colonato,15.254874,-23.744146,Cabo Verde,0.0109,10.9
+,,Zm523,Tarrafal,50%FC,R84,L2,9,2,Colonato,15.254874,-23.744146,Cabo Verde,0.0436,43.6
+,,Zm523,Tarrafal,50%FC,R84,L3,9,2,Colonato,15.254874,-23.744146,Cabo Verde,0.0962,96.2
+,,Zm523,Tarrafal,50%FC,R84,L4,9,2,Colonato,15.254874,-23.744146,Cabo Verde,0.0742,74.2
+,,Zm523,Tarrafal,50%FC,R84,L5,9,2,Colonato,15.254874,-23.744146,Cabo Verde,0.0201,20.1
+,,Zm523,Tarrafal,50%FC,R84,Stem,9,2,Colonato,15.254874,-23.744146,Cabo Verde,0.1752,175.2
+,,Zm523,Tarrafal,50%FC,R85,L1,12,2,Colonato,15.254874,-23.744146,Cabo Verde,0.0154,15.4
+,,Zm523,Tarrafal,50%FC,R85,L2,12,2,Colonato,15.254874,-23.744146,Cabo Verde,0.0576,57.6
+,,Zm523,Tarrafal,50%FC,R85,L3,12,2,Colonato,15.254874,-23.744146,Cabo Verde,0.1032,103.2
+,,Zm523,Tarrafal,50%FC,R85,L4,12,2,Colonato,15.254874,-23.744146,Cabo Verde,0.0666,66.6
+,,Zm523,Tarrafal,50%FC,R85,L5,12,2,Colonato,15.254874,-23.744146,Cabo Verde,0.0273,27.3
+,,Zm523,Tarrafal,50%FC,R85,Stem,12,2,Colonato,15.254874,-23.744146,Cabo Verde,0.246,246
+,,Zm523,Tarrafal,50%FC,R86,L1,10,2,Colonato,15.254874,-23.744146,Cabo Verde,0.0102,10.2
+,,Zm523,Tarrafal,50%FC,R86,L2,10,2,Colonato,15.254874,-23.744146,Cabo Verde,0.0357,35.7
+,,Zm523,Tarrafal,50%FC,R86,L3,10,2,Colonato,15.254874,-23.744146,Cabo Verde,0.0819,81.9
+,,Zm523,Tarrafal,50%FC,R86,L4,10,2,Colonato,15.254874,-23.744146,Cabo Verde,0.0951,95.1
+,,Zm523,Tarrafal,50%FC,R86,L5,10,2,Colonato,15.254874,-23.744146,Cabo Verde,0.0535,53.5
+,,Zm523,Tarrafal,50%FC,R86,Stem,10,2,Colonato,15.254874,-23.744146,Cabo Verde,0.267,267
+,,Zm523,Tarrafal,50%FC,R87,L1,7,2,Colonato,15.254874,-23.744146,Cabo Verde,0.01,10
+,,Zm523,Tarrafal,50%FC,R87,L2,7,2,Colonato,15.254874,-23.744146,Cabo Verde,0.0369,36.9
+,,Zm523,Tarrafal,50%FC,R87,L3,7,2,Colonato,15.254874,-23.744146,Cabo Verde,0.0992,99.2
+,,Zm523,Tarrafal,50%FC,R87,L4,7,2,Colonato,15.254874,-23.744146,Cabo Verde,0.1012,101.2
+,,Zm523,Tarrafal,50%FC,R87,L5,7,2,Colonato,15.254874,-23.744146,Cabo Verde,0.0553,55.3
+,,Zm523,Tarrafal,50%FC,R87,L6,7,2,Colonato,15.254874,-23.744146,Cabo Verde,0.0091,9.1
+,,Zm523,Tarrafal,50%FC,R87,Stem,7,2,Colonato,15.254874,-23.744146,Cabo Verde,0.268,268
+,,Zm523,Tarrafal,50%FC,R88,L1,6,2,Colonato,15.254874,-23.744146,Cabo Verde,0.0097,9.7
+,,Zm523,Tarrafal,50%FC,R88,L2,6,2,Colonato,15.254874,-23.744146,Cabo Verde,0.0271,27.1
+,,Zm523,Tarrafal,50%FC,R88,L3,6,2,Colonato,15.254874,-23.744146,Cabo Verde,0.0612,61.2
+,,Zm523,Tarrafal,50%FC,R88,L4,6,2,Colonato,15.254874,-23.744146,Cabo Verde,0.0742,74.2
+,,Zm523,Tarrafal,50%FC,R88,L5,6,2,Colonato,15.254874,-23.744146,Cabo Verde,0.0343,34.3
+,,Zm523,Tarrafal,50%FC,R88,Stem,6,2,Colonato,15.254874,-23.744146,Cabo Verde,0.1489,148.9
+,,B73,Tarrafal,50%FC,R104,L1,1,2,Colonato,15.254874,-23.744146,Cabo Verde,0.0055,5.5
+,,B73,Tarrafal,50%FC,R104,L2,1,2,Colonato,15.254874,-23.744146,Cabo Verde,0.0196,19.6
+,,B73,Tarrafal,50%FC,R104,L3,1,2,Colonato,15.254874,-23.744146,Cabo Verde,0.0693,69.3
+,,B73,Tarrafal,50%FC,R104,L4,1,2,Colonato,15.254874,-23.744146,Cabo Verde,0.0975,97.5
+,,B73,Tarrafal,50%FC,R104,L5,1,2,Colonato,15.254874,-23.744146,Cabo Verde,0.0522,52.2
+,,B73,Tarrafal,50%FC,R104,Stem,1,2,Colonato,15.254874,-23.744146,Cabo Verde,0.1639,163.9
+,,B73,Tarrafal,50%FC,R105,L1,12,2,Colonato,15.254874,-23.744146,Cabo Verde,0.006,6
+,,B73,Tarrafal,50%FC,R105,L2,12,2,Colonato,15.254874,-23.744146,Cabo Verde,0.0211,21.1
+,,B73,Tarrafal,50%FC,R105,L3,12,2,Colonato,15.254874,-23.744146,Cabo Verde,0.0529,52.9
+,,B73,Tarrafal,50%FC,R105,L4,12,2,Colonato,15.254874,-23.744146,Cabo Verde,0.1035,103.5
+,,B73,Tarrafal,50%FC,R105,L5,12,2,Colonato,15.254874,-23.744146,Cabo Verde,0.1144,114.4
+,,B73,Tarrafal,50%FC,R105,L6,12,2,Colonato,15.254874,-23.744146,Cabo Verde,0.029,29
+,,B73,Tarrafal,50%FC,R105,Stem,12,2,Colonato,15.254874,-23.744146,Cabo Verde,0.2554,255.4
+,,B73,Tarrafal,50%FC,R106,L1,2,2,Colonato,15.254874,-23.744146,Cabo Verde,0.0068,6.8
+,,B73,Tarrafal,50%FC,R106,L2,2,2,Colonato,15.254874,-23.744146,Cabo Verde,0.0218,21.8
+,,B73,Tarrafal,50%FC,R106,L3,2,2,Colonato,15.254874,-23.744146,Cabo Verde,0.0654,65.4
+,,B73,Tarrafal,50%FC,R106,L4,2,2,Colonato,15.254874,-23.744146,Cabo Verde,0.0765,76.5
+,,B73,Tarrafal,50%FC,R106,L5,2,2,Colonato,15.254874,-23.744146,Cabo Verde,0.0437,43.7
+,,B73,Tarrafal,50%FC,R106,Stem,2,2,Colonato,15.254874,-23.744146,Cabo Verde,0.1609,160.9
+,,B73,Tarrafal,50%FC,R107,L1,13,2,Colonato,15.254874,-23.744146,Cabo Verde,0.0073,7.3
+,,B73,Tarrafal,50%FC,R107,L2,13,2,Colonato,15.254874,-23.744146,Cabo Verde,0.0186,18.6
+,,B73,Tarrafal,50%FC,R107,L3,13,2,Colonato,15.254874,-23.744146,Cabo Verde,0.0616,61.6
+,,B73,Tarrafal,50%FC,R107,L4,13,2,Colonato,15.254874,-23.744146,Cabo Verde,0.0846,84.6
+,,B73,Tarrafal,50%FC,R107,L5,13,2,Colonato,15.254874,-23.744146,Cabo Verde,0.0469,46.9
+,,B73,Tarrafal,50%FC,R107,Stem,13,2,Colonato,15.254874,-23.744146,Cabo Verde,0.1808,180.8
+,,B73,Tarrafal,50%FC,R108,L1,5,2,Colonato,15.254874,-23.744146,Cabo Verde,0.0072,7.2
+,,B73,Tarrafal,50%FC,R108,L2,5,2,Colonato,15.254874,-23.744146,Cabo Verde,0.0207,20.7
+,,B73,Tarrafal,50%FC,R108,L3,5,2,Colonato,15.254874,-23.744146,Cabo Verde,0.0509,50.9
+,,B73,Tarrafal,50%FC,R108,L4,5,2,Colonato,15.254874,-23.744146,Cabo Verde,0.0834,83.4
+,,B73,Tarrafal,50%FC,R108,L5,5,2,Colonato,15.254874,-23.744146,Cabo Verde,0.0964,96.4
+,,B73,Tarrafal,50%FC,R108,L6,5,2,Colonato,15.254874,-23.744146,Cabo Verde,0.0373,37.3
+,,B73,Tarrafal,50%FC,R108,Stem,5,2,Colonato,15.254874,-23.744146,Cabo Verde,0.2322,232.2
+,,Zm523,Sao Domingos,50%FC,R89,L1,3,2,Ribeira São Domingos (Nora),15.018798,-23.548427,Cabo Verde,0.0178,17.8
+,,Zm523,Sao Domingos,50%FC,R89,L2,3,2,Ribeira São Domingos (Nora),15.018798,-23.548427,Cabo Verde,0.0503,50.3
+,,Zm523,Sao Domingos,50%FC,R89,L3,3,2,Ribeira São Domingos (Nora),15.018798,-23.548427,Cabo Verde,0.112,112
+,,Zm523,Sao Domingos,50%FC,R89,L4,3,2,Ribeira São Domingos (Nora),15.018798,-23.548427,Cabo Verde,0.1187,118.7
+,,Zm523,Sao Domingos,50%FC,R89,L5,3,2,Ribeira São Domingos (Nora),15.018798,-23.548427,Cabo Verde,0.0653,65.3
+,,Zm523,Sao Domingos,50%FC,R89,Stem,3,2,Ribeira São Domingos (Nora),15.018798,-23.548427,Cabo Verde,0.261,261
+,,Zm523,Sao Domingos,50%FC,R90,L1,3,2,Ribeira São Domingos (Nora),15.018798,-23.548427,Cabo Verde,0.01,10
+,,Zm523,Sao Domingos,50%FC,R90,L2,3,2,Ribeira São Domingos (Nora),15.018798,-23.548427,Cabo Verde,0.0349,34.9
+,,Zm523,Sao Domingos,50%FC,R90,L3,3,2,Ribeira São Domingos (Nora),15.018798,-23.548427,Cabo Verde,0.1012,101.2
+,,Zm523,Sao Domingos,50%FC,R90,L4,3,2,Ribeira São Domingos (Nora),15.018798,-23.548427,Cabo Verde,0.1702,170.2
+,,Zm523,Sao Domingos,50%FC,R90,L5,3,2,Ribeira São Domingos (Nora),15.018798,-23.548427,Cabo Verde,0.0864,86.4
+,,Zm523,Sao Domingos,50%FC,R90,L6,3,2,Ribeira São Domingos (Nora),15.018798,-23.548427,Cabo Verde,0.0113,11.3
+,,Zm523,Sao Domingos,50%FC,R90,Stem,3,2,Ribeira São Domingos (Nora),15.018798,-23.548427,Cabo Verde,0.2486,248.6
+,,Zm523,Sao Domingos,50%FC,R91,L1,1,2,Ribeira São Domingos (Nora),15.018798,-23.548427,Cabo Verde,0.0112,11.2
+,,Zm523,Sao Domingos,50%FC,R91,L2,1,2,Ribeira São Domingos (Nora),15.018798,-23.548427,Cabo Verde,0.0379,37.9
+,,Zm523,Sao Domingos,50%FC,R91,L3,1,2,Ribeira São Domingos (Nora),15.018798,-23.548427,Cabo Verde,0.1019,101.9
+,,Zm523,Sao Domingos,50%FC,R91,L4,1,2,Ribeira São Domingos (Nora),15.018798,-23.548427,Cabo Verde,0.1387,138.7
+,,Zm523,Sao Domingos,50%FC,R91,L5,1,2,Ribeira São Domingos (Nora),15.018798,-23.548427,Cabo Verde,0.0549,54.9
+,,Zm523,Sao Domingos,50%FC,R91,L6,1,2,Ribeira São Domingos (Nora),15.018798,-23.548427,Cabo Verde,0.0039,3.9
+,,Zm523,Sao Domingos,50%FC,R91,Stem,1,2,Ribeira São Domingos (Nora),15.018798,-23.548427,Cabo Verde,0.3595,359.5
+,,Zm523,Sao Domingos,50%FC,R92,L1,8,2,Ribeira São Domingos (Nora),15.018798,-23.548427,Cabo Verde,0.0072,7.2
+,,Zm523,Sao Domingos,50%FC,R92,L2,8,2,Ribeira São Domingos (Nora),15.018798,-23.548427,Cabo Verde,0.0445,44.5
+,,Zm523,Sao Domingos,50%FC,R92,L3,8,2,Ribeira São Domingos (Nora),15.018798,-23.548427,Cabo Verde,0.1068,106.8
+,,Zm523,Sao Domingos,50%FC,R92,L4,8,2,Ribeira São Domingos (Nora),15.018798,-23.548427,Cabo Verde,0.1843,184.3
+,,Zm523,Sao Domingos,50%FC,R92,L5,8,2,Ribeira São Domingos (Nora),15.018798,-23.548427,Cabo Verde,0.0957,95.7
+,,Zm523,Sao Domingos,50%FC,R92,L6,8,2,Ribeira São Domingos (Nora),15.018798,-23.548427,Cabo Verde,0.0095,9.5
+,,Zm523,Sao Domingos,50%FC,R92,Stem,8,2,Ribeira São Domingos (Nora),15.018798,-23.548427,Cabo Verde,0.3271,327.1
+,,Zm523,Sao Domingos,50%FC,R93,L1,7,2,Ribeira São Domingos (Nora),15.018798,-23.548427,Cabo Verde,0.0167,16.7
+,,Zm523,Sao Domingos,50%FC,R93,L2,7,2,Ribeira São Domingos (Nora),15.018798,-23.548427,Cabo Verde,0.0558,55.8
+,,Zm523,Sao Domingos,50%FC,R93,L3,7,2,Ribeira São Domingos (Nora),15.018798,-23.548427,Cabo Verde,0.142,142
+,,Zm523,Sao Domingos,50%FC,R93,L4,7,2,Ribeira São Domingos (Nora),15.018798,-23.548427,Cabo Verde,0.1517,151.7
+,,Zm523,Sao Domingos,50%FC,R93,L5,7,2,Ribeira São Domingos (Nora),15.018798,-23.548427,Cabo Verde,0.0794,79.4
+,,Zm523,Sao Domingos,50%FC,R93,Stem,7,2,Ribeira São Domingos (Nora),15.018798,-23.548427,Cabo Verde,0.4241,424.1
+,,B73,Sao Domingos,50%FC,R109,L1,10,2,Ribeira São Domingos (Nora),15.018798,-23.548427,Cabo Verde,0.0078,7.8
+,,B73,Sao Domingos,50%FC,R109,L2,10,2,Ribeira São Domingos (Nora),15.018798,-23.548427,Cabo Verde,0.0279,27.9
+,,B73,Sao Domingos,50%FC,R109,L3,10,2,Ribeira São Domingos (Nora),15.018798,-23.548427,Cabo Verde,0.0747,74.7
+,,B73,Sao Domingos,50%FC,R109,L4,10,2,Ribeira São Domingos (Nora),15.018798,-23.548427,Cabo Verde,0.1268,126.8
+,,B73,Sao Domingos,50%FC,R109,L5,10,2,Ribeira São Domingos (Nora),15.018798,-23.548427,Cabo Verde,0.0878,87.8
+,,B73,Sao Domingos,50%FC,R109,L6,10,2,Ribeira São Domingos (Nora),15.018798,-23.548427,Cabo Verde,0.0031,3.1
+,,B73,Sao Domingos,50%FC,R109,Stem,10,2,Ribeira São Domingos (Nora),15.018798,-23.548427,Cabo Verde,0.2559,255.9
+,,B73,Sao Domingos,50%FC,R110,L1,3,2,Ribeira São Domingos (Nora),15.018798,-23.548427,Cabo Verde,0.0093,9.3
+,,B73,Sao Domingos,50%FC,R110,L2,3,2,Ribeira São Domingos (Nora),15.018798,-23.548427,Cabo Verde,0.0277,27.7
+,,B73,Sao Domingos,50%FC,R110,L3,3,2,Ribeira São Domingos (Nora),15.018798,-23.548427,Cabo Verde,0.0636,63.6
+,,B73,Sao Domingos,50%FC,R110,L4,3,2,Ribeira São Domingos (Nora),15.018798,-23.548427,Cabo Verde,0.1402,140.2
+,,B73,Sao Domingos,50%FC,R110,L5,3,2,Ribeira São Domingos (Nora),15.018798,-23.548427,Cabo Verde,0.1436,143.6
+,,B73,Sao Domingos,50%FC,R110,L6,3,2,Ribeira São Domingos (Nora),15.018798,-23.548427,Cabo Verde,0.064,64
+,,B73,Sao Domingos,50%FC,R110,Stem,3,2,Ribeira São Domingos (Nora),15.018798,-23.548427,Cabo Verde,0.3217,321.7
+,,B73,Sao Domingos,50%FC,R111,L1,3,2,Ribeira São Domingos (Nora),15.018798,-23.548427,Cabo Verde,0.0106,10.6
+,,B73,Sao Domingos,50%FC,R111,L2,3,2,Ribeira São Domingos (Nora),15.018798,-23.548427,Cabo Verde,0.0285,28.5
+,,B73,Sao Domingos,50%FC,R111,L3,3,2,Ribeira São Domingos (Nora),15.018798,-23.548427,Cabo Verde,0.0779,77.9
+,,B73,Sao Domingos,50%FC,R111,L4,3,2,Ribeira São Domingos (Nora),15.018798,-23.548427,Cabo Verde,0.139,139
+,,B73,Sao Domingos,50%FC,R111,L5,3,2,Ribeira São Domingos (Nora),15.018798,-23.548427,Cabo Verde,0.0671,67.1
+,,B73,Sao Domingos,50%FC,R111,L6,3,2,Ribeira São Domingos (Nora),15.018798,-23.548427,Cabo Verde,0.0065,6.5
+,,B73,Sao Domingos,50%FC,R111,Stem,3,2,Ribeira São Domingos (Nora),15.018798,-23.548427,Cabo Verde,0.222,222
+,,B73,Sao Domingos,50%FC,R112,L1,12,2,Ribeira São Domingos (Nora),15.018798,-23.548427,Cabo Verde,0.0056,5.6
+,,B73,Sao Domingos,50%FC,R112,L2,12,2,Ribeira São Domingos (Nora),15.018798,-23.548427,Cabo Verde,0.0263,26.3
+,,B73,Sao Domingos,50%FC,R112,L3,12,2,Ribeira São Domingos (Nora),15.018798,-23.548427,Cabo Verde,0.0646,64.6
+,,B73,Sao Domingos,50%FC,R112,L4,12,2,Ribeira São Domingos (Nora),15.018798,-23.548427,Cabo Verde,0.1234,123.4
+,,B73,Sao Domingos,50%FC,R112,L5,12,2,Ribeira São Domingos (Nora),15.018798,-23.548427,Cabo Verde,0.1491,149.1
+,,B73,Sao Domingos,50%FC,R112,L6,12,2,Ribeira São Domingos (Nora),15.018798,-23.548427,Cabo Verde,0.0719,71.9
+,,B73,Sao Domingos,50%FC,R112,Stem,12,2,Ribeira São Domingos (Nora),15.018798,-23.548427,Cabo Verde,0.3725,372.5
+,,B73,Sao Domingos,50%FC,R113,L1,9,2,Ribeira São Domingos (Nora),15.018798,-23.548427,Cabo Verde,0.0079,7.9
+,,B73,Sao Domingos,50%FC,R113,L2,9,2,Ribeira São Domingos (Nora),15.018798,-23.548427,Cabo Verde,0.0252,25.2
+,,B73,Sao Domingos,50%FC,R113,L3,9,2,Ribeira São Domingos (Nora),15.018798,-23.548427,Cabo Verde,0.0615,61.5
+,,B73,Sao Domingos,50%FC,R113,L4,9,2,Ribeira São Domingos (Nora),15.018798,-23.548427,Cabo Verde,0.1316,131.6
+,,B73,Sao Domingos,50%FC,R113,L5,9,2,Ribeira São Domingos (Nora),15.018798,-23.548427,Cabo Verde,0.1479,147.9
+,,B73,Sao Domingos,50%FC,R113,L6,9,2,Ribeira São Domingos (Nora),15.018798,-23.548427,Cabo Verde,0.0766,76.6
+,,B73,Sao Domingos,50%FC,R113,Stem,9,2,Ribeira São Domingos (Nora),15.018798,-23.548427,Cabo Verde,0.3979,397.9
+,,Zm523,Sutton Bonington,50%FC,R94,L1,12,2,Sutton Bonington,52.833265,-1.24906,UK,0.0082,8.2
+,,Zm523,Sutton Bonington,50%FC,R94,L2,12,2,Sutton Bonington,52.833265,-1.24906,UK,0.0273,27.3
+,,Zm523,Sutton Bonington,50%FC,R94,L3,12,2,Sutton Bonington,52.833265,-1.24906,UK,0.0845,84.5
+,,Zm523,Sutton Bonington,50%FC,R94,L4,12,2,Sutton Bonington,52.833265,-1.24906,UK,0.1839,183.9
+,,Zm523,Sutton Bonington,50%FC,R94,L5,12,2,Sutton Bonington,52.833265,-1.24906,UK,0.1753,175.3
+,,Zm523,Sutton Bonington,50%FC,R94,L6,12,2,Sutton Bonington,52.833265,-1.24906,UK,0.0784,78.4
+,,Zm523,Sutton Bonington,50%FC,R94,Stem,12,2,Sutton Bonington,52.833265,-1.24906,UK,0.3883,388.3
+,,Zm523,Sutton Bonington,50%FC,R95,L1,5,2,Sutton Bonington,52.833265,-1.24906,UK,0.0236,23.6
+,,Zm523,Sutton Bonington,50%FC,R95,L2,5,2,Sutton Bonington,52.833265,-1.24906,UK,0.0626,62.6
+,,Zm523,Sutton Bonington,50%FC,R95,L3,5,2,Sutton Bonington,52.833265,-1.24906,UK,0.1277,127.7
+,,Zm523,Sutton Bonington,50%FC,R95,L4,5,2,Sutton Bonington,52.833265,-1.24906,UK,0.2055,205.5
+,,Zm523,Sutton Bonington,50%FC,R95,L5,5,2,Sutton Bonington,52.833265,-1.24906,UK,0.098,98
+,,Zm523,Sutton Bonington,50%FC,R95,L6,5,2,Sutton Bonington,52.833265,-1.24906,UK,0.006,6
+,,Zm523,Sutton Bonington,50%FC,R95,Stem,5,2,Sutton Bonington,52.833265,-1.24906,UK,0.2682,268.2
+,,Zm523,Sutton Bonington,50%FC,R96,L1,6,2,Sutton Bonington,52.833265,-1.24906,UK,0.0119,11.9
+,,Zm523,Sutton Bonington,50%FC,R96,L2,6,2,Sutton Bonington,52.833265,-1.24906,UK,0.0396,39.6
+,,Zm523,Sutton Bonington,50%FC,R96,L3,6,2,Sutton Bonington,52.833265,-1.24906,UK,0.0978,97.8
+,,Zm523,Sutton Bonington,50%FC,R96,L4,6,2,Sutton Bonington,52.833265,-1.24906,UK,0.1926,192.6
+,,Zm523,Sutton Bonington,50%FC,R96,L5,6,2,Sutton Bonington,52.833265,-1.24906,UK,0.1227,122.7
+,,Zm523,Sutton Bonington,50%FC,R96,L6,6,2,Sutton Bonington,52.833265,-1.24906,UK,0.0169,16.9
+,,Zm523,Sutton Bonington,50%FC,R96,Stem,6,2,Sutton Bonington,52.833265,-1.24906,UK,0.346,346
+,,Zm523,Sutton Bonington,50%FC,R97,L1,6,2,Sutton Bonington,52.833265,-1.24906,UK,0.011,11
+,,Zm523,Sutton Bonington,50%FC,R97,L2,6,2,Sutton Bonington,52.833265,-1.24906,UK,0.0402,40.2
+,,Zm523,Sutton Bonington,50%FC,R97,L3,6,2,Sutton Bonington,52.833265,-1.24906,UK,0.0983,98.3
+,,Zm523,Sutton Bonington,50%FC,R97,L4,6,2,Sutton Bonington,52.833265,-1.24906,UK,0.1808,180.8
+,,Zm523,Sutton Bonington,50%FC,R97,L5,6,2,Sutton Bonington,52.833265,-1.24906,UK,0.1558,155.8
+,,Zm523,Sutton Bonington,50%FC,R97,L6,6,2,Sutton Bonington,52.833265,-1.24906,UK,0.0357,35.7
+,,Zm523,Sutton Bonington,50%FC,R97,Stem,6,2,Sutton Bonington,52.833265,-1.24906,UK,0.291,291
+,,Zm523,Sutton Bonington,50%FC,R98,L1,11,2,Sutton Bonington,52.833265,-1.24906,UK,0.005,5
+,,Zm523,Sutton Bonington,50%FC,R98,L2,11,2,Sutton Bonington,52.833265,-1.24906,UK,0.0189,18.9
+,,Zm523,Sutton Bonington,50%FC,R98,L3,11,2,Sutton Bonington,52.833265,-1.24906,UK,0.049,49
+,,Zm523,Sutton Bonington,50%FC,R98,L4,11,2,Sutton Bonington,52.833265,-1.24906,UK,0.1093,109.3
+,,Zm523,Sutton Bonington,50%FC,R98,L5,11,2,Sutton Bonington,52.833265,-1.24906,UK,0.1306,130.6
+,,Zm523,Sutton Bonington,50%FC,R98,L6,11,2,Sutton Bonington,52.833265,-1.24906,UK,0.1057,105.7
+,,Zm523,Sutton Bonington,50%FC,R98,Stem,11,2,Sutton Bonington,52.833265,-1.24906,UK,0.2802,280.2
+,,Zm523,Sutton Bonington,20%FC,R99,L1,2,2,Sutton Bonington,52.833265,-1.24906,UK,0.0074,7.4
+,,Zm523,Sutton Bonington,20%FC,R99,L2,2,2,Sutton Bonington,52.833265,-1.24906,UK,0.0321,32.1
+,,Zm523,Sutton Bonington,20%FC,R99,L3,2,2,Sutton Bonington,52.833265,-1.24906,UK,0.0971,97.1
+,,Zm523,Sutton Bonington,20%FC,R99,L4,2,2,Sutton Bonington,52.833265,-1.24906,UK,0.1358,135.8
+,,Zm523,Sutton Bonington,20%FC,R99,L5,2,2,Sutton Bonington,52.833265,-1.24906,UK,0.0608,60.8
+,,Zm523,Sutton Bonington,20%FC,R99,Stem,2,2,Sutton Bonington,52.833265,-1.24906,UK,0.217,217
+,,Zm523,Sutton Bonington,20%FC,R100,L1,3,2,Sutton Bonington,52.833265,-1.24906,UK,0.0092,9.2
+,,Zm523,Sutton Bonington,20%FC,R100,L2,3,2,Sutton Bonington,52.833265,-1.24906,UK,0.0318,31.8
+,,Zm523,Sutton Bonington,20%FC,R100,L3,3,2,Sutton Bonington,52.833265,-1.24906,UK,0.0585,58.5
+,,Zm523,Sutton Bonington,20%FC,R100,L4,3,2,Sutton Bonington,52.833265,-1.24906,UK,0.0696,69.6
+,,Zm523,Sutton Bonington,20%FC,R100,L5,3,2,Sutton Bonington,52.833265,-1.24906,UK,0.0417,41.7
+,,Zm523,Sutton Bonington,20%FC,R100,Stem,3,2,Sutton Bonington,52.833265,-1.24906,UK,0.1268,126.8
+,,Zm523,Sutton Bonington,20%FC,R101,L1,3,2,Sutton Bonington,52.833265,-1.24906,UK,0.007,7
+,,Zm523,Sutton Bonington,20%FC,R101,L2,3,2,Sutton Bonington,52.833265,-1.24906,UK,0.0249,24.9
+,,Zm523,Sutton Bonington,20%FC,R101,L3,3,2,Sutton Bonington,52.833265,-1.24906,UK,0.0457,45.7
+,,Zm523,Sutton Bonington,20%FC,R101,L4,3,2,Sutton Bonington,52.833265,-1.24906,UK,0.0784,78.4
+,,Zm523,Sutton Bonington,20%FC,R101,L5,3,2,Sutton Bonington,52.833265,-1.24906,UK,0.0768,76.8
+,,Zm523,Sutton Bonington,20%FC,R101,L6,3,2,Sutton Bonington,52.833265,-1.24906,UK,0.0251,25.1
+,,Zm523,Sutton Bonington,20%FC,R101,Stem,3,2,Sutton Bonington,52.833265,-1.24906,UK,0.1523,152.3
+,,Zm523,Sutton Bonington,20%FC,R102,L1,2,2,Sutton Bonington,52.833265,-1.24906,UK,0.0072,7.2
+,,Zm523,Sutton Bonington,20%FC,R102,L2,2,2,Sutton Bonington,52.833265,-1.24906,UK,0.025,25
+,,Zm523,Sutton Bonington,20%FC,R102,L3,2,2,Sutton Bonington,52.833265,-1.24906,UK,0.0567,56.7
+,,Zm523,Sutton Bonington,20%FC,R102,L4,2,2,Sutton Bonington,52.833265,-1.24906,UK,0.0525,52.5
+,,Zm523,Sutton Bonington,20%FC,R102,L5,2,2,Sutton Bonington,52.833265,-1.24906,UK,0.0113,11.3
+,,Zm523,Sutton Bonington,20%FC,R102,Stem,2,2,Sutton Bonington,52.833265,-1.24906,UK,0.0934,93.4
+,,Zm523,Sutton Bonington,20%FC,R103,L1,4,2,Sutton Bonington,52.833265,-1.24906,UK,0.0107,10.7
+,,Zm523,Sutton Bonington,20%FC,R103,L2,4,2,Sutton Bonington,52.833265,-1.24906,UK,0.0298,29.8
+,,Zm523,Sutton Bonington,20%FC,R103,L3,4,2,Sutton Bonington,52.833265,-1.24906,UK,0.0686,68.6
+,,Zm523,Sutton Bonington,20%FC,R103,L4,4,2,Sutton Bonington,52.833265,-1.24906,UK,0.0941,94.1
+,,Zm523,Sutton Bonington,20%FC,R103,L5,4,2,Sutton Bonington,52.833265,-1.24906,UK,0.0669,66.9
+,,Zm523,Sutton Bonington,20%FC,R103,L6,4,2,Sutton Bonington,52.833265,-1.24906,UK,0.0185,18.5
+,,Zm523,Sutton Bonington,20%FC,R103,Stem,4,2,Sutton Bonington,52.833265,-1.24906,UK,0.2094,209.4
+,,B73,Sutton Bonington,50%FC,R114,L1,11,2,Sutton Bonington,52.833265,-1.24906,UK,0.0117,11.7
+,,B73,Sutton Bonington,50%FC,R114,L2,11,2,Sutton Bonington,52.833265,-1.24906,UK,0.0366,36.6
+,,B73,Sutton Bonington,50%FC,R114,L3,11,2,Sutton Bonington,52.833265,-1.24906,UK,0.1089,108.9
+,,B73,Sutton Bonington,50%FC,R114,L4,11,2,Sutton Bonington,52.833265,-1.24906,UK,0.1774,177.4
+,,B73,Sutton Bonington,50%FC,R114,L5,11,2,Sutton Bonington,52.833265,-1.24906,UK,0.1127,112.7
+,,B73,Sutton Bonington,50%FC,R114,L6,11,2,Sutton Bonington,52.833265,-1.24906,UK,0.0146,14.6
+,,B73,Sutton Bonington,50%FC,R114,Stem,11,2,Sutton Bonington,52.833265,-1.24906,UK,0.3843,384.3
+,,B73,Sutton Bonington,50%FC,R115,L1,4,2,Sutton Bonington,52.833265,-1.24906,UK,0.0086,8.6
+,,B73,Sutton Bonington,50%FC,R115,L2,4,2,Sutton Bonington,52.833265,-1.24906,UK,0.0265,26.5
+,,B73,Sutton Bonington,50%FC,R115,L3,4,2,Sutton Bonington,52.833265,-1.24906,UK,0.0692,69.2
+,,B73,Sutton Bonington,50%FC,R115,L4,4,2,Sutton Bonington,52.833265,-1.24906,UK,0.1614,161.4
+,,B73,Sutton Bonington,50%FC,R115,L5,4,2,Sutton Bonington,52.833265,-1.24906,UK,0.1922,192.2
+,,B73,Sutton Bonington,50%FC,R115,L6,4,2,Sutton Bonington,52.833265,-1.24906,UK,0.1519,151.9
+,,B73,Sutton Bonington,50%FC,R115,Stem,4,2,Sutton Bonington,52.833265,-1.24906,UK,0.4001,400.1
+,,B73,Sutton Bonington,50%FC,R116,L1,7,2,Sutton Bonington,52.833265,-1.24906,UK,0.005,5
+,,B73,Sutton Bonington,50%FC,R116,L2,7,2,Sutton Bonington,52.833265,-1.24906,UK,0.0192,19.2
+,,B73,Sutton Bonington,50%FC,R116,L3,7,2,Sutton Bonington,52.833265,-1.24906,UK,0.0637,63.7
+,,B73,Sutton Bonington,50%FC,R116,L4,7,2,Sutton Bonington,52.833265,-1.24906,UK,0.1386,138.6
+,,B73,Sutton Bonington,50%FC,R116,L5,7,2,Sutton Bonington,52.833265,-1.24906,UK,0.1725,172.5
+,,B73,Sutton Bonington,50%FC,R116,L6,7,2,Sutton Bonington,52.833265,-1.24906,UK,0.068,68
+,,B73,Sutton Bonington,50%FC,R116,Stem,7,2,Sutton Bonington,52.833265,-1.24906,UK,0.2485,248.5
+,,B73,Sutton Bonington,50%FC,R117,L1,7,2,Sutton Bonington,52.833265,-1.24906,UK,0.0116,11.6
+,,B73,Sutton Bonington,50%FC,R117,L2,7,2,Sutton Bonington,52.833265,-1.24906,UK,0.0408,40.8
+,,B73,Sutton Bonington,50%FC,R117,L3,7,2,Sutton Bonington,52.833265,-1.24906,UK,0.1032,103.2
+,,B73,Sutton Bonington,50%FC,R117,L4,7,2,Sutton Bonington,52.833265,-1.24906,UK,0.1782,178.2
+,,B73,Sutton Bonington,50%FC,R117,L5,7,2,Sutton Bonington,52.833265,-1.24906,UK,0.1177,117.7
+,,B73,Sutton Bonington,50%FC,R117,L6,7,2,Sutton Bonington,52.833265,-1.24906,UK,0.0205,20.5
+,,B73,Sutton Bonington,50%FC,R117,Stem,7,2,Sutton Bonington,52.833265,-1.24906,UK,0.257,257
+,,B73,Sutton Bonington,50%FC,R118,L1,10,2,Sutton Bonington,52.833265,-1.24906,UK,0.0077,7.7
+,,B73,Sutton Bonington,50%FC,R118,L2,10,2,Sutton Bonington,52.833265,-1.24906,UK,0.026,26
+,,B73,Sutton Bonington,50%FC,R118,L3,10,2,Sutton Bonington,52.833265,-1.24906,UK,0.0815,81.5
+,,B73,Sutton Bonington,50%FC,R118,L4,10,2,Sutton Bonington,52.833265,-1.24906,UK,0.1518,151.8
+,,B73,Sutton Bonington,50%FC,R118,L5,10,2,Sutton Bonington,52.833265,-1.24906,UK,0.1737,173.7
+,,B73,Sutton Bonington,50%FC,R118,L6,10,2,Sutton Bonington,52.833265,-1.24906,UK,0.0595,59.5
+,,B73,Sutton Bonington,50%FC,R118,Stem,10,2,Sutton Bonington,52.833265,-1.24906,UK,0.3091,309.1
+,,B73,Sutton Bonington,20%FC,R119,L1,1,2,Sutton Bonington,52.833265,-1.24906,UK,0.04,40
+,,B73,Sutton Bonington,20%FC,R119,L2,1,2,Sutton Bonington,52.833265,-1.24906,UK,0.0282,28.2
+,,B73,Sutton Bonington,20%FC,R119,L3,1,2,Sutton Bonington,52.833265,-1.24906,UK,0.0676,67.6
+,,B73,Sutton Bonington,20%FC,R119,L4,1,2,Sutton Bonington,52.833265,-1.24906,UK,0.1116,111.6
+,,B73,Sutton Bonington,20%FC,R119,L5,1,2,Sutton Bonington,52.833265,-1.24906,UK,0.0983,98.3
+,,B73,Sutton Bonington,20%FC,R119,L6,1,2,Sutton Bonington,52.833265,-1.24906,UK,0.0288,28.8
+,,B73,Sutton Bonington,20%FC,R119,Stem,1,2,Sutton Bonington,52.833265,-1.24906,UK,0.2025,202.5
+,,B73,Sutton Bonington,20%FC,R120,L1,5,2,Sutton Bonington,52.833265,-1.24906,UK,0.0065,6.5
+,,B73,Sutton Bonington,20%FC,R120,L2,5,2,Sutton Bonington,52.833265,-1.24906,UK,0.0205,20.5
+,,B73,Sutton Bonington,20%FC,R120,L3,5,2,Sutton Bonington,52.833265,-1.24906,UK,0.0555,55.5
+,,B73,Sutton Bonington,20%FC,R120,L4,5,2,Sutton Bonington,52.833265,-1.24906,UK,0.1002,100.2
+,,B73,Sutton Bonington,20%FC,R120,L5,5,2,Sutton Bonington,52.833265,-1.24906,UK,0.1006,100.6
+,,B73,Sutton Bonington,20%FC,R120,L6,5,2,Sutton Bonington,52.833265,-1.24906,UK,0.0459,45.9
+,,B73,Sutton Bonington,20%FC,R120,Stem,5,2,Sutton Bonington,52.833265,-1.24906,UK,0.185,185
+,,B73,Sutton Bonington,20%FC,R121,L1,10,2,Sutton Bonington,52.833265,-1.24906,UK,0.0056,5.6
+,,B73,Sutton Bonington,20%FC,R121,L2,10,2,Sutton Bonington,52.833265,-1.24906,UK,0.0203,20.3
+,,B73,Sutton Bonington,20%FC,R121,L3,10,2,Sutton Bonington,52.833265,-1.24906,UK,0.0475,47.5
+,,B73,Sutton Bonington,20%FC,R121,L4,10,2,Sutton Bonington,52.833265,-1.24906,UK,0.0923,92.3
+,,B73,Sutton Bonington,20%FC,R121,L5,10,2,Sutton Bonington,52.833265,-1.24906,UK,0.1078,107.8
+,,B73,Sutton Bonington,20%FC,R121,L6,10,2,Sutton Bonington,52.833265,-1.24906,UK,0.0507,50.7
+,,B73,Sutton Bonington,20%FC,R121,Stem,10,2,Sutton Bonington,52.833265,-1.24906,UK,0.1983,198.3
+,,B73,Sutton Bonington,20%FC,R122,L1,1,2,Sutton Bonington,52.833265,-1.24906,UK,0.0056,5.6
+,,B73,Sutton Bonington,20%FC,R122,L2,1,2,Sutton Bonington,52.833265,-1.24906,UK,0.0205,20.5
+,,B73,Sutton Bonington,20%FC,R122,L3,1,2,Sutton Bonington,52.833265,-1.24906,UK,0.0575,57.5
+,,B73,Sutton Bonington,20%FC,R122,L4,1,2,Sutton Bonington,52.833265,-1.24906,UK,0.1006,100.6
+,,B73,Sutton Bonington,20%FC,R122,L5,1,2,Sutton Bonington,52.833265,-1.24906,UK,0.0849,84.9
+,,B73,Sutton Bonington,20%FC,R122,L6,1,2,Sutton Bonington,52.833265,-1.24906,UK,0.0216,21.6
+,,B73,Sutton Bonington,20%FC,R122,Stem,1,2,Sutton Bonington,52.833265,-1.24906,UK,0.1882,188.2
+,,B73,Sutton Bonington,20%FC,R123,L1,13,2,Sutton Bonington,52.833265,-1.24906,UK,0.0056,5.6
+,,B73,Sutton Bonington,20%FC,R123,L2,13,2,Sutton Bonington,52.833265,-1.24906,UK,0.0196,19.6
+,,B73,Sutton Bonington,20%FC,R123,L3,13,2,Sutton Bonington,52.833265,-1.24906,UK,0.054,54
+,,B73,Sutton Bonington,20%FC,R123,L4,13,2,Sutton Bonington,52.833265,-1.24906,UK,0.0874,87.4
+,,B73,Sutton Bonington,20%FC,R123,L5,13,2,Sutton Bonington,52.833265,-1.24906,UK,0.0638,63.8
+,,B73,Sutton Bonington,20%FC,R123,L6,13,2,Sutton Bonington,52.833265,-1.24906,UK,0.0078,7.8
+,,B73,Sutton Bonington,20%FC,R123,Stem,13,2,Sutton Bonington,52.833265,-1.24906,UK,0.1206,120.6
