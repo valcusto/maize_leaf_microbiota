@@ -1,0 +1,393 @@
+﻿uid,num_pot,genotype,soil,treatment,id,num_leaf,tray,experiment,region,lat,long,country,leaf_lenght_cm,Genotype,Soil,Treatment,NumLeaf,Experiment,Tray,DADA2_Header,Depth,LDepth,Fractions
+1,1,CVSt,Tarrafal,50%FC,1,L1,2,1,Colonato,15.254874,-23.744146,Cabo Verde,5.141,CVSt,Tarrafal,50FC,L1,Experiment1,Tray2,Plate4MaizeVR1A7,10053,9.215626376,Leaf
+2,1,CVSt,Tarrafal,50%FC,1,L2,2,1,Colonato,15.254874,-23.744146,Cabo Verde,14.266,CVSt,Tarrafal,50FC,L2,Experiment1,Tray2,Plate4MaizeVR1H1,8331,9.027738776,Leaf
+3,1,CVSt,Tarrafal,50%FC,1,L3,2,1,Colonato,15.254874,-23.744146,Cabo Verde,25.594,CVSt,Tarrafal,50FC,L3,Experiment1,Tray2,Plate1MaizeVR1A4,7419,8.911799556,Leaf
+4,1,CVSt,Tarrafal,50%FC,1,L4,2,1,Colonato,15.254874,-23.744146,Cabo Verde,30.006,CVSt,Tarrafal,50FC,L4,Experiment1,Tray2,Plate2MaizeVR1H1,4717,8.458928283,Leaf
+5,1,CVSt,Tarrafal,50%FC,1,L5,2,1,Colonato,15.254874,-23.744146,Cabo Verde,19.183,CVSt,Tarrafal,50FC,L5,Experiment1,Tray2,Plate2MaizeVR1G12,2782,7.930925372,Leaf
+6,1,CVSt,Tarrafal,50%FC,1,L6,2,1,Colonato,15.254874,-23.744146,Cabo Verde,7.142,CVSt,Tarrafal,50FC,L6,Experiment1,Tray2,Plate2MaizeVR1F10,1707,7.442492723,Leaf
+7,2,CVSt,Tarrafal,50%FC,2,L1,11,1,Colonato,15.254874,-23.744146,Cabo Verde,5.404,CVSt,Tarrafal,50FC,L1,Experiment1,Tray11,Plate4MaizeVR1G11,8102,8.999866224,Leaf
+8,2,CVSt,Tarrafal,50%FC,2,L2,11,1,Colonato,15.254874,-23.744146,Cabo Verde,13.383,,,,,,,,,,
+9,2,CVSt,Tarrafal,50%FC,2,L3,11,1,Colonato,15.254874,-23.744146,Cabo Verde,27.738,,,,,,,,,,
+10,2,CVSt,Tarrafal,50%FC,2,L4,11,1,Colonato,15.254874,-23.744146,Cabo Verde,25.841,CVSt,Tarrafal,50FC,L4,Experiment1,Tray11,Plate1MaizeVR1D7,1008,6.915723449,Leaf
+11,2,CVSt,Tarrafal,50%FC,2,L5,11,1,Colonato,15.254874,-23.744146,Cabo Verde,19.201,,,,,,,,,,
+12,2,CVSt,Tarrafal,50%FC,2,L6,11,1,Colonato,15.254874,-23.744146,Cabo Verde,13.068,,,,,,,,,,
+13,3,CVSt,Tarrafal,50%FC,3,L1,1,1,Colonato,15.254874,-23.744146,Cabo Verde,5.506,CVSt,Tarrafal,50FC,L1,Experiment1,Tray1,Plate3MaizeVR1D2,34832,10.45829178,Leaf
+14,3,CVSt,Tarrafal,50%FC,3,L2,1,1,Colonato,15.254874,-23.744146,Cabo Verde,17.656,CVSt,Tarrafal,50FC,L2,Experiment1,Tray1,Plate3MaizeVR1E4,9584,9.16785032,Leaf
+15,3,CVSt,Tarrafal,50%FC,3,L3,1,1,Colonato,15.254874,-23.744146,Cabo Verde,29.699,CVSt,Tarrafal,50FC,L3,Experiment1,Tray1,Plate1MaizeVR1H5,1748,7.466227556,Leaf
+16,3,CVSt,Tarrafal,50%FC,3,L4,1,1,Colonato,15.254874,-23.744146,Cabo Verde,28.244,CVSt,Tarrafal,50FC,L4,Experiment1,Tray1,Plate5MaizeVR1H8,19283,9.866979158,Leaf
+17,3,CVSt,Tarrafal,50%FC,3,L5,1,1,Colonato,15.254874,-23.744146,Cabo Verde,15.75,CVSt,Tarrafal,50FC,L5,Experiment1,Tray1,Plate2MaizeVR1F1,2010,7.605890001,Leaf
+18,10,Matuba,Tarrafal,50%FC,10,L1,2,1,Colonato,15.254874,-23.744146,Cabo Verde,1.075,Matuba,Tarrafal,50FC,L1,Experiment1,Tray2,Plate2MaizeVR1B11,11962,9.389490238,Leaf
+19,10,Matuba,Tarrafal,50%FC,10,L2,2,1,Colonato,15.254874,-23.744146,Cabo Verde,5.27,Matuba,Tarrafal,50FC,L2,Experiment1,Tray2,Plate3MaizeVR1A6,16661,9.720825938,Leaf
+20,10,Matuba,Tarrafal,50%FC,10,L3,2,1,Colonato,15.254874,-23.744146,Cabo Verde,21.8,Matuba,Tarrafal,50FC,L3,Experiment1,Tray2,Plate2MaizeVR1G10,1274,7.149916836,Leaf
+21,10,Matuba,Tarrafal,50%FC,10,L4,2,1,Colonato,15.254874,-23.744146,Cabo Verde,30.534,Matuba,Tarrafal,50FC,L4,Experiment1,Tray2,Plate3MaizeVR1B10,2377,7.773594467,Leaf
+22,10,Matuba,Tarrafal,50%FC,10,L5,2,1,Colonato,15.254874,-23.744146,Cabo Verde,17.071,,,,,,,,,,
+23,11,Matuba,Tarrafal,50%FC,11,L1,6,1,Colonato,15.254874,-23.744146,Cabo Verde,3.504,Matuba,Tarrafal,50FC,L1,Experiment1,Tray6,Plate4MaizeVR1G2,2821,7.944846711,Leaf
+24,11,Matuba,Tarrafal,50%FC,11,L2,6,1,Colonato,15.254874,-23.744146,Cabo Verde,11.674,Matuba,Tarrafal,50FC,L2,Experiment1,Tray6,Plate1MaizeVR1H7,34244,10.44126665,Leaf
+25,11,Matuba,Tarrafal,50%FC,11,L3,6,1,Colonato,15.254874,-23.744146,Cabo Verde,23.849,Matuba,Tarrafal,50FC,L3,Experiment1,Tray6,Plate2MaizeVR1D2,22662,10.02844479,Leaf
+26,11,Matuba,Tarrafal,50%FC,11,L4,6,1,Colonato,15.254874,-23.744146,Cabo Verde,26.915,Matuba,Tarrafal,50FC,L4,Experiment1,Tray6,Plate3MaizeVR1H7,4270,8.359369106,Leaf
+27,11,Matuba,Tarrafal,50%FC,11,L5,6,1,Colonato,15.254874,-23.744146,Cabo Verde,11.703,Matuba,Tarrafal,50FC,L5,Experiment1,Tray6,Plate4MaizeVR1B5,1814,7.503289631,Leaf
+28,12,Matuba,Tarrafal,50%FC,12,L1,8,1,Colonato,15.254874,-23.744146,Cabo Verde,NA,,,,,,,,,,
+29,12,Matuba,Tarrafal,50%FC,12,L2,8,1,Colonato,15.254874,-23.744146,Cabo Verde,NA,,,,,,,,,,
+30,12,Matuba,Tarrafal,50%FC,12,L3,8,1,Colonato,15.254874,-23.744146,Cabo Verde,NA,,,,,,,,,,
+31,12,Matuba,Tarrafal,50%FC,12,L4,8,1,Colonato,15.254874,-23.744146,Cabo Verde,NA,,,,,,,,,,
+32,12,Matuba,Tarrafal,50%FC,12,L5,8,1,Colonato,15.254874,-23.744146,Cabo Verde,NA,,,,,,,,,,
+33,49,Zm523,Tarrafal,50%FC,49,L1,9,1,Colonato,15.254874,-23.744146,Cabo Verde,3.49,Zm523,Tarrafal,50FC,L1,Experiment1,Tray9,Plate3MaizeVR1H3,18113,9.804385191,Leaf
+34,49,Zm523,Tarrafal,50%FC,49,L2,9,1,Colonato,15.254874,-23.744146,Cabo Verde,11.305,,,,,,,,,,
+35,49,Zm523,Tarrafal,50%FC,49,L3,9,1,Colonato,15.254874,-23.744146,Cabo Verde,21.795,,,,,,,,,,
+36,49,Zm523,Tarrafal,50%FC,49,L4,9,1,Colonato,15.254874,-23.744146,Cabo Verde,27.034,Zm523,Tarrafal,50FC,L4,Experiment1,Tray9,Plate2MaizeVR1D5,1122,7.022868086,Leaf
+37,49,Zm523,Tarrafal,50%FC,49,L5,9,1,Colonato,15.254874,-23.744146,Cabo Verde,15.434,,,,,,,,,,
+38,50,Zm523,Tarrafal,50%FC,50,L1,8,1,Colonato,15.254874,-23.744146,Cabo Verde,NA,,,,,,,,,,
+39,50,Zm523,Tarrafal,50%FC,50,L2,8,1,Colonato,15.254874,-23.744146,Cabo Verde,NA,,,,,,,,,,
+40,50,Zm523,Tarrafal,50%FC,50,L3,8,1,Colonato,15.254874,-23.744146,Cabo Verde,NA,,,,,,,,,,
+41,50,Zm523,Tarrafal,50%FC,50,L4,8,1,Colonato,15.254874,-23.744146,Cabo Verde,NA,,,,,,,,,,
+42,50,Zm523,Tarrafal,50%FC,50,L5,8,1,Colonato,15.254874,-23.744146,Cabo Verde,NA,,,,,,,,,,
+43,51,Zm523,Tarrafal,50%FC,51,L1,13,1,Colonato,15.254874,-23.744146,Cabo Verde,6.046,Zm523,Tarrafal,50FC,L1,Experiment1,Tray13,Plate2MaizeVR1G11,21803,9.989802854,Leaf
+44,51,Zm523,Tarrafal,50%FC,51,L2,13,1,Colonato,15.254874,-23.744146,Cabo Verde,17.021,Zm523,Tarrafal,50FC,L2,Experiment1,Tray13,Plate1MaizeVR1B2,57111,10.95275202,Leaf
+45,51,Zm523,Tarrafal,50%FC,51,L3,13,1,Colonato,15.254874,-23.744146,Cabo Verde,19.906,Zm523,Tarrafal,50FC,L3,Experiment1,Tray13,Plate2MaizeVR1E6,10195,9.229652683,Leaf
+46,51,Zm523,Tarrafal,50%FC,51,L4,13,1,Colonato,15.254874,-23.744146,Cabo Verde,21.092,Zm523,Tarrafal,50FC,L4,Experiment1,Tray13,Plate2MaizeVR1A5,4207,8.344505084,Leaf
+47,51,Zm523,Tarrafal,50%FC,51,L5,13,1,Colonato,15.254874,-23.744146,Cabo Verde,13.747,Zm523,Tarrafal,50FC,L5,Experiment1,Tray13,Plate2MaizeVR1D11,16801,9.729193687,Leaf
+48,51,Zm523,Tarrafal,50%FC,51,L6,13,1,Colonato,15.254874,-23.744146,Cabo Verde,NA,Zm523,Tarrafal,50FC,L6,Experiment1,Tray13,Plate3MaizeVR1B1,17010,9.741556685,Leaf
+49,58,B73,Tarrafal,50%FC,58,L1,10,1,Colonato,15.254874,-23.744146,Cabo Verde,2.921,B73,Tarrafal,50FC,L1,Experiment1,Tray10,Plate2MaizeVR1B7,2418,7.790696031,Leaf
+50,58,B73,Tarrafal,50%FC,58,L2,10,1,Colonato,15.254874,-23.744146,Cabo Verde,11.017,B73,Tarrafal,50FC,L2,Experiment1,Tray10,Plate5MaizeVR1C7,1723,7.451822237,Leaf
+51,58,B73,Tarrafal,50%FC,58,L3,10,1,Colonato,15.254874,-23.744146,Cabo Verde,19.384,,,,,,,,,,
+52,58,B73,Tarrafal,50%FC,58,L4,10,1,Colonato,15.254874,-23.744146,Cabo Verde,23.211,B73,Tarrafal,50FC,L4,Experiment1,Tray10,Plate4MaizeVR1A3,1221,7.107425474,Leaf
+53,58,B73,Tarrafal,50%FC,58,L5,10,1,Colonato,15.254874,-23.744146,Cabo Verde,12.321,,,,,,,,,,
+54,59,B73,Tarrafal,50%FC,59,L1,5,1,Colonato,15.254874,-23.744146,Cabo Verde,NA,,,,,,,,,,
+55,59,B73,Tarrafal,50%FC,59,L2,5,1,Colonato,15.254874,-23.744146,Cabo Verde,NA,,,,,,,,,,
+56,59,B73,Tarrafal,50%FC,59,L3,5,1,Colonato,15.254874,-23.744146,Cabo Verde,NA,,,,,,,,,,
+57,59,B73,Tarrafal,50%FC,59,L4,5,1,Colonato,15.254874,-23.744146,Cabo Verde,NA,,,,,,,,,,
+58,59,B73,Tarrafal,50%FC,59,L5,5,1,Colonato,15.254874,-23.744146,Cabo Verde,NA,,,,,,,,,,
+60,60,B73,Tarrafal,50%FC,60,L1,13,1,Colonato,15.254874,-23.744146,Cabo Verde,2.172,B73,Tarrafal,50FC,L1,Experiment1,Tray13,Plate3MaizeVR1E6,18976,9.850930302,Leaf
+61,60,B73,Tarrafal,50%FC,60,L2,13,1,Colonato,15.254874,-23.744146,Cabo Verde,12.47,B73,Tarrafal,50FC,L2,Experiment1,Tray13,Plate1MaizeVR1F7,16027,9.682030079,Leaf
+62,60,B73,Tarrafal,50%FC,60,L3,13,1,Colonato,15.254874,-23.744146,Cabo Verde,19.598,B73,Tarrafal,50FC,L3,Experiment1,Tray13,Plate2MaizeVR1B10,3037,8.018625465,Leaf
+63,60,B73,Tarrafal,50%FC,60,L4,13,1,Colonato,15.254874,-23.744146,Cabo Verde,21.21,B73,Tarrafal,50FC,L4,Experiment1,Tray13,Plate5MaizeVR1F5,15351,9.638935897,Leaf
+64,60,B73,Tarrafal,50%FC,60,L5,13,1,Colonato,15.254874,-23.744146,Cabo Verde,15.623,,,,,,,,,,
+66,16,CVSt,Sao Domingos,50%FC,16,L1,10,1,Ribeira São Domingos (Nora),15.018798,-23.548427,Cabo Verde,NA,,,,,,,,,,
+67,16,CVSt,Sao Domingos,50%FC,16,L2,10,1,Ribeira São Domingos (Nora),15.018798,-23.548427,Cabo Verde,NA,,,,,,,,,,
+68,16,CVSt,Sao Domingos,50%FC,16,L3,10,1,Ribeira São Domingos (Nora),15.018798,-23.548427,Cabo Verde,NA,,,,,,,,,,
+69,16,CVSt,Sao Domingos,50%FC,16,L4,10,1,Ribeira São Domingos (Nora),15.018798,-23.548427,Cabo Verde,NA,,,,,,,,,,
+70,16,CVSt,Sao Domingos,50%FC,16,L5,10,1,Ribeira São Domingos (Nora),15.018798,-23.548427,Cabo Verde,NA,,,,,,,,,,
+71,16,CVSt,Sao Domingos,50%FC,16,L6,10,1,Ribeira São Domingos (Nora),15.018798,-23.548427,Cabo Verde,NA,,,,,,,,,,
+72,17,CVSt,Sao Domingos,50%FC,17,L1,3,1,Ribeira São Domingos (Nora),15.018798,-23.548427,Cabo Verde,5.742,CVSt,SaoDomingos,50FC,L1,Experiment1,Tray3,Plate4MaizeVR1F1,6510,8.781094735,Leaf
+73,17,CVSt,Sao Domingos,50%FC,17,L2,3,1,Ribeira São Domingos (Nora),15.018798,-23.548427,Cabo Verde,15.098,,,,,,,,,,
+74,17,CVSt,Sao Domingos,50%FC,17,L3,3,1,Ribeira São Domingos (Nora),15.018798,-23.548427,Cabo Verde,28.541,,,,,,,,,,
+75,17,CVSt,Sao Domingos,50%FC,17,L4,3,1,Ribeira São Domingos (Nora),15.018798,-23.548427,Cabo Verde,35.943,,,,,,,,,,
+76,17,CVSt,Sao Domingos,50%FC,17,L5,3,1,Ribeira São Domingos (Nora),15.018798,-23.548427,Cabo Verde,20.816,,,,,,,,,,
+77,18,CVSt,Sao Domingos,50%FC,18,L1,6,1,Ribeira São Domingos (Nora),15.018798,-23.548427,Cabo Verde,4.742,,,,,,,,,,
+78,18,CVSt,Sao Domingos,50%FC,18,L2,6,1,Ribeira São Domingos (Nora),15.018798,-23.548427,Cabo Verde,16.245,CVSt,SaoDomingos,50FC,L2,Experiment1,Tray6,Plate2MaizeVR1B9,9271,9.134646528,Leaf
+79,18,CVSt,Sao Domingos,50%FC,18,L3,6,1,Ribeira São Domingos (Nora),15.018798,-23.548427,Cabo Verde,27.167,,,,,,,,,,
+80,18,CVSt,Sao Domingos,50%FC,18,L4,6,1,Ribeira São Domingos (Nora),15.018798,-23.548427,Cabo Verde,21.166,,,,,,,,,,
+81,18,CVSt,Sao Domingos,50%FC,18,L5,6,1,Ribeira São Domingos (Nora),15.018798,-23.548427,Cabo Verde,NA,CVSt,SaoDomingos,50FC,L5,Experiment1,Tray6,Plate3MaizeVR1H11,1508,7.318539549,Leaf
+82,25,Matuba,Sao Domingos,50%FC,25,L1,8,1,Ribeira São Domingos (Nora),15.018798,-23.548427,Cabo Verde,4.758,Matuba,SaoDomingos,50FC,L1,Experiment1,Tray8,Plate5MaizeVR1B10,30868,10.33747533,Leaf
+83,25,Matuba,Sao Domingos,50%FC,25,L2,8,1,Ribeira São Domingos (Nora),15.018798,-23.548427,Cabo Verde,14.527,Matuba,SaoDomingos,50FC,L2,Experiment1,Tray8,Plate5MaizeVR1G11,30912,10.33889974,Leaf
+84,25,Matuba,Sao Domingos,50%FC,25,L3,8,1,Ribeira São Domingos (Nora),15.018798,-23.548427,Cabo Verde,23.239,Matuba,SaoDomingos,50FC,L3,Experiment1,Tray8,Plate1MaizeVR1D3,3742,8.227375507,Leaf
+85,25,Matuba,Sao Domingos,50%FC,25,L4,8,1,Ribeira São Domingos (Nora),15.018798,-23.548427,Cabo Verde,32.097,Matuba,SaoDomingos,50FC,L4,Experiment1,Tray8,Plate1MaizeVR1E11,2630,7.874739125,Leaf
+86,25,Matuba,Sao Domingos,50%FC,25,L5,8,1,Ribeira São Domingos (Nora),15.018798,-23.548427,Cabo Verde,15.704,Matuba,SaoDomingos,50FC,L5,Experiment1,Tray8,Plate4MaizeVR1D8,21915,9.994926613,Leaf
+87,26,Matuba,Sao Domingos,50%FC,26,L1,5,1,Ribeira São Domingos (Nora),15.018798,-23.548427,Cabo Verde,5.142,Matuba,SaoDomingos,50FC,L1,Experiment1,Tray5,Plate3MaizeVR1C6,23915,10.08226116,Leaf
+88,26,Matuba,Sao Domingos,50%FC,26,L2,5,1,Ribeira São Domingos (Nora),15.018798,-23.548427,Cabo Verde,11.318,Matuba,SaoDomingos,50FC,L2,Experiment1,Tray5,Plate1MaizeVR1G2,4457,8.402231173,Leaf
+89,26,Matuba,Sao Domingos,50%FC,26,L3,5,1,Ribeira São Domingos (Nora),15.018798,-23.548427,Cabo Verde,19.74,Matuba,SaoDomingos,50FC,L3,Experiment1,Tray5,Plate1MaizeVR1D12,1817,7.504942068,Leaf
+90,26,Matuba,Sao Domingos,50%FC,26,L4,5,1,Ribeira São Domingos (Nora),15.018798,-23.548427,Cabo Verde,27.491,,,,,,,,,,
+91,26,Matuba,Sao Domingos,50%FC,26,L5,5,1,Ribeira São Domingos (Nora),15.018798,-23.548427,Cabo Verde,16.285,Matuba,SaoDomingos,50FC,L5,Experiment1,Tray5,Plate1MaizeVR1B1,1053,6.959398512,Leaf
+92,26,Matuba,Sao Domingos,50%FC,26,L6,5,1,Ribeira São Domingos (Nora),15.018798,-23.548427,Cabo Verde,NA,Matuba,SaoDomingos,50FC,L6,Experiment1,Tray5,Plate2MaizeVR1E7,3805,8.24407127,Leaf
+93,27,Matuba,Sao Domingos,50%FC,27,L1,12,1,Ribeira São Domingos (Nora),15.018798,-23.548427,Cabo Verde,4.549,Matuba,SaoDomingos,50FC,L1,Experiment1,Tray12,Plate1MaizeVR1C3,20842,9.944725461,Leaf
+94,27,Matuba,Sao Domingos,50%FC,27,L2,12,1,Ribeira São Domingos (Nora),15.018798,-23.548427,Cabo Verde,7.754,Matuba,SaoDomingos,50FC,L2,Experiment1,Tray12,Plate2MaizeVR1B1,13096,9.480062119,Leaf
+95,27,Matuba,Sao Domingos,50%FC,27,L3,12,1,Ribeira São Domingos (Nora),15.018798,-23.548427,Cabo Verde,26.651,Matuba,SaoDomingos,50FC,L3,Experiment1,Tray12,Plate2MaizeVR1C5,4778,8.471777328,Leaf
+96,27,Matuba,Sao Domingos,50%FC,27,L4,12,1,Ribeira São Domingos (Nora),15.018798,-23.548427,Cabo Verde,33.467,Matuba,SaoDomingos,50FC,L4,Experiment1,Tray12,Plate3MaizeVR1B2,2862,7.95927596,Leaf
+97,27,Matuba,Sao Domingos,50%FC,27,L5,12,1,Ribeira São Domingos (Nora),15.018798,-23.548427,Cabo Verde,17.547,,,,,,,,,,
+98,64,Zm523,Sao Domingos,50%FC,64,L1,2,1,Ribeira São Domingos (Nora),15.018798,-23.548427,Cabo Verde,NA,,,,,,,,,,
+99,64,Zm523,Sao Domingos,50%FC,64,L2,2,1,Ribeira São Domingos (Nora),15.018798,-23.548427,Cabo Verde,NA,,,,,,,,,,
+100,64,Zm523,Sao Domingos,50%FC,64,L3,2,1,Ribeira São Domingos (Nora),15.018798,-23.548427,Cabo Verde,NA,,,,,,,,,,
+101,64,Zm523,Sao Domingos,50%FC,64,L4,2,1,Ribeira São Domingos (Nora),15.018798,-23.548427,Cabo Verde,NA,,,,,,,,,,
+102,64,Zm523,Sao Domingos,50%FC,64,L5,2,1,Ribeira São Domingos (Nora),15.018798,-23.548427,Cabo Verde,NA,,,,,,,,,,
+103,65,Zm523,Sao Domingos,50%FC,65,L1,7,1,Ribeira São Domingos (Nora),15.018798,-23.548427,Cabo Verde,3.504,Zm523,SaoDomingos,50FC,L1,Experiment1,Tray7,Plate2MaizeVR1D1,15804,9.668018352,Leaf
+104,65,Zm523,Sao Domingos,50%FC,65,L2,7,1,Ribeira São Domingos (Nora),15.018798,-23.548427,Cabo Verde,14.157,Zm523,SaoDomingos,50FC,L2,Experiment1,Tray7,Plate1MaizeVR1F1,38844,10.5673089,Leaf
+105,65,Zm523,Sao Domingos,50%FC,65,L3,7,1,Ribeira São Domingos (Nora),15.018798,-23.548427,Cabo Verde,27.01,Zm523,SaoDomingos,50FC,L3,Experiment1,Tray7,Plate2MaizeVR1D9,3078,8.032035314,Leaf
+106,65,Zm523,Sao Domingos,50%FC,65,L4,7,1,Ribeira São Domingos (Nora),15.018798,-23.548427,Cabo Verde,30.858,Zm523,SaoDomingos,50FC,L4,Experiment1,Tray7,Plate2MaizeVR1D8,1771,7.479299638,Leaf
+107,65,Zm523,Sao Domingos,50%FC,65,L5,7,1,Ribeira São Domingos (Nora),15.018798,-23.548427,Cabo Verde,20.074,Zm523,SaoDomingos,50FC,L5,Experiment1,Tray7,Plate2MaizeVR1C10,1590,7.371489295,Leaf
+108,65,Zm523,Sao Domingos,50%FC,65,L6,7,1,Ribeira São Domingos (Nora),15.018798,-23.548427,Cabo Verde,NA,Zm523,SaoDomingos,50FC,L6,Experiment1,Tray7,Plate3MaizeVR1D5,1890,7.544332108,Leaf
+109,66,Zm523,Sao Domingos,50%FC,66,L1,7,1,Ribeira São Domingos (Nora),15.018798,-23.548427,Cabo Verde,5.386,Zm523,SaoDomingos,50FC,L1,Experiment1,Tray7,Plate2MaizeVR1D12,9707,9.180602554,Leaf
+110,66,Zm523,Sao Domingos,50%FC,66,L2,7,1,Ribeira São Domingos (Nora),15.018798,-23.548427,Cabo Verde,15.672,Zm523,SaoDomingos,50FC,L2,Experiment1,Tray7,Plate4MaizeVR1F2,48514,10.7896077,Leaf
+111,66,Zm523,Sao Domingos,50%FC,66,L3,7,1,Ribeira São Domingos (Nora),15.018798,-23.548427,Cabo Verde,29.131,,,,,,,,,,
+112,66,Zm523,Sao Domingos,50%FC,66,L4,7,1,Ribeira São Domingos (Nora),15.018798,-23.548427,Cabo Verde,35.016,,,,,,,,,,
+113,66,Zm523,Sao Domingos,50%FC,66,L5,7,1,Ribeira São Domingos (Nora),15.018798,-23.548427,Cabo Verde,13.159,,,,,,,,,,
+114,73,B73,Sao Domingos,50%FC,73,L1,1,1,Ribeira São Domingos (Nora),15.018798,-23.548427,Cabo Verde,1.747,B73,SaoDomingos,50FC,L1,Experiment1,Tray1,Plate1MaizeVR1D8,26314,10.1778564,Leaf
+115,73,B73,Sao Domingos,50%FC,73,L2,1,1,Ribeira São Domingos (Nora),15.018798,-23.548427,Cabo Verde,9.288,B73,SaoDomingos,50FC,L2,Experiment1,Tray1,Plate2MaizeVR1D7,5721,8.651898894,Leaf
+116,73,B73,Sao Domingos,50%FC,73,L3,1,1,Ribeira São Domingos (Nora),15.018798,-23.548427,Cabo Verde,23.029,,,,,,,,,,
+117,73,B73,Sao Domingos,50%FC,73,L4,1,1,Ribeira São Domingos (Nora),15.018798,-23.548427,Cabo Verde,26.553,B73,SaoDomingos,50FC,L4,Experiment1,Tray1,Plate1MaizeVR1A12,1436,7.26961675,Leaf
+118,73,B73,Sao Domingos,50%FC,73,L5,1,1,Ribeira São Domingos (Nora),15.018798,-23.548427,Cabo Verde,12.756,,,,,,,,,,
+119,74,B73,Sao Domingos,50%FC,74,L1,4,1,Ribeira São Domingos (Nora),15.018798,-23.548427,Cabo Verde,6.484,B73,SaoDomingos,50FC,L1,Experiment1,Tray4,Plate1MaizeVR1D1,29866,10.30447599,Leaf
+120,74,B73,Sao Domingos,50%FC,74,L2,4,1,Ribeira São Domingos (Nora),15.018798,-23.548427,Cabo Verde,12.478,,,,,,,,,,
+121,74,B73,Sao Domingos,50%FC,74,L3,4,1,Ribeira São Domingos (Nora),15.018798,-23.548427,Cabo Verde,23.056,B73,SaoDomingos,50FC,L3,Experiment1,Tray4,Plate2MaizeVR1G2,1122,7.022868086,Leaf
+122,74,B73,Sao Domingos,50%FC,74,L4,4,1,Ribeira São Domingos (Nora),15.018798,-23.548427,Cabo Verde,26.733,B73,SaoDomingos,50FC,L4,Experiment1,Tray4,Plate4MaizeVR1A1,8721,9.073489189,Leaf
+123,74,B73,Sao Domingos,50%FC,74,L5,4,1,Ribeira São Domingos (Nora),15.018798,-23.548427,Cabo Verde,16.735,B73,SaoDomingos,50FC,L5,Experiment1,Tray4,Plate1MaizeVR1A2,3265,8.091015042,Leaf
+124,75,B73,Sao Domingos,50%FC,75,L1,14,1,Ribeira São Domingos (Nora),15.018798,-23.548427,Cabo Verde,NA,,,,,,,,,,
+125,75,B73,Sao Domingos,50%FC,75,L2,14,1,Ribeira São Domingos (Nora),15.018798,-23.548427,Cabo Verde,NA,,,,,,,,,,
+126,75,B73,Sao Domingos,50%FC,75,L3,14,1,Ribeira São Domingos (Nora),15.018798,-23.548427,Cabo Verde,NA,,,,,,,,,,
+127,75,B73,Sao Domingos,50%FC,75,L4,14,1,Ribeira São Domingos (Nora),15.018798,-23.548427,Cabo Verde,NA,,,,,,,,,,
+128,75,B73,Sao Domingos,50%FC,75,L5,14,1,Ribeira São Domingos (Nora),15.018798,-23.548427,Cabo Verde,NA,,,,,,,,,,
+129,31,CVSt,Sutton Bonington,50%FC,31,L1,9,1,Sutton Bonington,52.833265,-1.24906,UK,6.385,CVSt,SuttonBonington,50FC,L1,Experiment1,Tray9,Plate4MaizeVR1G12,9756,9.185637759,Leaf
+130,31,CVSt,Sutton Bonington,50%FC,31,L2,9,1,Sutton Bonington,52.833265,-1.24906,UK,14.776,,,,,,,,,,
+131,31,CVSt,Sutton Bonington,50%FC,31,L3,9,1,Sutton Bonington,52.833265,-1.24906,UK,29.096,CVSt,SuttonBonington,50FC,L3,Experiment1,Tray9,Plate3MaizeVR1F7,3295,8.100161447,Leaf
+132,31,CVSt,Sutton Bonington,50%FC,31,L4,9,1,Sutton Bonington,52.833265,-1.24906,UK,36.979,,,,,,,,,,
+133,31,CVSt,Sutton Bonington,50%FC,31,L5,9,1,Sutton Bonington,52.833265,-1.24906,UK,24.575,CVSt,SuttonBonington,50FC,L5,Experiment1,Tray9,Plate2MaizeVR1G6,1815,7.503840747,Leaf
+134,31,CVSt,Sutton Bonington,50%FC,31,L6,9,1,Sutton Bonington,52.833265,-1.24906,UK,11.995,,,,,,,,,,
+135,32,CVSt,Sutton Bonington,50%FC,32,L1,1,1,Sutton Bonington,52.833265,-1.24906,UK,7.791,CVSt,SuttonBonington,50FC,L1,Experiment1,Tray1,Plate4MaizeVR1G10,7390,8.907883014,Leaf
+136,32,CVSt,Sutton Bonington,50%FC,32,L2,1,1,Sutton Bonington,52.833265,-1.24906,UK,17.037,,,,,,,,,,
+137,32,CVSt,Sutton Bonington,50%FC,32,L3,1,1,Sutton Bonington,52.833265,-1.24906,UK,26.976,CVSt,SuttonBonington,50FC,L3,Experiment1,Tray1,Plate4MaizeVR1B3,1782,7.485491608,Leaf
+138,32,CVSt,Sutton Bonington,50%FC,32,L4,1,1,Sutton Bonington,52.833265,-1.24906,UK,33.549,,,,,,,,,,
+139,32,CVSt,Sutton Bonington,50%FC,32,L5,1,1,Sutton Bonington,52.833265,-1.24906,UK,21.222,,,,,,,,,,
+140,32,CVSt,Sutton Bonington,50%FC,32,L6,1,1,Sutton Bonington,52.833265,-1.24906,UK,NA,CVSt,SuttonBonington,50FC,L6,Experiment1,Tray1,Plate4MaizeVR1E6,1538,7.33823815,Leaf
+141,33,CVSt,Sutton Bonington,50%FC,33,L1,15,1,Sutton Bonington,52.833265,-1.24906,UK,6.069,CVSt,SuttonBonington,50FC,L1,Experiment1,Tray15,Plate4MaizeVR1C3,23010,10.04368418,Leaf
+142,33,CVSt,Sutton Bonington,50%FC,33,L2,15,1,Sutton Bonington,52.833265,-1.24906,UK,18.493,CVSt,SuttonBonington,50FC,L2,Experiment1,Tray15,Plate4MaizeVR1E12,1229,7.11395611,Leaf
+143,33,CVSt,Sutton Bonington,50%FC,33,L3,15,1,Sutton Bonington,52.833265,-1.24906,UK,35.487,,,,,,,,,,
+144,33,CVSt,Sutton Bonington,50%FC,33,L4,15,1,Sutton Bonington,52.833265,-1.24906,UK,43.311,,,,,,,,,,
+145,33,CVSt,Sutton Bonington,50%FC,33,L5,15,1,Sutton Bonington,52.833265,-1.24906,UK,23.857,CVSt,SuttonBonington,50FC,L5,Experiment1,Tray15,Plate1MaizeVR1A5,91211,11.42093078,Leaf
+146,33,CVSt,Sutton Bonington,50%FC,33,L6,15,1,Sutton Bonington,52.833265,-1.24906,UK,NA,CVSt,SuttonBonington,50FC,L6,Experiment1,Tray15,Plate1MaizeVR1C12,3076,8.031385331,Leaf
+171,40,Matuba,Sutton Bonington,50%FC,40,L1,6,1,Sutton Bonington,52.833265,-1.24906,UK,7.215,Matuba,SuttonBonington,50FC,L1,Experiment1,Tray6,Plate1MaizeVR1E8,10557,9.264544426,Leaf
+172,40,Matuba,Sutton Bonington,50%FC,40,L2,6,1,Sutton Bonington,52.833265,-1.24906,UK,18.056,Matuba,SuttonBonington,50FC,L2,Experiment1,Tray6,Plate2MaizeVR1H7,1837,7.515889085,Leaf
+173,40,Matuba,Sutton Bonington,50%FC,40,L3,6,1,Sutton Bonington,52.833265,-1.24906,UK,30.777,,,,,,,,,,
+174,40,Matuba,Sutton Bonington,50%FC,40,L4,6,1,Sutton Bonington,52.833265,-1.24906,UK,36.188,,,,,,,,,,
+175,40,Matuba,Sutton Bonington,50%FC,40,L5,6,1,Sutton Bonington,52.833265,-1.24906,UK,24.282,Matuba,SuttonBonington,50FC,L5,Experiment1,Tray6,Plate2MaizeVR1E11,1665,7.417580402,Leaf
+176,41,Matuba,Sutton Bonington,50%FC,41,L1,1,1,Sutton Bonington,52.833265,-1.24906,UK,6.103,,,,,,,,,,
+177,41,Matuba,Sutton Bonington,50%FC,41,L2,1,1,Sutton Bonington,52.833265,-1.24906,UK,15.159,,,,,,,,,,
+178,41,Matuba,Sutton Bonington,50%FC,41,L3,1,1,Sutton Bonington,52.833265,-1.24906,UK,28.04,Matuba,SuttonBonington,50FC,L3,Experiment1,Tray1,Plate1MaizeVR1F8,1077,6.981934677,Leaf
+179,41,Matuba,Sutton Bonington,50%FC,41,L4,1,1,Sutton Bonington,52.833265,-1.24906,UK,35.72,Matuba,SuttonBonington,50FC,L4,Experiment1,Tray1,Plate4MaizeVR1A10,2039,7.620214771,Leaf
+180,41,Matuba,Sutton Bonington,50%FC,41,L5,1,1,Sutton Bonington,52.833265,-1.24906,UK,19.042,,,,,,,,,,
+181,42,Matuba,Sutton Bonington,50%FC,42,L1,4,1,Sutton Bonington,52.833265,-1.24906,UK,NA,,,,,,,,,,
+182,42,Matuba,Sutton Bonington,50%FC,42,L2,4,1,Sutton Bonington,52.833265,-1.24906,UK,NA,,,,,,,,,,
+183,42,Matuba,Sutton Bonington,50%FC,42,L3,4,1,Sutton Bonington,52.833265,-1.24906,UK,NA,,,,,,,,,,
+184,42,Matuba,Sutton Bonington,50%FC,42,L4,4,1,Sutton Bonington,52.833265,-1.24906,UK,NA,,,,,,,,,,
+185,42,Matuba,Sutton Bonington,50%FC,42,L5,4,1,Sutton Bonington,52.833265,-1.24906,UK,NA,,,,,,,,,,
+186,42,Matuba,Sutton Bonington,50%FC,42,L6,4,1,Sutton Bonington,52.833265,-1.24906,UK,NA,,,,,,,,,,
+208,79,Zm523,Sutton Bonington,50%FC,79,L1,14,1,Sutton Bonington,52.833265,-1.24906,UK,6.777,Zm523,SuttonBonington,50FC,L1,Experiment1,Tray14,Plate1MaizeVR1H10,3111,8.042699497,Leaf
+209,79,Zm523,Sutton Bonington,50%FC,79,L2,14,1,Sutton Bonington,52.833265,-1.24906,UK,18.482,,,,,,,,,,
+210,79,Zm523,Sutton Bonington,50%FC,79,L3,14,1,Sutton Bonington,52.833265,-1.24906,UK,33.545,,,,,,,,,,
+211,79,Zm523,Sutton Bonington,50%FC,79,L4,14,1,Sutton Bonington,52.833265,-1.24906,UK,46.913,,,,,,,,,,
+212,79,Zm523,Sutton Bonington,50%FC,79,L5,14,1,Sutton Bonington,52.833265,-1.24906,UK,30.027,,,,,,,,,,
+213,79,Zm523,Sutton Bonington,50%FC,79,L6,14,1,Sutton Bonington,52.833265,-1.24906,UK,NA,Zm523,SuttonBonington,50FC,L6,Experiment1,Tray14,Plate4MaizeVR1E2,1305,7.17395832,Leaf
+214,80,Zm523,Sutton Bonington,50%FC,80,L1,10,1,Sutton Bonington,52.833265,-1.24906,UK,5.707,Zm523,SuttonBonington,50FC,L1,Experiment1,Tray10,Plate1MaizeVR1G10,19718,9.889287203,Leaf
+215,80,Zm523,Sutton Bonington,50%FC,80,L2,10,1,Sutton Bonington,52.833265,-1.24906,UK,15.941,Zm523,SuttonBonington,50FC,L2,Experiment1,Tray10,Plate1MaizeVR1E12,5920,8.686091728,Leaf
+216,80,Zm523,Sutton Bonington,50%FC,80,L3,10,1,Sutton Bonington,52.833265,-1.24906,UK,25.432,,,,,,,,,,
+217,80,Zm523,Sutton Bonington,50%FC,80,L4,10,1,Sutton Bonington,52.833265,-1.24906,UK,37.904,Zm523,SuttonBonington,50FC,L4,Experiment1,Tray10,Plate5MaizeVR1A9,19991,9.903037451,Leaf
+218,80,Zm523,Sutton Bonington,50%FC,80,L5,10,1,Sutton Bonington,52.833265,-1.24906,UK,21.395,Zm523,SuttonBonington,50FC,L5,Experiment1,Tray10,Plate5MaizeVR1A12,4594,8.432506383,Leaf
+219,80,Zm523,Sutton Bonington,50%FC,80,L6,10,1,Sutton Bonington,52.833265,-1.24906,UK,NA,Zm523,SuttonBonington,50FC,L6,Experiment1,Tray10,Plate3MaizeVR1G6,1242,7.124478262,Leaf
+220,81,Zm523,Sutton Bonington,50%FC,81,L1,2,1,Sutton Bonington,52.833265,-1.24906,UK,5.996,Zm523,SuttonBonington,50FC,L1,Experiment1,Tray2,Plate4MaizeVR1G8,5499,8.612321537,Leaf
+221,81,Zm523,Sutton Bonington,50%FC,81,L2,2,1,Sutton Bonington,52.833265,-1.24906,UK,16.746,Zm523,SuttonBonington,50FC,L2,Experiment1,Tray2,Plate2MaizeVR1F9,5357,8.586159396,Leaf
+222,81,Zm523,Sutton Bonington,50%FC,81,L3,2,1,Sutton Bonington,52.833265,-1.24906,UK,29.227,,,,,,,,,,
+223,81,Zm523,Sutton Bonington,50%FC,81,L4,2,1,Sutton Bonington,52.833265,-1.24906,UK,38.726,Zm523,SuttonBonington,50FC,L4,Experiment1,Tray2,Plate5MaizeVR1E10,5836,8.67180091,Leaf
+224,81,Zm523,Sutton Bonington,50%FC,81,L5,2,1,Sutton Bonington,52.833265,-1.24906,UK,26.521,Zm523,SuttonBonington,50FC,L5,Experiment1,Tray2,Plate5MaizeVR1C10,9482,9.157150543,Leaf
+225,81,Zm523,Sutton Bonington,50%FC,81,L6,2,1,Sutton Bonington,52.833265,-1.24906,UK,NA,,,,,,,,,,
+248,88,B73,Sutton Bonington,50%FC,88,L1,11,1,Sutton Bonington,52.833265,-1.24906,UK,2.106,B73,SuttonBonington,50FC,L1,Experiment1,Tray11,Plate4MaizeVR1A11,3838,8.252706677,Leaf
+249,88,B73,Sutton Bonington,50%FC,88,L2,11,1,Sutton Bonington,52.833265,-1.24906,UK,12.545,,,,,,,,,,
+250,88,B73,Sutton Bonington,50%FC,88,L3,11,1,Sutton Bonington,52.833265,-1.24906,UK,24.24,,,,,,,,,,
+251,88,B73,Sutton Bonington,50%FC,88,L4,11,1,Sutton Bonington,52.833265,-1.24906,UK,33.28,B73,SuttonBonington,50FC,L4,Experiment1,Tray11,Plate4MaizeVR1H6,2418,7.790696031,Leaf
+252,88,B73,Sutton Bonington,50%FC,88,L5,11,1,Sutton Bonington,52.833265,-1.24906,UK,25.678,,,,,,,,,,
+253,88,B73,Sutton Bonington,50%FC,88,L6,11,1,Sutton Bonington,52.833265,-1.24906,UK,14.073,,,,,,,,,,
+254,89,B73,Sutton Bonington,50%FC,89,L1,13,1,Sutton Bonington,52.833265,-1.24906,UK,3.836,B73,SuttonBonington,50FC,L1,Experiment1,Tray13,Plate1MaizeVR1H6,28683,10.26405989,Leaf
+255,89,B73,Sutton Bonington,50%FC,89,L2,13,1,Sutton Bonington,52.833265,-1.24906,UK,14.324,B73,SuttonBonington,50FC,L2,Experiment1,Tray13,Plate1MaizeVR1B10,2679,7.89319887,Leaf
+256,89,B73,Sutton Bonington,50%FC,89,L3,13,1,Sutton Bonington,52.833265,-1.24906,UK,25.253,,,,,,,,,,
+257,89,B73,Sutton Bonington,50%FC,89,L4,13,1,Sutton Bonington,52.833265,-1.24906,UK,39.815,,,,,,,,,,
+258,89,B73,Sutton Bonington,50%FC,89,L5,13,1,Sutton Bonington,52.833265,-1.24906,UK,25.114,,,,,,,,,,
+259,89,B73,Sutton Bonington,50%FC,89,L6,13,1,Sutton Bonington,52.833265,-1.24906,UK,NA,B73,SuttonBonington,50FC,L6,Experiment1,Tray13,Plate1MaizeVR1E9,4066,8.310414994,Leaf
+260,90,B73,Sutton Bonington,50%FC,90,L1,1,1,Sutton Bonington,52.833265,-1.24906,UK,NA,,,,,,,,,,
+261,90,B73,Sutton Bonington,50%FC,90,L2,1,1,Sutton Bonington,52.833265,-1.24906,UK,NA,,,,,,,,,,
+262,90,B73,Sutton Bonington,50%FC,90,L3,1,1,Sutton Bonington,52.833265,-1.24906,UK,NA,,,,,,,,,,
+263,90,B73,Sutton Bonington,50%FC,90,L4,1,1,Sutton Bonington,52.833265,-1.24906,UK,NA,,,,,,,,,,
+264,90,B73,Sutton Bonington,50%FC,90,L5,1,1,Sutton Bonington,52.833265,-1.24906,UK,NA,,,,,,,,,,
+265,90,B73,Sutton Bonington,50%FC,90,L6,1,1,Sutton Bonington,52.833265,-1.24906,UK,NA,,,,,,,,,,
+287,1,CVSt,Tarrafal,50%FC,91,L1,7,2,Colonato,15.254874,-23.744146,Cabo Verde,8.743,,,,,,,,,,
+288,1,CVSt,Tarrafal,50%FC,91,L2,7,2,Colonato,15.254874,-23.744146,Cabo Verde,25.836,CVSt,Tarrafal,50FC,L2,Experiment2,Tray7,Plate4MaizeVR2E12,10794,9.286745703,Leaf
+289,1,CVSt,Tarrafal,50%FC,91,L3,7,2,Colonato,15.254874,-23.744146,Cabo Verde,38.125,CVSt,Tarrafal,50FC,L3,Experiment2,Tray7,Plate5MaizeVR2F1,1370,7.222566019,Leaf
+290,1,CVSt,Tarrafal,50%FC,91,L4,7,2,Colonato,15.254874,-23.744146,Cabo Verde,47.951,CVSt,Tarrafal,50FC,L4,Experiment2,Tray7,Plate4MaizeVR2C6,7994,8.986446539,Leaf
+291,1,CVSt,Tarrafal,50%FC,91,L5,7,2,Colonato,15.254874,-23.744146,Cabo Verde,25.293,,,,,,,,,,
+292,2,CVSt,Tarrafal,50%FC,92,L1,9,2,Colonato,15.254874,-23.744146,Cabo Verde,8.613,CVSt,Tarrafal,50FC,L1,Experiment2,Tray9,Plate3MaizeVR2D5,16479,9.709842122,Leaf
+293,2,CVSt,Tarrafal,50%FC,92,L2,9,2,Colonato,15.254874,-23.744146,Cabo Verde,23.017,CVSt,Tarrafal,50FC,L2,Experiment2,Tray9,Plate4MaizeVR2B10,14142,9.556904372,Leaf
+294,2,CVSt,Tarrafal,50%FC,92,L3,9,2,Colonato,15.254874,-23.744146,Cabo Verde,41.861,,,,,,,,,,
+295,2,CVSt,Tarrafal,50%FC,92,L4,9,2,Colonato,15.254874,-23.744146,Cabo Verde,48.921,,,,,,,,,,
+296,2,CVSt,Tarrafal,50%FC,92,L5,9,2,Colonato,15.254874,-23.744146,Cabo Verde,36.502,CVSt,Tarrafal,50FC,L5,Experiment2,Tray9,Plate5MaizeVR2B9,2900,7.972466016,Leaf
+297,2,CVSt,Tarrafal,50%FC,92,L6,9,2,Colonato,15.254874,-23.744146,Cabo Verde,NA,CVSt,Tarrafal,50FC,L6,Experiment2,Tray9,Plate3MaizeVR2E4,24907,10.12290417,Leaf
+298,3,CVSt,Tarrafal,50%FC,93,L1,12,2,Colonato,15.254874,-23.744146,Cabo Verde,6.887,CVSt,Tarrafal,50FC,L1,Experiment2,Tray12,Plate2MaizeVR2G1,11473,9.347751728,Leaf
+299,3,CVSt,Tarrafal,50%FC,93,L2,12,2,Colonato,15.254874,-23.744146,Cabo Verde,19.521,CVSt,Tarrafal,50FC,L2,Experiment2,Tray12,Plate1MaizeVR2C12,7771,8.958154135,Leaf
+300,3,CVSt,Tarrafal,50%FC,93,L3,12,2,Colonato,15.254874,-23.744146,Cabo Verde,35.782,,,,,,,,,,
+301,3,CVSt,Tarrafal,50%FC,93,L4,12,2,Colonato,15.254874,-23.744146,Cabo Verde,35.839,,,,,,,,,,
+302,3,CVSt,Tarrafal,50%FC,93,L5,12,2,Colonato,15.254874,-23.744146,Cabo Verde,18.553,,,,,,,,,,
+303,3,CVSt,Tarrafal,50%FC,93,L6,12,2,Colonato,15.254874,-23.744146,Cabo Verde,NA,,,,,,,,,,
+304,4,Matuba,Tarrafal,50%FC,94,L1,12,2,Colonato,15.254874,-23.744146,Cabo Verde,NA,,,,,,,,,,
+305,4,Matuba,Tarrafal,50%FC,94,L2,12,2,Colonato,15.254874,-23.744146,Cabo Verde,NA,,,,,,,,,,
+306,4,Matuba,Tarrafal,50%FC,94,L3,12,2,Colonato,15.254874,-23.744146,Cabo Verde,NA,,,,,,,,,,
+307,4,Matuba,Tarrafal,50%FC,94,L4,12,2,Colonato,15.254874,-23.744146,Cabo Verde,NA,,,,,,,,,,
+308,4,Matuba,Tarrafal,50%FC,94,L5,12,2,Colonato,15.254874,-23.744146,Cabo Verde,NA,,,,,,,,,,
+309,5,Matuba,Tarrafal,50%FC,95,L1,7,2,Colonato,15.254874,-23.744146,Cabo Verde,6.098,Matuba,Tarrafal,50FC,L1,Experiment2,Tray7,Plate4MaizeVR2D3,65976,11.09704632,Leaf
+310,5,Matuba,Tarrafal,50%FC,95,L2,7,2,Colonato,15.254874,-23.744146,Cabo Verde,15.787,Matuba,Tarrafal,50FC,L2,Experiment2,Tray7,Plate3MaizeVR2E12,5884,8.679992082,Leaf
+311,5,Matuba,Tarrafal,50%FC,95,L3,7,2,Colonato,15.254874,-23.744146,Cabo Verde,29.529,,,,,,,,,,
+312,5,Matuba,Tarrafal,50%FC,95,L4,7,2,Colonato,15.254874,-23.744146,Cabo Verde,29.805,Matuba,Tarrafal,50FC,L5,Experiment2,Tray7,Plate3MaizeVR2D12,1220,7.106606138,Leaf
+313,5,Matuba,Tarrafal,50%FC,95,L5,7,2,Colonato,15.254874,-23.744146,Cabo Verde,18.596,,,,,,,,,,
+314,6,Matuba,Tarrafal,50%FC,96,L1,5,2,Colonato,15.254874,-23.744146,Cabo Verde,9.759,Matuba,Tarrafal,50FC,L1,Experiment2,Tray5,Plate2MaizeVR2D11,4459,8.402679805,Leaf
+315,6,Matuba,Tarrafal,50%FC,96,L2,5,2,Colonato,15.254874,-23.744146,Cabo Verde,23.944,Matuba,Tarrafal,50FC,L2,Experiment2,Tray5,Plate5MaizeVR2A9,60351,11.0079328,Leaf
+316,6,Matuba,Tarrafal,50%FC,96,L3,5,2,Colonato,15.254874,-23.744146,Cabo Verde,35.08,,,,,,,,,,
+317,6,Matuba,Tarrafal,50%FC,96,L4,5,2,Colonato,15.254874,-23.744146,Cabo Verde,39.229,Matuba,Tarrafal,50FC,L4,Experiment2,Tray5,Plate3MaizeVR2A5,1352,7.209340257,Leaf
+318,6,Matuba,Tarrafal,50%FC,96,L5,5,2,Colonato,15.254874,-23.744146,Cabo Verde,23.565,Matuba,Tarrafal,50FC,L5,Experiment2,Tray5,Plate2MaizeVR2E9,14502,9.58204185,Leaf
+319,7,Zm523,Tarrafal,50%FC,97,L1,5,2,Colonato,15.254874,-23.744146,Cabo Verde,NA,,,,,,,,,,
+320,7,Zm523,Tarrafal,50%FC,97,L2,5,2,Colonato,15.254874,-23.744146,Cabo Verde,NA,,,,,,,,,,
+321,7,Zm523,Tarrafal,50%FC,97,L3,5,2,Colonato,15.254874,-23.744146,Cabo Verde,NA,,,,,,,,,,
+322,7,Zm523,Tarrafal,50%FC,97,L4,5,2,Colonato,15.254874,-23.744146,Cabo Verde,NA,,,,,,,,,,
+323,7,Zm523,Tarrafal,50%FC,97,L5,5,2,Colonato,15.254874,-23.744146,Cabo Verde,NA,,,,,,,,,,
+324,8,Zm523,Tarrafal,50%FC,98,L1,11,2,Colonato,15.254874,-23.744146,Cabo Verde,NA,,,,,,,,,,
+325,8,Zm523,Tarrafal,50%FC,98,L2,11,2,Colonato,15.254874,-23.744146,Cabo Verde,NA,,,,,,,,,,
+326,8,Zm523,Tarrafal,50%FC,98,L3,11,2,Colonato,15.254874,-23.744146,Cabo Verde,NA,,,,,,,,,,
+327,8,Zm523,Tarrafal,50%FC,98,L4,11,2,Colonato,15.254874,-23.744146,Cabo Verde,NA,,,,,,,,,,
+328,8,Zm523,Tarrafal,50%FC,98,L5,11,2,Colonato,15.254874,-23.744146,Cabo Verde,NA,,,,,,,,,,
+329,9,Zm523,Tarrafal,50%FC,99,L1,11,2,Colonato,15.254874,-23.744146,Cabo Verde,5.709,Zm523,Tarrafal,50FC,L1,Experiment2,Tray11,Plate2MaizeVR2C2,1654,7.410951876,Leaf
+330,9,Zm523,Tarrafal,50%FC,99,L2,11,2,Colonato,15.254874,-23.744146,Cabo Verde,17.145,Zm523,Tarrafal,50FC,L2,Experiment2,Tray11,Plate5MaizeVR2H8,19873,9.897117306,Leaf
+331,9,Zm523,Tarrafal,50%FC,99,L3,11,2,Colonato,15.254874,-23.744146,Cabo Verde,29.576,Zm523,Tarrafal,50FC,L3,Experiment2,Tray11,Plate4MaizeVR2H1,5428,8.599326021,Leaf
+332,9,Zm523,Tarrafal,50%FC,99,L4,11,2,Colonato,15.254874,-23.744146,Cabo Verde,31.31,Zm523,Tarrafal,50FC,L4,Experiment2,Tray11,Plate5MaizeVR2E10,1047,6.953684211,Leaf
+333,9,Zm523,Tarrafal,50%FC,99,L5,11,2,Colonato,15.254874,-23.744146,Cabo Verde,19.967,Zm523,Tarrafal,50FC,L5,Experiment2,Tray11,Plate1MaizeVR2H5,7496,8.922124824,Leaf
+334,10,B73,Tarrafal,50%FC,100,L1,2,2,Colonato,15.254874,-23.744146,Cabo Verde,10.994,B73,Tarrafal,50FC,L1,Experiment2,Tray2,Plate3MaizeVR2G1,4459,8.402679805,Leaf
+335,10,B73,Tarrafal,50%FC,100,L2,2,2,Colonato,15.254874,-23.744146,Cabo Verde,39.008,,,,,,,,,,
+336,10,B73,Tarrafal,50%FC,100,L3,2,2,Colonato,15.254874,-23.744146,Cabo Verde,38.859,,,,,,,,,,
+337,10,B73,Tarrafal,50%FC,100,L4,2,2,Colonato,15.254874,-23.744146,Cabo Verde,26.456,,,,,,,,,,
+338,10,B73,Tarrafal,50%FC,100,L5,2,2,Colonato,15.254874,-23.744146,Cabo Verde,NA,,,,,,,,,,
+339,11,B73,Tarrafal,50%FC,101,L1,6,2,Colonato,15.254874,-23.744146,Cabo Verde,7.838,B73,Tarrafal,50FC,L1,Experiment2,Tray6,Plate5MaizeVR2G1,7981,8.984818996,Leaf
+340,11,B73,Tarrafal,50%FC,101,L2,6,2,Colonato,15.254874,-23.744146,Cabo Verde,21.813,B73,Tarrafal,50FC,L2,Experiment2,Tray6,Plate5MaizeVR2C6,30972,10.34083885,Leaf
+341,11,B73,Tarrafal,50%FC,101,L3,6,2,Colonato,15.254874,-23.744146,Cabo Verde,39.265,,,,,,,,,,
+342,11,B73,Tarrafal,50%FC,101,L4,6,2,Colonato,15.254874,-23.744146,Cabo Verde,40.835,,,,,,,,,,
+343,11,B73,Tarrafal,50%FC,101,L5,6,2,Colonato,15.254874,-23.744146,Cabo Verde,24.658,,,,,,,,,,
+344,12,B73,Tarrafal,50%FC,102,L1,6,2,Colonato,15.254874,-23.744146,Cabo Verde,5.874,,,,,,,,,,
+345,12,B73,Tarrafal,50%FC,102,L2,6,2,Colonato,15.254874,-23.744146,Cabo Verde,12.235,,,,,,,,,,
+346,12,B73,Tarrafal,50%FC,102,L3,6,2,Colonato,15.254874,-23.744146,Cabo Verde,34.426,,,,,,,,,,
+347,12,B73,Tarrafal,50%FC,102,L4,6,2,Colonato,15.254874,-23.744146,Cabo Verde,39.821,,,,,,,,,,
+348,12,B73,Tarrafal,50%FC,102,L5,6,2,Colonato,15.254874,-23.744146,Cabo Verde,20.745,,,,,,,,,,
+349,16,CVSt,Sao Domingos,50%FC,106,L1,8,2,Ribeira São Domingos (Nora),15.018798,-23.548427,Cabo Verde,8.083,CVSt,SaoDomingos,50FC,L1,Experiment2,Tray8,Plate4MaizeVR2G5,7831,8.965845495,Leaf
+350,16,CVSt,Sao Domingos,50%FC,106,L2,8,2,Ribeira São Domingos (Nora),15.018798,-23.548427,Cabo Verde,20.213,CVSt,SaoDomingos,50FC,L2,Experiment2,Tray8,Plate5MaizeVR2F2,19442,9.875190953,Leaf
+351,16,CVSt,Sao Domingos,50%FC,106,L3,8,2,Ribeira São Domingos (Nora),15.018798,-23.548427,Cabo Verde,39.308,,,,,,,,,,
+352,16,CVSt,Sao Domingos,50%FC,106,L4,8,2,Ribeira São Domingos (Nora),15.018798,-23.548427,Cabo Verde,49.47,,,,,,,,,,
+353,16,CVSt,Sao Domingos,50%FC,106,L5,8,2,Ribeira São Domingos (Nora),15.018798,-23.548427,Cabo Verde,29.866,,,,,,,,,,
+354,16,CVSt,Sao Domingos,50%FC,106,L6,8,2,Ribeira São Domingos (Nora),15.018798,-23.548427,Cabo Verde,13.235,CVSt,SaoDomingos,50FC,L6,Experiment2,Tray8,Plate1MaizeVR2E10,1282,7.156176637,Leaf
+355,17,CVSt,Sao Domingos,50%FC,107,L1,9,2,Ribeira São Domingos (Nora),15.018798,-23.548427,Cabo Verde,10.977,CVSt,SaoDomingos,50FC,L1,Experiment2,Tray9,Plate1MaizeVR2C8,1770,7.478734826,Leaf
+356,17,CVSt,Sao Domingos,50%FC,107,L2,9,2,Ribeira São Domingos (Nora),15.018798,-23.548427,Cabo Verde,31.833,CVSt,SaoDomingos,50FC,L2,Experiment2,Tray9,Plate4MaizeVR2B8,19792,9.893033095,Leaf
+357,17,CVSt,Sao Domingos,50%FC,107,L3,9,2,Ribeira São Domingos (Nora),15.018798,-23.548427,Cabo Verde,48.791,CVSt,SaoDomingos,50FC,L3,Experiment2,Tray9,Plate2MaizeVR2H8,2900,7.972466016,Leaf
+358,17,CVSt,Sao Domingos,50%FC,107,L4,9,2,Ribeira São Domingos (Nora),15.018798,-23.548427,Cabo Verde,64.987,,,,,,,,,,
+359,17,CVSt,Sao Domingos,50%FC,107,L5,9,2,Ribeira São Domingos (Nora),15.018798,-23.548427,Cabo Verde,40.305,,,,,,,,,,
+360,17,CVSt,Sao Domingos,50%FC,107,L6,9,2,Ribeira São Domingos (Nora),15.018798,-23.548427,Cabo Verde,16.792,,,,,,,,,,
+362,18,CVSt,Sao Domingos,50%FC,108,L1,1,2,Ribeira São Domingos (Nora),15.018798,-23.548427,Cabo Verde,8.167,CVSt,SaoDomingos,50FC,L1,Experiment2,Tray1,Plate2MaizeVR2F3,8610,9.060679597,Leaf
+363,18,CVSt,Sao Domingos,50%FC,108,L2,1,2,Ribeira São Domingos (Nora),15.018798,-23.548427,Cabo Verde,24.636,CVSt,SaoDomingos,50FC,L2,Experiment2,Tray1,Plate5MaizeVR2F10,4474,8.406038142,Leaf
+364,18,CVSt,Sao Domingos,50%FC,108,L3,1,2,Ribeira São Domingos (Nora),15.018798,-23.548427,Cabo Verde,50.108,CVSt,SaoDomingos,50FC,L3,Experiment2,Tray1,Plate4MaizeVR2C5,5295,8.574518258,Leaf
+365,18,CVSt,Sao Domingos,50%FC,108,L4,1,2,Ribeira São Domingos (Nora),15.018798,-23.548427,Cabo Verde,59.444,,,,,,,,,,
+366,18,CVSt,Sao Domingos,50%FC,108,L5,1,2,Ribeira São Domingos (Nora),15.018798,-23.548427,Cabo Verde,33.888,,,,,,,,,,
+367,19,Matuba,Sao Domingos,50%FC,109,L1,6,2,Ribeira São Domingos (Nora),15.018798,-23.548427,Cabo Verde,7.979,,,,,,,,,,
+368,19,Matuba,Sao Domingos,50%FC,109,L2,6,2,Ribeira São Domingos (Nora),15.018798,-23.548427,Cabo Verde,18.035,Matuba,SaoDomingos,50FC,L2,Experiment2,Tray6,Plate4MaizeVR2D2,10264,9.236397906,Leaf
+369,19,Matuba,Sao Domingos,50%FC,109,L3,6,2,Ribeira São Domingos (Nora),15.018798,-23.548427,Cabo Verde,33.646,,,,,,,,,,
+370,19,Matuba,Sao Domingos,50%FC,109,L4,6,2,Ribeira São Domingos (Nora),15.018798,-23.548427,Cabo Verde,42.66,,,,,,,,,,
+371,19,Matuba,Sao Domingos,50%FC,109,L5,6,2,Ribeira São Domingos (Nora),15.018798,-23.548427,Cabo Verde,24.092,,,,,,,,,,
+372,19,Matuba,Sao Domingos,50%FC,109,L6,6,2,Ribeira São Domingos (Nora),15.018798,-23.548427,Cabo Verde,NA,Matuba,SaoDomingos,50FC,L6,Experiment2,Tray6,Plate2MaizeVR2C5,15182,9.627865795,Leaf
+373,20,Matuba,Sao Domingos,50%FC,200,L1,2,2,Ribeira São Domingos (Nora),15.018798,-23.548427,Cabo Verde,5.011,Matuba,SaoDomingos,50FC,L1,Experiment2,Tray2,Plate4MaizeVR2B5,20754,9.940494278,Leaf
+374,20,Matuba,Sao Domingos,50%FC,200,L2,2,2,Ribeira São Domingos (Nora),15.018798,-23.548427,Cabo Verde,16.654,Matuba,SaoDomingos,50FC,L2,Experiment2,Tray2,Plate2MaizeVR2A6,7268,8.89123643,Leaf
+375,20,Matuba,Sao Domingos,50%FC,200,L3,2,2,Ribeira São Domingos (Nora),15.018798,-23.548427,Cabo Verde,30.935,,,,,,,,,,
+376,20,Matuba,Sao Domingos,50%FC,200,L4,2,2,Ribeira São Domingos (Nora),15.018798,-23.548427,Cabo Verde,42.998,,,,,,,,,,
+377,20,Matuba,Sao Domingos,50%FC,200,L5,2,2,Ribeira São Domingos (Nora),15.018798,-23.548427,Cabo Verde,24.293,Matuba,SaoDomingos,50FC,L5,Experiment2,Tray2,Plate4MaizeVR2E6,39604,10.5866854,Leaf
+378,21,Matuba,Sao Domingos,50%FC,210,L1,1,2,Ribeira São Domingos (Nora),15.018798,-23.548427,Cabo Verde,5.165,Matuba,SaoDomingos,50FC,L1,Experiment2,Tray1,Plate3MaizeVR2F2,3165,8.059908335,Leaf
+379,21,Matuba,Sao Domingos,50%FC,210,L2,1,2,Ribeira São Domingos (Nora),15.018798,-23.548427,Cabo Verde,13.901,,,,,,,,,,
+380,21,Matuba,Sao Domingos,50%FC,210,L3,1,2,Ribeira São Domingos (Nora),15.018798,-23.548427,Cabo Verde,32.852,Matuba,SaoDomingos,50FC,L3,Experiment2,Tray1,Plate4MaizeVR2F12,1051,6.957497371,Leaf
+381,21,Matuba,Sao Domingos,50%FC,210,L4,1,2,Ribeira São Domingos (Nora),15.018798,-23.548427,Cabo Verde,45.804,,,,,,,,,,
+382,21,Matuba,Sao Domingos,50%FC,210,L5,1,2,Ribeira São Domingos (Nora),15.018798,-23.548427,Cabo Verde,23.359,,,,,,,,,,
+383,22,Zm523,Sao Domingos,50%FC,220,L1,11,2,Ribeira São Domingos (Nora),15.018798,-23.548427,Cabo Verde,9.091,,,,,,,,,,
+384,22,Zm523,Sao Domingos,50%FC,220,L2,11,2,Ribeira São Domingos (Nora),15.018798,-23.548427,Cabo Verde,30.585,Zm523,SaoDomingos,50FC,L2,Experiment2,Tray11,Plate2MaizeVR2F9,14326,9.569831347,Leaf
+385,22,Zm523,Sao Domingos,50%FC,220,L3,11,2,Ribeira São Domingos (Nora),15.018798,-23.548427,Cabo Verde,42.171,,,,,,,,,,
+386,22,Zm523,Sao Domingos,50%FC,220,L4,11,2,Ribeira São Domingos (Nora),15.018798,-23.548427,Cabo Verde,53.557,,,,,,,,,,
+387,22,Zm523,Sao Domingos,50%FC,220,L5,11,2,Ribeira São Domingos (Nora),15.018798,-23.548427,Cabo Verde,28.027,,,,,,,,,,
+388,23,Zm523,Sao Domingos,50%FC,230,L1,3,2,Ribeira São Domingos (Nora),15.018798,-23.548427,Cabo Verde,7.874,,,,,,,,,,
+389,23,Zm523,Sao Domingos,50%FC,230,L2,3,2,Ribeira São Domingos (Nora),15.018798,-23.548427,Cabo Verde,26.473,Zm523,SaoDomingos,50FC,L2,Experiment2,Tray3,Plate4MaizeVR2F6,20297,9.918228371,Leaf
+390,23,Zm523,Sao Domingos,50%FC,230,L3,3,2,Ribeira São Domingos (Nora),15.018798,-23.548427,Cabo Verde,42.816,,,,,,,,,,
+391,23,Zm523,Sao Domingos,50%FC,230,L4,3,2,Ribeira São Domingos (Nora),15.018798,-23.548427,Cabo Verde,42.6,,,,,,,,,,
+392,23,Zm523,Sao Domingos,50%FC,230,L5,3,2,Ribeira São Domingos (Nora),15.018798,-23.548427,Cabo Verde,25.571,Zm523,SaoDomingos,50FC,L5,Experiment2,Tray3,Plate2MaizeVR2F1,1421,7.259116128,Leaf
+393,23,Zm523,Sao Domingos,50%FC,230,L6,3,2,Ribeira São Domingos (Nora),15.018798,-23.548427,Cabo Verde,NA,Zm523,SaoDomingos,50FC,L6,Experiment2,Tray3,Plate3MaizeVR2H3,5076,8.532278829,Leaf
+394,24,Zm523,Sao Domingos,50%FC,240,L1,6,2,Ribeira São Domingos (Nora),15.018798,-23.548427,Cabo Verde,7.717,Zm523,SaoDomingos,50FC,L1,Experiment2,Tray6,Plate2MaizeVR2F10,6987,8.851806559,Leaf
+395,24,Zm523,Sao Domingos,50%FC,240,L2,6,2,Ribeira São Domingos (Nora),15.018798,-23.548427,Cabo Verde,27.437,Zm523,SaoDomingos,50FC,L2,Experiment2,Tray6,Plate4MaizeVR2E4,100617,11.51907651,Leaf
+396,24,Zm523,Sao Domingos,50%FC,240,L3,6,2,Ribeira São Domingos (Nora),15.018798,-23.548427,Cabo Verde,42.908,,,,,,,,,,
+397,24,Zm523,Sao Domingos,50%FC,240,L4,6,2,Ribeira São Domingos (Nora),15.018798,-23.548427,Cabo Verde,51.011,,,,,,,,,,
+398,24,Zm523,Sao Domingos,50%FC,240,L5,6,2,Ribeira São Domingos (Nora),15.018798,-23.548427,Cabo Verde,33.831,Zm523,SaoDomingos,50FC,L5,Experiment2,Tray6,Plate1MaizeVR2E12,1707,7.442492723,Leaf
+399,24,Zm523,Sao Domingos,50%FC,240,L6,6,2,Ribeira São Domingos (Nora),15.018798,-23.548427,Cabo Verde,NA,Zm523,SaoDomingos,50FC,L6,Experiment2,Tray6,Plate1MaizeVR2B2,13428,9.505097358,Leaf
+400,25,B73,Sao Domingos,50%FC,250,L1,8,2,Ribeira São Domingos (Nora),15.018798,-23.548427,Cabo Verde,7.174,B73,SaoDomingos,50FC,L1,Experiment2,Tray8,Plate3MaizeVR2D3,5875,8.678461339,Leaf
+401,25,B73,Sao Domingos,50%FC,250,L2,8,2,Ribeira São Domingos (Nora),15.018798,-23.548427,Cabo Verde,19.915,B73,SaoDomingos,50FC,L2,Experiment2,Tray8,Plate1MaizeVR2D9,10047,9.215029361,Leaf
+402,25,B73,Sao Domingos,50%FC,250,L3,8,2,Ribeira São Domingos (Nora),15.018798,-23.548427,Cabo Verde,33.518,B73,SaoDomingos,50FC,L3,Experiment2,Tray8,Plate4MaizeVR2F5,6381,8.761080104,Leaf
+403,25,B73,Sao Domingos,50%FC,250,L4,8,2,Ribeira São Domingos (Nora),15.018798,-23.548427,Cabo Verde,51.357,B73,SaoDomingos,50FC,L4,Experiment2,Tray8,Plate2MaizeVR2C6,5352,8.585225602,Leaf
+404,25,B73,Sao Domingos,50%FC,250,L5,8,2,Ribeira São Domingos (Nora),15.018798,-23.548427,Cabo Verde,35.556,,,,,,,,,,
+405,25,B73,Sao Domingos,50%FC,250,L6,8,2,Ribeira São Domingos (Nora),15.018798,-23.548427,Cabo Verde,14.436,B73,SaoDomingos,50FC,L6,Experiment2,Tray8,Plate1MaizeVR2E3,1697,7.436617265,Leaf
+406,26,B73,Sao Domingos,50%FC,260,L1,2,2,Ribeira São Domingos (Nora),15.018798,-23.548427,Cabo Verde,5.663,B73,SaoDomingos,50FC,L1,Experiment2,Tray2,Plate4MaizeVR2D1,52838,10.87498591,Leaf
+407,26,B73,Sao Domingos,50%FC,260,L2,2,2,Ribeira São Domingos (Nora),15.018798,-23.548427,Cabo Verde,17.786,B73,SaoDomingos,50FC,L2,Experiment2,Tray2,Plate1MaizeVR2G3,3241,8.083637203,Leaf
+408,26,B73,Sao Domingos,50%FC,260,L3,2,2,Ribeira São Domingos (Nora),15.018798,-23.548427,Cabo Verde,35.378,,,,,,,,,,
+409,26,B73,Sao Domingos,50%FC,260,L4,2,2,Ribeira São Domingos (Nora),15.018798,-23.548427,Cabo Verde,44.122,B73,SaoDomingos,50FC,L4,Experiment2,Tray2,Plate1MaizeVR2B3,13580,9.516353401,Leaf
+410,26,B73,Sao Domingos,50%FC,260,L5,2,2,Ribeira São Domingos (Nora),15.018798,-23.548427,Cabo Verde,22.341,B73,SaoDomingos,50FC,L5,Experiment2,Tray2,Plate4MaizeVR2C9,4067,8.310660906,Leaf
+411,26,B73,Sao Domingos,50%FC,260,L6,2,2,Ribeira São Domingos (Nora),15.018798,-23.548427,Cabo Verde,NA,,,,,,,,,,
+412,27,B73,Sao Domingos,50%FC,270,L1,2,2,Ribeira São Domingos (Nora),15.018798,-23.548427,Cabo Verde,8.2,,,,,,,,,,
+413,27,B73,Sao Domingos,50%FC,270,L2,2,2,Ribeira São Domingos (Nora),15.018798,-23.548427,Cabo Verde,15.518,B73,SaoDomingos,50FC,L2,Experiment2,Tray2,Plate3MaizeVR2F7,3493,8.158516245,Leaf
+414,27,B73,Sao Domingos,50%FC,270,L3,2,2,Ribeira São Domingos (Nora),15.018798,-23.548427,Cabo Verde,35.464,,,,,,,,,,
+415,27,B73,Sao Domingos,50%FC,270,L4,2,2,Ribeira São Domingos (Nora),15.018798,-23.548427,Cabo Verde,49.421,,,,,,,,,,
+416,27,B73,Sao Domingos,50%FC,270,L5,2,2,Ribeira São Domingos (Nora),15.018798,-23.548427,Cabo Verde,25.615,B73,SaoDomingos,50FC,L5,Experiment2,Tray2,Plate4MaizeVR2F10,2285,7.734121303,Leaf
+417,27,B73,Sao Domingos,50%FC,270,L6,2,2,Ribeira São Domingos (Nora),15.018798,-23.548427,Cabo Verde,15.127,,,,,,,,,,
+418,31,CVSt,Sutton Bonington,50%FC,310,L1,5,2,Sutton Bonington,52.833265,-1.24906,UK,11.028,CVSt,SuttonBonington,50FC,L1,Experiment2,Tray5,Plate3MaizeVR2C5,9257,9.133135301,Leaf
+419,31,CVSt,Sutton Bonington,50%FC,310,L2,5,2,Sutton Bonington,52.833265,-1.24906,UK,30.147,,,,,,,,,,
+420,31,CVSt,Sutton Bonington,50%FC,310,L3,5,2,Sutton Bonington,52.833265,-1.24906,UK,46.412,,,,,,,,,,
+421,31,CVSt,Sutton Bonington,50%FC,310,L4,5,2,Sutton Bonington,52.833265,-1.24906,UK,51.422,CVSt,SuttonBonington,50FC,L4,Experiment2,Tray5,Plate4MaizeVR2A12,30573,10.32787255,Leaf
+422,31,CVSt,Sutton Bonington,50%FC,310,L5,5,2,Sutton Bonington,52.833265,-1.24906,UK,36.851,,,,,,,,,,
+423,31,CVSt,Sutton Bonington,50%FC,310,L6,5,2,Sutton Bonington,52.833265,-1.24906,UK,21.118,,,,,,,,,,
+424,32,CVSt,Sutton Bonington,50%FC,320,L1,8,2,Sutton Bonington,52.833265,-1.24906,UK,9.847,,,,,,,,,,
+425,32,CVSt,Sutton Bonington,50%FC,320,L2,8,2,Sutton Bonington,52.833265,-1.24906,UK,21.795,CVSt,SuttonBonington,50FC,L2,Experiment2,Tray8,Plate4MaizeVR2G8,15623,9.656499466,Leaf
+426,32,CVSt,Sutton Bonington,50%FC,320,L3,8,2,Sutton Bonington,52.833265,-1.24906,UK,44.633,CVSt,SuttonBonington,50FC,L3,Experiment2,Tray8,Plate5MaizeVR2G4,4764,8.46884293,Leaf
+427,32,CVSt,Sutton Bonington,50%FC,320,L4,8,2,Sutton Bonington,52.833265,-1.24906,UK,53.286,,,,,,,,,,
+428,32,CVSt,Sutton Bonington,50%FC,320,L5,8,2,Sutton Bonington,52.833265,-1.24906,UK,33.315,,,,,,,,,,
+429,32,CVSt,Sutton Bonington,50%FC,320,L6,8,2,Sutton Bonington,52.833265,-1.24906,UK,11.677,,,,,,,,,,
+430,33,CVSt,Sutton Bonington,50%FC,330,L1,13,2,Sutton Bonington,52.833265,-1.24906,UK,4.339,,,,,,,,,,
+431,33,CVSt,Sutton Bonington,50%FC,330,L2,13,2,Sutton Bonington,52.833265,-1.24906,UK,25.432,CVSt,SuttonBonington,50FC,L2,Experiment2,Tray13,Plate2MaizeVR2G11,1779,7.483806688,Leaf
+432,33,CVSt,Sutton Bonington,50%FC,330,L3,13,2,Sutton Bonington,52.833265,-1.24906,UK,43.66,,,,,,,,,,
+433,33,CVSt,Sutton Bonington,50%FC,330,L4,13,2,Sutton Bonington,52.833265,-1.24906,UK,56.771,,,,,,,,,,
+434,33,CVSt,Sutton Bonington,50%FC,330,L5,13,2,Sutton Bonington,52.833265,-1.24906,UK,34.881,,,,,,,,,,
+435,33,CVSt,Sutton Bonington,50%FC,330,L6,13,2,Sutton Bonington,52.833265,-1.24906,UK,19.96,,,,,,,,,,
+436,33,CVSt,Sutton Bonington,50%FC,330,Stem,13,2,Sutton Bonington,52.833265,-1.24906,UK,NA,,,,,,,,,,
+465,40,Matuba,Sutton Bonington,50%FC,400,L1,2,2,Sutton Bonington,52.833265,-1.24906,UK,7.741,Matuba,SuttonBonington,50FC,L1,Experiment2,Tray2,Plate2MaizeVR2E7,1999,7.600402335,Leaf
+466,40,Matuba,Sutton Bonington,50%FC,400,L2,2,2,Sutton Bonington,52.833265,-1.24906,UK,22.949,Matuba,SuttonBonington,50FC,L2,Experiment2,Tray2,Plate4MaizeVR2D10,1788,7.488852956,Leaf
+467,40,Matuba,Sutton Bonington,50%FC,400,L3,2,2,Sutton Bonington,52.833265,-1.24906,UK,45.216,,,,,,,,,,
+468,40,Matuba,Sutton Bonington,50%FC,400,L4,2,2,Sutton Bonington,52.833265,-1.24906,UK,64.021,Matuba,SuttonBonington,50FC,L4,Experiment2,Tray2,Plate2MaizeVR2F2,2669,7.889459149,Leaf
+469,40,Matuba,Sutton Bonington,50%FC,400,L5,2,2,Sutton Bonington,52.833265,-1.24906,UK,38.532,,,,,,,,,,
+470,40,Matuba,Sutton Bonington,50%FC,400,L6,2,2,Sutton Bonington,52.833265,-1.24906,UK,13.208,,,,,,,,,,
+471,41,Matuba,Sutton Bonington,50%FC,410,L1,7,2,Sutton Bonington,52.833265,-1.24906,UK,6.538,,,,,,,,,,
+472,41,Matuba,Sutton Bonington,50%FC,410,L2,7,2,Sutton Bonington,52.833265,-1.24906,UK,15.932,Matuba,SuttonBonington,50FC,L2,Experiment2,Tray7,Plate1MaizeVR2D12,54599,10.90777085,Leaf
+473,41,Matuba,Sutton Bonington,50%FC,410,L3,7,2,Sutton Bonington,52.833265,-1.24906,UK,38.146,Matuba,SuttonBonington,50FC,L3,Experiment2,Tray7,Plate3MaizeVR2G12,4965,8.510168576,Leaf
+474,41,Matuba,Sutton Bonington,50%FC,410,L4,7,2,Sutton Bonington,52.833265,-1.24906,UK,50.759,,,,,,,,,,
+475,41,Matuba,Sutton Bonington,50%FC,410,L5,7,2,Sutton Bonington,52.833265,-1.24906,UK,29.094,Matuba,SuttonBonington,50FC,L5,Experiment2,Tray7,Plate1MaizeVR2D10,7000,8.853665428,Leaf
+476,41,Matuba,Sutton Bonington,50%FC,410,L6,7,2,Sutton Bonington,52.833265,-1.24906,UK,NA,Matuba,SuttonBonington,50FC,L6,Experiment2,Tray7,Plate2MaizeVR2H5,10289,9.238830642,Leaf
+477,42,Matuba,Sutton Bonington,50%FC,420,L1,9,2,Sutton Bonington,52.833265,-1.24906,UK,7.531,Matuba,SuttonBonington,50FC,L1,Experiment2,Tray9,Plate5MaizeVR2D4,20506,9.928472805,Leaf
+478,42,Matuba,Sutton Bonington,50%FC,420,L2,9,2,Sutton Bonington,52.833265,-1.24906,UK,16.202,,,,,,,,,,
+479,42,Matuba,Sutton Bonington,50%FC,420,L3,9,2,Sutton Bonington,52.833265,-1.24906,UK,56.041,Matuba,SuttonBonington,50FC,L3,Experiment2,Tray9,Plate3MaizeVR2B3,3980,8.289037098,Leaf
+480,42,Matuba,Sutton Bonington,50%FC,420,L4,9,2,Sutton Bonington,52.833265,-1.24906,UK,78.567,,,,,,,,,,
+481,42,Matuba,Sutton Bonington,50%FC,420,L5,9,2,Sutton Bonington,52.833265,-1.24906,UK,55.02,Matuba,SuttonBonington,50FC,L5,Experiment2,Tray9,Plate5MaizeVR2F8,8822,9.085003881,Leaf
+482,42,Matuba,Sutton Bonington,50%FC,420,L6,9,2,Sutton Bonington,52.833265,-1.24906,UK,NA,Matuba,SuttonBonington,50FC,L6,Experiment2,Tray9,Plate2MaizeVR2F4,11586,9.357552752,Leaf
+509,49,Zm523,Sutton Bonington,50%FC,490,L1,1,2,Sutton Bonington,52.833265,-1.24906,UK,9.927,Zm523,SuttonBonington,50FC,L1,Experiment2,Tray1,Plate3MaizeVR2E10,4792,8.47470314,Leaf
+510,49,Zm523,Sutton Bonington,50%FC,490,L2,1,2,Sutton Bonington,52.833265,-1.24906,UK,28.956,Zm523,SuttonBonington,50FC,L2,Experiment2,Tray1,Plate1MaizeVR2A8,4646,8.443761913,Leaf
+511,49,Zm523,Sutton Bonington,50%FC,490,L3,1,2,Sutton Bonington,52.833265,-1.24906,UK,53.907,,,,,,,,,,
+512,49,Zm523,Sutton Bonington,50%FC,490,L4,1,2,Sutton Bonington,52.833265,-1.24906,UK,60.112,Zm523,SuttonBonington,50FC,L4,Experiment2,Tray1,Plate4MaizeVR2A6,31610,10.36122881,Leaf
+513,49,Zm523,Sutton Bonington,50%FC,490,L5,1,2,Sutton Bonington,52.833265,-1.24906,UK,35.506,Zm523,SuttonBonington,50FC,L5,Experiment2,Tray1,Plate1MaizeVR2A6,2036,7.618742378,Leaf
+514,49,Zm523,Sutton Bonington,50%FC,490,L6,1,2,Sutton Bonington,52.833265,-1.24906,UK,12.225,,,,,,,,,,
+515,50,Zm523,Sutton Bonington,50%FC,500,L1,1,2,Sutton Bonington,52.833265,-1.24906,UK,7.393,Zm523,SuttonBonington,50FC,L1,Experiment2,Tray1,Plate4MaizeVR2F1,28958,10.27360178,Leaf
+516,50,Zm523,Sutton Bonington,50%FC,500,L2,1,2,Sutton Bonington,52.833265,-1.24906,UK,21.652,Zm523,SuttonBonington,50FC,L2,Experiment2,Tray1,Plate3MaizeVR2H4,4568,8.426830751,Leaf
+517,50,Zm523,Sutton Bonington,50%FC,500,L3,1,2,Sutton Bonington,52.833265,-1.24906,UK,38.259,,,,,,,,,,
+518,50,Zm523,Sutton Bonington,50%FC,500,L4,1,2,Sutton Bonington,52.833265,-1.24906,UK,56.867,,,,,,,,,,
+519,50,Zm523,Sutton Bonington,50%FC,500,L5,1,2,Sutton Bonington,52.833265,-1.24906,UK,24.424,Zm523,SuttonBonington,50FC,L5,Experiment2,Tray1,Plate4MaizeVR2D4,37037,10.51967269,Leaf
+520,51,Zm523,Sutton Bonington,50%FC,510,L1,9,2,Sutton Bonington,52.833265,-1.24906,UK,7.331,Zm523,SuttonBonington,50FC,L1,Experiment2,Tray9,Plate2MaizeVR2C11,8943,9.098626382,Leaf
+521,51,Zm523,Sutton Bonington,50%FC,510,L2,9,2,Sutton Bonington,52.833265,-1.24906,UK,24.394,Zm523,SuttonBonington,50FC,L2,Experiment2,Tray9,Plate5MaizeVR2G8,78009,11.26457948,Leaf
+522,51,Zm523,Sutton Bonington,50%FC,510,L3,9,2,Sutton Bonington,52.833265,-1.24906,UK,54.535,,,,,,,,,,
+523,51,Zm523,Sutton Bonington,50%FC,510,L4,9,2,Sutton Bonington,52.833265,-1.24906,UK,63.761,Zm523,SuttonBonington,50FC,L4,Experiment2,Tray9,Plate5MaizeVR2G5,5576,8.626226952,Leaf
+524,51,Zm523,Sutton Bonington,50%FC,510,L5,9,2,Sutton Bonington,52.833265,-1.24906,UK,34.651,Zm523,SuttonBonington,50FC,L5,Experiment2,Tray9,Plate2MaizeVR2D8,8539,9.052399184,Leaf
+525,51,Zm523,Sutton Bonington,50%FC,510,L6,9,2,Sutton Bonington,52.833265,-1.24906,UK,NA,Zm523,SuttonBonington,50FC,L6,Experiment2,Tray9,Plate3MaizeVR2B4,21318,9.967307065,Leaf
+553,59,B73,Sutton Bonington,50%FC,590,L1,10,2,Sutton Bonington,52.833265,-1.24906,UK,7.442,B73,SuttonBonington,50FC,L1,Experiment2,Tray10,Plate3MaizeVR2G7,7675,8.945723572,Leaf
+554,59,B73,Sutton Bonington,50%FC,590,L2,10,2,Sutton Bonington,52.833265,-1.24906,UK,21.098,B73,SuttonBonington,50FC,L2,Experiment2,Tray10,Plate1MaizeVR2F7,2875,7.963807953,Leaf
+555,59,B73,Sutton Bonington,50%FC,590,L3,10,2,Sutton Bonington,52.833265,-1.24906,UK,44.254,,,,,,,,,,
+556,59,B73,Sutton Bonington,50%FC,590,L4,10,2,Sutton Bonington,52.833265,-1.24906,UK,59.899,,,,,,,,,,
+557,59,B73,Sutton Bonington,50%FC,590,L5,10,2,Sutton Bonington,52.833265,-1.24906,UK,38.58,,,,,,,,,,
+558,59,B73,Sutton Bonington,50%FC,590,L6,10,2,Sutton Bonington,52.833265,-1.24906,UK,18.406,B73,SuttonBonington,50FC,L6,Experiment2,Tray10,Plate2MaizeVR2E12,5690,8.646465527,Leaf
+559,60,B73,Sutton Bonington,50%FC,600,L1,10,2,Sutton Bonington,52.833265,-1.24906,UK,8.37,,,,,,,,,,
+560,60,B73,Sutton Bonington,50%FC,600,L2,10,2,Sutton Bonington,52.833265,-1.24906,UK,22.888,,,,,,,,,,
+561,60,B73,Sutton Bonington,50%FC,600,L3,10,2,Sutton Bonington,52.833265,-1.24906,UK,45.93,,,,,,,,,,
+562,60,B73,Sutton Bonington,50%FC,600,L4,10,2,Sutton Bonington,52.833265,-1.24906,UK,57.375,,,,,,,,,,
+563,60,B73,Sutton Bonington,50%FC,600,L5,10,2,Sutton Bonington,52.833265,-1.24906,UK,43.806,,,,,,,,,,
+564,60,B73,Sutton Bonington,50%FC,600,L6,10,2,Sutton Bonington,52.833265,-1.24906,UK,NA,B73,SuttonBonington,50FC,L6,Experiment2,Tray10,Plate2MaizeVR2E3,12463,9.430519534,Leaf
