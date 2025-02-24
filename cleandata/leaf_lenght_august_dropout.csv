@@ -1,0 +1,482 @@
+UiD,sample_id,genotype,treatment,marker,SynCom,nutrient,experiment,box,NumLeaf,length_cm
+1,1,B73,No Bacteria,None,NoBacteria,Full Hoagland,1,1,L1,3.001
+2,1,B73,No Bacteria,None,NoBacteria,Full Hoagland,1,1,L2,10.876
+3,1,B73,No Bacteria,None,NoBacteria,Full Hoagland,1,1,L3,18.027
+4,1,B73,No Bacteria,None,NoBacteria,Full Hoagland,1,1,L4,20.18
+5,1,B73,No Bacteria,None,NoBacteria,Full Hoagland,1,1,L5,6.693
+7,2,B73,No Bacteria,None,NoBacteria,Full Hoagland,1,1,L1,2.616
+8,2,B73,No Bacteria,None,NoBacteria,Full Hoagland,1,1,L2,10.154
+9,2,B73,No Bacteria,None,NoBacteria,Full Hoagland,1,1,L3,28.754
+10,2,B73,No Bacteria,None,NoBacteria,Full Hoagland,1,1,L4,29.395
+11,2,B73,No Bacteria,None,NoBacteria,Full Hoagland,1,1,L5,12.042
+13,3,B73,No Bacteria,None,NoBacteria,Full Hoagland,1,1,L1,4.892
+14,3,B73,No Bacteria,None,NoBacteria,Full Hoagland,1,1,L2,12.283
+15,3,B73,No Bacteria,None,NoBacteria,Full Hoagland,1,1,L3,16.736
+16,3,B73,No Bacteria,None,NoBacteria,Full Hoagland,1,1,L4,23.199
+17,3,B73,No Bacteria,None,NoBacteria,Full Hoagland,1,1,L5,20.054
+19,4,B73,No Bacteria,None,NoBacteria,Full Hoagland,1,1,L1,3.966
+20,4,B73,No Bacteria,None,NoBacteria,Full Hoagland,1,1,L2,13.588
+21,4,B73,No Bacteria,None,NoBacteria,Full Hoagland,1,1,L3,23.291
+22,4,B73,No Bacteria,None,NoBacteria,Full Hoagland,1,1,L4,29.067
+23,4,B73,No Bacteria,None,NoBacteria,Full Hoagland,1,1,L5,14.551
+25,5,B73,No Bacteria,None,NoBacteria,Full Hoagland,1,1,L1,1.585
+26,5,B73,No Bacteria,None,NoBacteria,Full Hoagland,1,1,L2,12.478
+27,5,B73,No Bacteria,None,NoBacteria,Full Hoagland,1,1,L3,24.522
+28,5,B73,No Bacteria,None,NoBacteria,Full Hoagland,1,1,L4,24.092
+29,5,B73,No Bacteria,None,NoBacteria,Full Hoagland,1,1,L5,13.587
+31,6,B73,No Bacteria,None,NoBacteria,Full Hoagland,1,1,L1,3.173
+32,6,B73,No Bacteria,None,NoBacteria,Full Hoagland,1,1,L2,11.832
+33,6,B73,No Bacteria,None,NoBacteria,Full Hoagland,1,1,L3,20.798
+34,6,B73,No Bacteria,None,NoBacteria,Full Hoagland,1,1,L4,24.548
+35,6,B73,No Bacteria,None,NoBacteria,Full Hoagland,1,1,L5,15.732
+37,7,B73,Full syncom,None,Fullsyncom,Full Hoagland,1,2,L1,1.632
+38,7,B73,Full syncom,None,Fullsyncom,Full Hoagland,1,2,L2,11.441
+39,7,B73,Full syncom,None,Fullsyncom,Full Hoagland,1,2,L3,18.627
+40,7,B73,Full syncom,None,Fullsyncom,Full Hoagland,1,2,L4,27.049
+41,7,B73,Full syncom,None,Fullsyncom,Full Hoagland,1,2,L5,13.754
+43,8,B73,Full syncom,None,Fullsyncom,Full Hoagland,1,2,L1,3.508
+44,8,B73,Full syncom,None,Fullsyncom,Full Hoagland,1,2,L2,15.293
+45,8,B73,Full syncom,None,Fullsyncom,Full Hoagland,1,2,L3,26.701
+46,8,B73,Full syncom,None,Fullsyncom,Full Hoagland,1,2,L4,31.691
+47,8,B73,Full syncom,None,Fullsyncom,Full Hoagland,1,2,L5,19.836
+49,9,B73,Full syncom,None,Fullsyncom,Full Hoagland,1,2,L1,2.983
+50,9,B73,Full syncom,None,Fullsyncom,Full Hoagland,1,2,L2,17.125
+51,9,B73,Full syncom,None,Fullsyncom,Full Hoagland,1,2,L3,31.924
+52,9,B73,Full syncom,None,Fullsyncom,Full Hoagland,1,2,L4,36.102
+53,9,B73,Full syncom,None,Fullsyncom,Full Hoagland,1,2,L5,18.259
+55,10,B73,Full syncom,None,Fullsyncom,Full Hoagland,1,2,L1,4.105
+56,10,B73,Full syncom,None,Fullsyncom,Full Hoagland,1,2,L2,15.011
+57,10,B73,Full syncom,None,Fullsyncom,Full Hoagland,1,2,L3,27.069
+58,10,B73,Full syncom,None,Fullsyncom,Full Hoagland,1,2,L4,28.652
+59,10,B73,Full syncom,None,Fullsyncom,Full Hoagland,1,2,L5,14.785
+61,11,B73,Full syncom,None,Fullsyncom,Full Hoagland,1,2,L1,3.472
+62,11,B73,Full syncom,None,Fullsyncom,Full Hoagland,1,2,L2,12.906
+63,11,B73,Full syncom,None,Fullsyncom,Full Hoagland,1,2,L3,23.728
+64,11,B73,Full syncom,None,Fullsyncom,Full Hoagland,1,2,L4,27.523
+65,11,B73,Full syncom,None,Fullsyncom,Full Hoagland,1,2,L5,14.941
+67,12,B73,Full syncom,None,Fullsyncom,Full Hoagland,1,2,L1,3.121
+68,12,B73,Full syncom,None,Fullsyncom,Full Hoagland,1,2,L2,9.488
+69,12,B73,Full syncom,None,Fullsyncom,Full Hoagland,1,2,L3,16.794
+70,12,B73,Full syncom,None,Fullsyncom,Full Hoagland,1,2,L4,26.877
+71,12,B73,Full syncom,None,Fullsyncom,Full Hoagland,1,2,L5,17.924
+73,13,B73,No Bacteria,None,NoBacteria,1/4 Hoagland,1,3,L1,2.911
+74,13,B73,No Bacteria,None,NoBacteria,1/4 Hoagland,1,3,L2,7.577
+75,13,B73,No Bacteria,None,NoBacteria,1/4 Hoagland,1,3,L3,20.911
+76,13,B73,No Bacteria,None,NoBacteria,1/4 Hoagland,1,3,L4,28.047
+77,13,B73,No Bacteria,None,NoBacteria,1/4 Hoagland,1,3,L5,11.367
+78,14,B73,No Bacteria,None,NoBacteria,1/4 Hoagland,1,3,L1,2.159
+79,14,B73,No Bacteria,None,NoBacteria,1/4 Hoagland,1,3,L2,10.176
+80,14,B73,No Bacteria,None,NoBacteria,1/4 Hoagland,1,3,L3,17.608
+81,14,B73,No Bacteria,None,NoBacteria,1/4 Hoagland,1,3,L4,23.811
+82,14,B73,No Bacteria,None,NoBacteria,1/4 Hoagland,1,3,L5,10.858
+83,15,B73,No Bacteria,None,NoBacteria,1/4 Hoagland,1,3,L1,4.197
+84,15,B73,No Bacteria,None,NoBacteria,1/4 Hoagland,1,3,L2,12.274
+85,15,B73,No Bacteria,None,NoBacteria,1/4 Hoagland,1,3,L3,20.195
+86,15,B73,No Bacteria,None,NoBacteria,1/4 Hoagland,1,3,L4,17.191
+87,15,B73,No Bacteria,None,NoBacteria,1/4 Hoagland,1,3,L5,12.287
+88,16,B73,No Bacteria,None,NoBacteria,1/4 Hoagland,1,3,L1,4.881
+89,16,B73,No Bacteria,None,NoBacteria,1/4 Hoagland,1,3,L2,7.508
+90,16,B73,No Bacteria,None,NoBacteria,1/4 Hoagland,1,3,L3,24.897
+91,16,B73,No Bacteria,None,NoBacteria,1/4 Hoagland,1,3,L4,23.283
+92,16,B73,No Bacteria,None,NoBacteria,1/4 Hoagland,1,3,L5,9.932
+93,17,B73,No Bacteria,None,NoBacteria,1/4 Hoagland,1,3,L1,3.679
+94,17,B73,No Bacteria,None,NoBacteria,1/4 Hoagland,1,3,L2,15.109
+95,17,B73,No Bacteria,None,NoBacteria,1/4 Hoagland,1,3,L3,21.884
+96,17,B73,No Bacteria,None,NoBacteria,1/4 Hoagland,1,3,L4,22.01
+97,17,B73,No Bacteria,None,NoBacteria,1/4 Hoagland,1,3,L5,16.506
+98,18,B73,No Bacteria,None,NoBacteria,1/4 Hoagland,1,3,L1,2.083
+99,18,B73,No Bacteria,None,NoBacteria,1/4 Hoagland,1,3,L2,11.498
+100,18,B73,No Bacteria,None,NoBacteria,1/4 Hoagland,1,3,L3,16.806
+101,18,B73,No Bacteria,None,NoBacteria,1/4 Hoagland,1,3,L4,24.397
+102,18,B73,No Bacteria,None,NoBacteria,1/4 Hoagland,1,3,L5,8.476
+103,19,B73,Full syncom,None,Fullsyncom,1/4 Hoagland,1,4,L1,3.438
+104,19,B73,Full syncom,None,Fullsyncom,1/4 Hoagland,1,4,L2,10.994
+105,19,B73,Full syncom,None,Fullsyncom,1/4 Hoagland,1,4,L3,26.438
+106,19,B73,Full syncom,None,Fullsyncom,1/4 Hoagland,1,4,L4,29.132
+107,19,B73,Full syncom,None,Fullsyncom,1/4 Hoagland,1,4,L5,13.783
+108,20,B73,Full syncom,None,Fullsyncom,1/4 Hoagland,1,4,L1,3.642
+109,20,B73,Full syncom,None,Fullsyncom,1/4 Hoagland,1,4,L2,12.076
+110,20,B73,Full syncom,None,Fullsyncom,1/4 Hoagland,1,4,L3,27.398
+111,20,B73,Full syncom,None,Fullsyncom,1/4 Hoagland,1,4,L4,25.365
+112,20,B73,Full syncom,None,Fullsyncom,1/4 Hoagland,1,4,L5,8.813
+113,21,B73,Full syncom,None,Fullsyncom,1/4 Hoagland,1,4,L1,3.41
+114,21,B73,Full syncom,None,Fullsyncom,1/4 Hoagland,1,4,L2,13.827
+115,21,B73,Full syncom,None,Fullsyncom,1/4 Hoagland,1,4,L3,23.051
+116,21,B73,Full syncom,None,Fullsyncom,1/4 Hoagland,1,4,L4,27.773
+117,21,B73,Full syncom,None,Fullsyncom,1/4 Hoagland,1,4,L5,11.829
+118,22,B73,Full syncom,None,Fullsyncom,1/4 Hoagland,1,4,L1,4.995
+119,22,B73,Full syncom,None,Fullsyncom,1/4 Hoagland,1,4,L2,14.086
+120,22,B73,Full syncom,None,Fullsyncom,1/4 Hoagland,1,4,L3,27.224
+121,22,B73,Full syncom,None,Fullsyncom,1/4 Hoagland,1,4,L4,26.655
+122,22,B73,Full syncom,None,Fullsyncom,1/4 Hoagland,1,4,L5,15.226
+123,23,B73,Full syncom,None,Fullsyncom,1/4 Hoagland,1,4,L1,3.265
+124,23,B73,Full syncom,None,Fullsyncom,1/4 Hoagland,1,4,L2,13.344
+125,23,B73,Full syncom,None,Fullsyncom,1/4 Hoagland,1,4,L3,21.64
+126,23,B73,Full syncom,None,Fullsyncom,1/4 Hoagland,1,4,L4,21.279
+127,23,B73,Full syncom,None,Fullsyncom,1/4 Hoagland,1,4,L5,11.983
+128,24,B73,Full syncom,None,Fullsyncom,1/4 Hoagland,1,4,L1,3.554
+129,24,B73,Full syncom,None,Fullsyncom,1/4 Hoagland,1,4,L2,11.768
+130,24,B73,Full syncom,None,Fullsyncom,1/4 Hoagland,1,4,L3,16.574
+131,24,B73,Full syncom,None,Fullsyncom,1/4 Hoagland,1,4,L4,18.145
+132,24,B73,Full syncom,None,Fullsyncom,1/4 Hoagland,1,4,L5,7.541
+133,25,B73,SynCom1,L1_L2,L1&L2,1/4 Hoagland,1,5,L1,4.664
+134,25,B73,SynCom1,L1_L2,L1&L2,1/4 Hoagland,1,5,L2,17.722
+135,25,B73,SynCom1,L1_L2,L1&L2,1/4 Hoagland,1,5,L3,30.542
+136,25,B73,SynCom1,L1_L2,L1&L2,1/4 Hoagland,1,5,L4,21.364
+137,25,B73,SynCom1,L1_L2,L1&L2,1/4 Hoagland,1,5,L5,16.051
+138,26,B73,SynCom1,L1_L2,L1&L2,1/4 Hoagland,1,5,L1,4.553
+139,26,B73,SynCom1,L1_L2,L1&L2,1/4 Hoagland,1,5,L2,8.818
+140,26,B73,SynCom1,L1_L2,L1&L2,1/4 Hoagland,1,5,L3,21.341
+141,26,B73,SynCom1,L1_L2,L1&L2,1/4 Hoagland,1,5,L4,21.229
+142,26,B73,SynCom1,L1_L2,L1&L2,1/4 Hoagland,1,5,L5,11.069
+143,27,B73,SynCom1,L1_L2,L1&L2,1/4 Hoagland,1,5,L1,2.619
+144,27,B73,SynCom1,L1_L2,L1&L2,1/4 Hoagland,1,5,L2,9.628
+145,27,B73,SynCom1,L1_L2,L1&L2,1/4 Hoagland,1,5,L3,23.632
+146,27,B73,SynCom1,L1_L2,L1&L2,1/4 Hoagland,1,5,L4,30.876
+147,27,B73,SynCom1,L1_L2,L1&L2,1/4 Hoagland,1,5,L5,20.403
+148,28,B73,SynCom1,L1_L2,L1&L2,1/4 Hoagland,1,5,L1,2.088
+149,28,B73,SynCom1,L1_L2,L1&L2,1/4 Hoagland,1,5,L2,8.345
+150,28,B73,SynCom1,L1_L2,L1&L2,1/4 Hoagland,1,5,L3,15.682
+151,28,B73,SynCom1,L1_L2,L1&L2,1/4 Hoagland,1,5,L4,16.241
+152,28,B73,SynCom1,L1_L2,L1&L2,1/4 Hoagland,1,5,L5,9.311
+153,29,B73,SynCom1,L1_L2,L1&L2,1/4 Hoagland,1,5,L1,3.749
+154,29,B73,SynCom1,L1_L2,L1&L2,1/4 Hoagland,1,5,L2,13.06
+155,29,B73,SynCom1,L1_L2,L1&L2,1/4 Hoagland,1,5,L3,25.078
+156,29,B73,SynCom1,L1_L2,L1&L2,1/4 Hoagland,1,5,L4,29.542
+157,29,B73,SynCom1,L1_L2,L1&L2,1/4 Hoagland,1,5,L5,14.609
+158,30,B73,SynCom1,L1_L2,L1&L2,1/4 Hoagland,1,5,L1,4.072
+159,30,B73,SynCom1,L1_L2,L1&L2,1/4 Hoagland,1,5,L2,13.641
+160,30,B73,SynCom1,L1_L2,L1&L2,1/4 Hoagland,1,5,L3,24.122
+161,30,B73,SynCom1,L1_L2,L1&L2,1/4 Hoagland,1,5,L4,27.382
+162,30,B73,SynCom1,L1_L2,L1&L2,1/4 Hoagland,1,5,L5,13.084
+163,31,B73,SynCom2,L3,L3,1/4 Hoagland,1,6,L1,2.917
+164,31,B73,SynCom2,L3,L3,1/4 Hoagland,1,6,L2,13.337
+165,31,B73,SynCom2,L3,L3,1/4 Hoagland,1,6,L3,27.733
+166,31,B73,SynCom2,L3,L3,1/4 Hoagland,1,6,L4,25.93
+167,31,B73,SynCom2,L3,L3,1/4 Hoagland,1,6,L5,11.047
+168,32,B73,SynCom2,L3,L3,1/4 Hoagland,1,6,L1,2.572
+169,32,B73,SynCom2,L3,L3,1/4 Hoagland,1,6,L2,7.023
+170,32,B73,SynCom2,L3,L3,1/4 Hoagland,1,6,L3,20.301
+171,32,B73,SynCom2,L3,L3,1/4 Hoagland,1,6,L4,23.042
+172,32,B73,SynCom2,L3,L3,1/4 Hoagland,1,6,L5,14.164
+173,33,B73,SynCom2,L3,L3,1/4 Hoagland,1,6,L1,3.996
+174,33,B73,SynCom2,L3,L3,1/4 Hoagland,1,6,L2,9.722
+175,33,B73,SynCom2,L3,L3,1/4 Hoagland,1,6,L3,22.528
+176,33,B73,SynCom2,L3,L3,1/4 Hoagland,1,6,L4,22.444
+177,33,B73,SynCom2,L3,L3,1/4 Hoagland,1,6,L5,10.233
+178,34,B73,SynCom2,L3,L3,1/4 Hoagland,1,6,L1,3.95
+179,34,B73,SynCom2,L3,L3,1/4 Hoagland,1,6,L2,10.188
+180,34,B73,SynCom2,L3,L3,1/4 Hoagland,1,6,L3,21.469
+181,34,B73,SynCom2,L3,L3,1/4 Hoagland,1,6,L4,23.901
+182,34,B73,SynCom2,L3,L3,1/4 Hoagland,1,6,L5,10.208
+183,35,B73,SynCom2,L3,L3,1/4 Hoagland,1,6,L1,2.685
+184,35,B73,SynCom2,L3,L3,1/4 Hoagland,1,6,L2,10.737
+185,35,B73,SynCom2,L3,L3,1/4 Hoagland,1,6,L3,18.197
+186,35,B73,SynCom2,L3,L3,1/4 Hoagland,1,6,L4,17.057
+187,35,B73,SynCom2,L3,L3,1/4 Hoagland,1,6,L5,7.043
+188,36,B73,SynCom2,L3,L3,1/4 Hoagland,1,6,L1,3.278
+189,36,B73,SynCom2,L3,L3,1/4 Hoagland,1,6,L2,10.165
+190,36,B73,SynCom2,L3,L3,1/4 Hoagland,1,6,L3,21.424
+191,36,B73,SynCom2,L3,L3,1/4 Hoagland,1,6,L4,19.921
+192,36,B73,SynCom2,L3,L3,1/4 Hoagland,1,6,L5,13.533
+193,37,B73,SynCom3,L4_up,L4,1/4 Hoagland,1,7,L1,4.525
+194,37,B73,SynCom3,L4_up,L4,1/4 Hoagland,1,7,L2,11.916
+195,37,B73,SynCom3,L4_up,L4,1/4 Hoagland,1,7,L3,21.166
+196,37,B73,SynCom3,L4_up,L4,1/4 Hoagland,1,7,L4,22.386
+197,37,B73,SynCom3,L4_up,L4,1/4 Hoagland,1,7,L5,17.417
+198,38,B73,SynCom3,L4_up,L4,1/4 Hoagland,1,7,L1,2.852
+199,38,B73,SynCom3,L4_up,L4,1/4 Hoagland,1,7,L2,9.983
+200,38,B73,SynCom3,L4_up,L4,1/4 Hoagland,1,7,L3,12.621
+201,38,B73,SynCom3,L4_up,L4,1/4 Hoagland,1,7,L4,11.724
+202,38,B73,SynCom3,L4_up,L4,1/4 Hoagland,1,7,L5,5.059
+203,39,B73,SynCom3,L4_up,L4,1/4 Hoagland,1,7,L1,2.263
+204,39,B73,SynCom3,L4_up,L4,1/4 Hoagland,1,7,L2,7.898
+205,39,B73,SynCom3,L4_up,L4,1/4 Hoagland,1,7,L3,16.076
+206,39,B73,SynCom3,L4_up,L4,1/4 Hoagland,1,7,L4,19.353
+207,39,B73,SynCom3,L4_up,L4,1/4 Hoagland,1,7,L5,10.663
+208,40,B73,SynCom3,L4_up,L4,1/4 Hoagland,1,7,L1,2.201
+209,40,B73,SynCom3,L4_up,L4,1/4 Hoagland,1,7,L2,7.403
+210,40,B73,SynCom3,L4_up,L4,1/4 Hoagland,1,7,L3,23.121
+211,40,B73,SynCom3,L4_up,L4,1/4 Hoagland,1,7,L4,24.349
+212,40,B73,SynCom3,L4_up,L4,1/4 Hoagland,1,7,L5,15.78
+213,41,B73,SynCom3,L4_up,L4,1/4 Hoagland,1,7,L1,3.05
+214,41,B73,SynCom3,L4_up,L4,1/4 Hoagland,1,7,L2,11.358
+215,41,B73,SynCom3,L4_up,L4,1/4 Hoagland,1,7,L3,20.171
+216,41,B73,SynCom3,L4_up,L4,1/4 Hoagland,1,7,L4,20.167
+217,41,B73,SynCom3,L4_up,L4,1/4 Hoagland,1,7,L5,11.765
+218,42,B73,SynCom3,L4_up,L4,1/4 Hoagland,1,7,L1,1.317
+219,42,B73,SynCom3,L4_up,L4,1/4 Hoagland,1,7,L2,9.24
+220,42,B73,SynCom3,L4_up,L4,1/4 Hoagland,1,7,L3,19.427
+221,42,B73,SynCom3,L4_up,L4,1/4 Hoagland,1,7,L4,22.674
+222,42,B73,SynCom3,L4_up,L4,1/4 Hoagland,1,7,L5,11.978
+223,43,B73,SynCom4,L5,L5,1/4 Hoagland,1,8,L1,3.585
+224,43,B73,SynCom4,L5,L5,1/4 Hoagland,1,8,L2,11.488
+225,43,B73,SynCom4,L5,L5,1/4 Hoagland,1,8,L3,19.308
+226,43,B73,SynCom4,L5,L5,1/4 Hoagland,1,8,L4,24.476
+227,43,B73,SynCom4,L5,L5,1/4 Hoagland,1,8,L5,10.361
+228,44,B73,SynCom4,L5,L5,1/4 Hoagland,1,8,L1,3.778
+229,44,B73,SynCom4,L5,L5,1/4 Hoagland,1,8,L2,9.712
+230,44,B73,SynCom4,L5,L5,1/4 Hoagland,1,8,L3,21.964
+231,44,B73,SynCom4,L5,L5,1/4 Hoagland,1,8,L4,20.333
+232,44,B73,SynCom4,L5,L5,1/4 Hoagland,1,8,L5,15.335
+233,45,B73,SynCom4,L5,L5,1/4 Hoagland,1,8,L1,3.838
+234,45,B73,SynCom4,L5,L5,1/4 Hoagland,1,8,L2,11.712
+235,45,B73,SynCom4,L5,L5,1/4 Hoagland,1,8,L3,19.168
+236,45,B73,SynCom4,L5,L5,1/4 Hoagland,1,8,L4,25.299
+237,45,B73,SynCom4,L5,L5,1/4 Hoagland,1,8,L5,10.314
+238,46,B73,SynCom4,L5,L5,1/4 Hoagland,1,8,L1,3.479
+239,46,B73,SynCom4,L5,L5,1/4 Hoagland,1,8,L2,10.403
+240,46,B73,SynCom4,L5,L5,1/4 Hoagland,1,8,L3,23.704
+241,46,B73,SynCom4,L5,L5,1/4 Hoagland,1,8,L4,26.981
+242,46,B73,SynCom4,L5,L5,1/4 Hoagland,1,8,L5,8.275
+243,47,B73,SynCom4,L5,L5,1/4 Hoagland,1,8,L1,4.162
+244,47,B73,SynCom4,L5,L5,1/4 Hoagland,1,8,L2,13.192
+245,47,B73,SynCom4,L5,L5,1/4 Hoagland,1,8,L3,19.049
+246,47,B73,SynCom4,L5,L5,1/4 Hoagland,1,8,L4,25.726
+247,47,B73,SynCom4,L5,L5,1/4 Hoagland,1,8,L5,8.037
+248,48,B73,SynCom4,L5,L5,1/4 Hoagland,1,8,L1,1.948
+249,48,B73,SynCom4,L5,L5,1/4 Hoagland,1,8,L2,9.943
+250,48,B73,SynCom4,L5,L5,1/4 Hoagland,1,8,L3,18.702
+251,48,B73,SynCom4,L5,L5,1/4 Hoagland,1,8,L4,28.659
+252,48,B73,SynCom4,L5,L5,1/4 Hoagland,1,8,L5,12.758
+253,49,B73,No Bacteria,None,NoBacteria,Full Hoagland,2,1,L1,4.471
+254,49,B73,No Bacteria,None,NoBacteria,Full Hoagland,2,1,L2,13.043
+255,49,B73,No Bacteria,None,NoBacteria,Full Hoagland,2,1,L3,26.753
+256,49,B73,No Bacteria,None,NoBacteria,Full Hoagland,2,1,L4,32.677
+257,49,B73,No Bacteria,None,NoBacteria,Full Hoagland,2,1,L5,16.554
+259,50,B73,No Bacteria,None,NoBacteria,Full Hoagland,2,1,L1,4.502
+260,50,B73,No Bacteria,None,NoBacteria,Full Hoagland,2,1,L2,15.014
+261,50,B73,No Bacteria,None,NoBacteria,Full Hoagland,2,1,L3,14.838
+262,50,B73,No Bacteria,None,NoBacteria,Full Hoagland,2,1,L4,30.972
+263,50,B73,No Bacteria,None,NoBacteria,Full Hoagland,2,1,L5,21.876
+264,50,B73,No Bacteria,None,NoBacteria,Full Hoagland,2,1,L6,9.97
+265,51,B73,No Bacteria,None,NoBacteria,Full Hoagland,2,1,L1,2.52
+266,51,B73,No Bacteria,None,NoBacteria,Full Hoagland,2,1,L2,11.177
+267,51,B73,No Bacteria,None,NoBacteria,Full Hoagland,2,1,L3,24.246
+268,51,B73,No Bacteria,None,NoBacteria,Full Hoagland,2,1,L4,28.6
+269,51,B73,No Bacteria,None,NoBacteria,Full Hoagland,2,1,L5,17.167
+271,52,B73,No Bacteria,None,NoBacteria,Full Hoagland,2,1,L1,3.67
+272,52,B73,No Bacteria,None,NoBacteria,Full Hoagland,2,1,L2,7.872
+273,52,B73,No Bacteria,None,NoBacteria,Full Hoagland,2,1,L3,20.976
+274,52,B73,No Bacteria,None,NoBacteria,Full Hoagland,2,1,L4,21.483
+275,52,B73,No Bacteria,None,NoBacteria,Full Hoagland,2,1,L5,13.599
+277,53,B73,No Bacteria,None,NoBacteria,Full Hoagland,2,1,L1,4.878
+278,53,B73,No Bacteria,None,NoBacteria,Full Hoagland,2,1,L2,13.452
+279,53,B73,No Bacteria,None,NoBacteria,Full Hoagland,2,1,L3,28.505
+280,53,B73,No Bacteria,None,NoBacteria,Full Hoagland,2,1,L4,32.814
+281,53,B73,No Bacteria,None,NoBacteria,Full Hoagland,2,1,L5,17.782
+283,54,B73,No Bacteria,None,NoBacteria,Full Hoagland,2,1,L1,3.716
+284,54,B73,No Bacteria,None,NoBacteria,Full Hoagland,2,1,L2,14.06
+285,54,B73,No Bacteria,None,NoBacteria,Full Hoagland,2,1,L3,25.109
+286,54,B73,No Bacteria,None,NoBacteria,Full Hoagland,2,1,L4,28.953
+287,54,B73,No Bacteria,None,NoBacteria,Full Hoagland,2,1,L5,19.098
+289,55,B73,Full syncom,None,Fullsyncom,Full Hoagland,2,2,L1,4.094
+290,55,B73,Full syncom,None,Fullsyncom,Full Hoagland,2,2,L2,13.679
+291,55,B73,Full syncom,None,Fullsyncom,Full Hoagland,2,2,L3,30.026
+292,55,B73,Full syncom,None,Fullsyncom,Full Hoagland,2,2,L4,34.175
+293,55,B73,Full syncom,None,Fullsyncom,Full Hoagland,2,2,L5,19.606
+295,56,B73,Full syncom,None,Fullsyncom,Full Hoagland,2,2,L1,4.256
+296,56,B73,Full syncom,None,Fullsyncom,Full Hoagland,2,2,L2,15.366
+297,56,B73,Full syncom,None,Fullsyncom,Full Hoagland,2,2,L3,29.667
+298,56,B73,Full syncom,None,Fullsyncom,Full Hoagland,2,2,L4,33.083
+299,56,B73,Full syncom,None,Fullsyncom,Full Hoagland,2,2,L5,21.086
+301,57,B73,Full syncom,None,Fullsyncom,Full Hoagland,2,2,L1,2.169
+302,57,B73,Full syncom,None,Fullsyncom,Full Hoagland,2,2,L2,6.438
+303,57,B73,Full syncom,None,Fullsyncom,Full Hoagland,2,2,L3,19.148
+304,57,B73,Full syncom,None,Fullsyncom,Full Hoagland,2,2,L4,27.565
+305,57,B73,Full syncom,None,Fullsyncom,Full Hoagland,2,2,L5,17.012
+307,58,B73,Full syncom,None,Fullsyncom,Full Hoagland,2,2,L1,2.786
+308,58,B73,Full syncom,None,Fullsyncom,Full Hoagland,2,2,L2,10.921
+309,58,B73,Full syncom,None,Fullsyncom,Full Hoagland,2,2,L3,24.487
+310,58,B73,Full syncom,None,Fullsyncom,Full Hoagland,2,2,L4,32.428
+311,58,B73,Full syncom,None,Fullsyncom,Full Hoagland,2,2,L5,23.599
+313,59,B73,Full syncom,None,Fullsyncom,Full Hoagland,2,2,L1,2.16
+314,59,B73,Full syncom,None,Fullsyncom,Full Hoagland,2,2,L2,7.616
+315,59,B73,Full syncom,None,Fullsyncom,Full Hoagland,2,2,L3,22.86
+316,59,B73,Full syncom,None,Fullsyncom,Full Hoagland,2,2,L4,34.017
+317,59,B73,Full syncom,None,Fullsyncom,Full Hoagland,2,2,L5,16.465
+319,60,B73,Full syncom,None,Fullsyncom,Full Hoagland,2,2,L1,2.682
+320,60,B73,Full syncom,None,Fullsyncom,Full Hoagland,2,2,L2,13.211
+321,60,B73,Full syncom,None,Fullsyncom,Full Hoagland,2,2,L3,29.266
+322,60,B73,Full syncom,None,Fullsyncom,Full Hoagland,2,2,L4,35.945
+323,60,B73,Full syncom,None,Fullsyncom,Full Hoagland,2,2,L5,21.77
+325,61,B73,No Bacteria,None,NoBacteria,1/4 Hoagland,2,3,L1,2.953
+326,61,B73,No Bacteria,None,NoBacteria,1/4 Hoagland,2,3,L2,12.922
+327,61,B73,No Bacteria,None,NoBacteria,1/4 Hoagland,2,3,L3,23.802
+328,61,B73,No Bacteria,None,NoBacteria,1/4 Hoagland,2,3,L4,28.822
+329,61,B73,No Bacteria,None,NoBacteria,1/4 Hoagland,2,3,L5,17.499
+330,62,B73,No Bacteria,None,NoBacteria,1/4 Hoagland,2,3,L1,9.199
+331,62,B73,No Bacteria,None,NoBacteria,1/4 Hoagland,2,3,L2,5.777
+332,62,B73,No Bacteria,None,NoBacteria,1/4 Hoagland,2,3,L3,18.35
+333,62,B73,No Bacteria,None,NoBacteria,1/4 Hoagland,2,3,L4,17.257
+334,62,B73,No Bacteria,None,NoBacteria,1/4 Hoagland,2,3,L5,7.279
+335,63,B73,No Bacteria,None,NoBacteria,1/4 Hoagland,2,3,L1,4.651
+336,63,B73,No Bacteria,None,NoBacteria,1/4 Hoagland,2,3,L2,14.676
+337,63,B73,No Bacteria,None,NoBacteria,1/4 Hoagland,2,3,L3,24.596
+338,63,B73,No Bacteria,None,NoBacteria,1/4 Hoagland,2,3,L4,26.272
+339,63,B73,No Bacteria,None,NoBacteria,1/4 Hoagland,2,3,L5,16.878
+340,64,B73,No Bacteria,None,NoBacteria,1/4 Hoagland,2,3,L1,6.082
+341,64,B73,No Bacteria,None,NoBacteria,1/4 Hoagland,2,3,L2,14.08
+342,64,B73,No Bacteria,None,NoBacteria,1/4 Hoagland,2,3,L3,17.164
+343,64,B73,No Bacteria,None,NoBacteria,1/4 Hoagland,2,3,L4,24.814
+344,64,B73,No Bacteria,None,NoBacteria,1/4 Hoagland,2,3,L5,9.622
+345,65,B73,No Bacteria,None,NoBacteria,1/4 Hoagland,2,3,L1,5.279
+346,65,B73,No Bacteria,None,NoBacteria,1/4 Hoagland,2,3,L2,11.237
+347,65,B73,No Bacteria,None,NoBacteria,1/4 Hoagland,2,3,L3,29.401
+348,65,B73,No Bacteria,None,NoBacteria,1/4 Hoagland,2,3,L4,17.348
+349,65,B73,No Bacteria,None,NoBacteria,1/4 Hoagland,2,3,L5,7.485
+350,66,B73,No Bacteria,None,NoBacteria,1/4 Hoagland,2,3,L1,6.195
+351,66,B73,No Bacteria,None,NoBacteria,1/4 Hoagland,2,3,L2,17.137
+352,66,B73,No Bacteria,None,NoBacteria,1/4 Hoagland,2,3,L3,22.757
+353,66,B73,No Bacteria,None,NoBacteria,1/4 Hoagland,2,3,L4,24.52
+354,66,B73,No Bacteria,None,NoBacteria,1/4 Hoagland,2,3,L5,10.598
+355,67,B73,Full syncom,None,Fullsyncom,1/4 Hoagland,2,4,L1,5.414
+356,67,B73,Full syncom,None,Fullsyncom,1/4 Hoagland,2,4,L2,12.737
+357,67,B73,Full syncom,None,Fullsyncom,1/4 Hoagland,2,4,L3,23.882
+358,67,B73,Full syncom,None,Fullsyncom,1/4 Hoagland,2,4,L4,27.497
+359,67,B73,Full syncom,None,Fullsyncom,1/4 Hoagland,2,4,L5,13.564
+360,68,B73,Full syncom,None,Fullsyncom,1/4 Hoagland,2,4,L1,6.305
+361,68,B73,Full syncom,None,Fullsyncom,1/4 Hoagland,2,4,L2,12.869
+362,68,B73,Full syncom,None,Fullsyncom,1/4 Hoagland,2,4,L3,23.551
+363,68,B73,Full syncom,None,Fullsyncom,1/4 Hoagland,2,4,L4,27.013
+364,68,B73,Full syncom,None,Fullsyncom,1/4 Hoagland,2,4,L5,13.849
+365,69,B73,Full syncom,None,Fullsyncom,1/4 Hoagland,2,4,L1,2.891
+366,69,B73,Full syncom,None,Fullsyncom,1/4 Hoagland,2,4,L2,17.582
+367,69,B73,Full syncom,None,Fullsyncom,1/4 Hoagland,2,4,L3,25.49
+368,69,B73,Full syncom,None,Fullsyncom,1/4 Hoagland,2,4,L4,24.11
+369,69,B73,Full syncom,None,Fullsyncom,1/4 Hoagland,2,4,L5,12.013
+370,70,B73,Full syncom,None,Fullsyncom,1/4 Hoagland,2,4,L1,2.201
+371,70,B73,Full syncom,None,Fullsyncom,1/4 Hoagland,2,4,L2,8.519
+372,70,B73,Full syncom,None,Fullsyncom,1/4 Hoagland,2,4,L3,21.49
+373,70,B73,Full syncom,None,Fullsyncom,1/4 Hoagland,2,4,L4,28.845
+374,70,B73,Full syncom,None,Fullsyncom,1/4 Hoagland,2,4,L5,13.466
+375,71,B73,Full syncom,None,Fullsyncom,1/4 Hoagland,2,4,L1,4.58
+376,71,B73,Full syncom,None,Fullsyncom,1/4 Hoagland,2,4,L2,8.213
+377,71,B73,Full syncom,None,Fullsyncom,1/4 Hoagland,2,4,L3,28.947
+378,71,B73,Full syncom,None,Fullsyncom,1/4 Hoagland,2,4,L4,31.834
+379,71,B73,Full syncom,None,Fullsyncom,1/4 Hoagland,2,4,L5,14.734
+380,72,B73,Full syncom,None,Fullsyncom,1/4 Hoagland,2,4,L1,4.614
+381,72,B73,Full syncom,None,Fullsyncom,1/4 Hoagland,2,4,L2,11.129
+382,72,B73,Full syncom,None,Fullsyncom,1/4 Hoagland,2,4,L3,23.861
+383,72,B73,Full syncom,None,Fullsyncom,1/4 Hoagland,2,4,L4,27.812
+384,72,B73,Full syncom,None,Fullsyncom,1/4 Hoagland,2,4,L5,15.644
+385,73,B73,SynCom5,L1_L2,L1&L2,1/4 Hoagland,2,5,L1,4.447
+386,73,B73,SynCom5,L1_L2,L1&L2,1/4 Hoagland,2,5,L2,13.178
+387,73,B73,SynCom5,L1_L2,L1&L2,1/4 Hoagland,2,5,L3,23.308
+388,73,B73,SynCom5,L1_L2,L1&L2,1/4 Hoagland,2,5,L4,25.788
+389,73,B73,SynCom5,L1_L2,L1&L2,1/4 Hoagland,2,5,L5,13.618
+390,74,B73,SynCom5,L1_L2,L1&L2,1/4 Hoagland,2,5,L1,2.5
+391,74,B73,SynCom5,L1_L2,L1&L2,1/4 Hoagland,2,5,L2,13.833
+392,74,B73,SynCom5,L1_L2,L1&L2,1/4 Hoagland,2,5,L3,20.159
+393,74,B73,SynCom5,L1_L2,L1&L2,1/4 Hoagland,2,5,L4,25.596
+394,74,B73,SynCom5,L1_L2,L1&L2,1/4 Hoagland,2,5,L5,10.054
+395,75,B73,SynCom5,L1_L2,L1&L2,1/4 Hoagland,2,5,L1,3.649
+396,75,B73,SynCom5,L1_L2,L1&L2,1/4 Hoagland,2,5,L2,13.853
+397,75,B73,SynCom5,L1_L2,L1&L2,1/4 Hoagland,2,5,L3,25.349
+398,75,B73,SynCom5,L1_L2,L1&L2,1/4 Hoagland,2,5,L4,28.259
+399,75,B73,SynCom5,L1_L2,L1&L2,1/4 Hoagland,2,5,L5,10.492
+400,76,B73,SynCom5,L1_L2,L1&L2,1/4 Hoagland,2,5,L1,2.574
+401,76,B73,SynCom5,L1_L2,L1&L2,1/4 Hoagland,2,5,L2,11.003
+402,76,B73,SynCom5,L1_L2,L1&L2,1/4 Hoagland,2,5,L3,22.393
+403,76,B73,SynCom5,L1_L2,L1&L2,1/4 Hoagland,2,5,L4,27.319
+404,76,B73,SynCom5,L1_L2,L1&L2,1/4 Hoagland,2,5,L5,11.827
+405,77,B73,SynCom5,L1_L2,L1&L2,1/4 Hoagland,2,5,L1,4.045
+406,77,B73,SynCom5,L1_L2,L1&L2,1/4 Hoagland,2,5,L2,13.422
+407,77,B73,SynCom5,L1_L2,L1&L2,1/4 Hoagland,2,5,L3,23.485
+408,77,B73,SynCom5,L1_L2,L1&L2,1/4 Hoagland,2,5,L4,25.66
+409,77,B73,SynCom5,L1_L2,L1&L2,1/4 Hoagland,2,5,L5,9.228
+410,78,B73,SynCom5,L1_L2,L1&L2,1/4 Hoagland,2,5,L1,5.64
+411,78,B73,SynCom5,L1_L2,L1&L2,1/4 Hoagland,2,5,L2,7.945
+412,78,B73,SynCom5,L1_L2,L1&L2,1/4 Hoagland,2,5,L3,28.422
+413,78,B73,SynCom5,L1_L2,L1&L2,1/4 Hoagland,2,5,L4,32.953
+414,78,B73,SynCom5,L1_L2,L1&L2,1/4 Hoagland,2,5,L5,19.675
+415,79,B73,SynCom6,L3,L3,1/4 Hoagland,2,6,L1,4.828
+416,79,B73,SynCom6,L3,L3,1/4 Hoagland,2,6,L2,12.54
+417,79,B73,SynCom6,L3,L3,1/4 Hoagland,2,6,L3,23
+418,79,B73,SynCom6,L3,L3,1/4 Hoagland,2,6,L4,25.378
+419,79,B73,SynCom6,L3,L3,1/4 Hoagland,2,6,L5,12.378
+420,80,B73,SynCom6,L3,L3,1/4 Hoagland,2,6,L1,5.376
+421,80,B73,SynCom6,L3,L3,1/4 Hoagland,2,6,L2,12.081
+422,80,B73,SynCom6,L3,L3,1/4 Hoagland,2,6,L3,25.505
+423,80,B73,SynCom6,L3,L3,1/4 Hoagland,2,6,L4,26.625
+424,80,B73,SynCom6,L3,L3,1/4 Hoagland,2,6,L5,19.52
+425,81,B73,SynCom6,L3,L3,1/4 Hoagland,2,6,L1,3.082
+426,81,B73,SynCom6,L3,L3,1/4 Hoagland,2,6,L2,12.459
+427,81,B73,SynCom6,L3,L3,1/4 Hoagland,2,6,L3,20.918
+428,81,B73,SynCom6,L3,L3,1/4 Hoagland,2,6,L4,20.2
+429,81,B73,SynCom6,L3,L3,1/4 Hoagland,2,6,L5,8.612
+430,82,B73,SynCom6,L3,L3,1/4 Hoagland,2,6,L1,3.219
+431,82,B73,SynCom6,L3,L3,1/4 Hoagland,2,6,L2,10.713
+432,82,B73,SynCom6,L3,L3,1/4 Hoagland,2,6,L3,25.057
+433,82,B73,SynCom6,L3,L3,1/4 Hoagland,2,6,L4,23.643
+434,82,B73,SynCom6,L3,L3,1/4 Hoagland,2,6,L5,12.9
+435,83,B73,SynCom6,L3,L3,1/4 Hoagland,2,6,L1,5.172
+436,83,B73,SynCom6,L3,L3,1/4 Hoagland,2,6,L2,11.097
+437,83,B73,SynCom6,L3,L3,1/4 Hoagland,2,6,L3,23.092
+438,83,B73,SynCom6,L3,L3,1/4 Hoagland,2,6,L4,24.593
+439,83,B73,SynCom6,L3,L3,1/4 Hoagland,2,6,L5,14.842
+440,84,B73,SynCom6,L3,L3,1/4 Hoagland,2,6,L1,4.352
+441,84,B73,SynCom6,L3,L3,1/4 Hoagland,2,6,L2,12.617
+442,84,B73,SynCom6,L3,L3,1/4 Hoagland,2,6,L3,23.821
+443,84,B73,SynCom6,L3,L3,1/4 Hoagland,2,6,L4,27.581
+444,84,B73,SynCom6,L3,L3,1/4 Hoagland,2,6,L5,12.338
+445,85,B73,SynCom7,L4_up,L4,1/4 Hoagland,2,7,L1,3.029
+446,85,B73,SynCom7,L4_up,L4,1/4 Hoagland,2,7,L2,11.031
+447,85,B73,SynCom7,L4_up,L4,1/4 Hoagland,2,7,L3,22.228
+448,85,B73,SynCom7,L4_up,L4,1/4 Hoagland,2,7,L4,27.972
+449,85,B73,SynCom7,L4_up,L4,1/4 Hoagland,2,7,L5,12.501
+450,86,B73,SynCom7,L4_up,L4,1/4 Hoagland,2,7,L1,4.931
+451,86,B73,SynCom7,L4_up,L4,1/4 Hoagland,2,7,L2,12.928
+452,86,B73,SynCom7,L4_up,L4,1/4 Hoagland,2,7,L3,23.751
+453,86,B73,SynCom7,L4_up,L4,1/4 Hoagland,2,7,L4,15.508
+454,86,B73,SynCom7,L4_up,L4,1/4 Hoagland,2,7,L5,11.641
+455,87,B73,SynCom7,L4_up,L4,1/4 Hoagland,2,7,L1,4.286
+456,87,B73,SynCom7,L4_up,L4,1/4 Hoagland,2,7,L2,8.003
+457,87,B73,SynCom7,L4_up,L4,1/4 Hoagland,2,7,L3,21.788
+458,87,B73,SynCom7,L4_up,L4,1/4 Hoagland,2,7,L4,24.824
+459,87,B73,SynCom7,L4_up,L4,1/4 Hoagland,2,7,L5,13.478
+460,88,B73,SynCom7,L4_up,L4,1/4 Hoagland,2,7,L1,3.008
+461,88,B73,SynCom7,L4_up,L4,1/4 Hoagland,2,7,L2,11.777
+462,88,B73,SynCom7,L4_up,L4,1/4 Hoagland,2,7,L3,23.605
+463,88,B73,SynCom7,L4_up,L4,1/4 Hoagland,2,7,L4,25.378
+464,88,B73,SynCom7,L4_up,L4,1/4 Hoagland,2,7,L5,15.596
+465,89,B73,SynCom7,L4_up,L4,1/4 Hoagland,2,7,L1,3.525
+466,89,B73,SynCom7,L4_up,L4,1/4 Hoagland,2,7,L2,10.135
+467,89,B73,SynCom7,L4_up,L4,1/4 Hoagland,2,7,L3,25.678
+468,89,B73,SynCom7,L4_up,L4,1/4 Hoagland,2,7,L4,23.943
+469,89,B73,SynCom7,L4_up,L4,1/4 Hoagland,2,7,L5,11.086
+470,90,B73,SynCom7,L4_up,L4,1/4 Hoagland,2,7,L1,3.124
+471,90,B73,SynCom7,L4_up,L4,1/4 Hoagland,2,7,L2,13.513
+472,90,B73,SynCom7,L4_up,L4,1/4 Hoagland,2,7,L3,20.874
+473,90,B73,SynCom7,L4_up,L4,1/4 Hoagland,2,7,L4,24.349
+474,90,B73,SynCom7,L4_up,L4,1/4 Hoagland,2,7,L5,15.597
+475,91,B73,SynCom8,L5,L5,1/4 Hoagland,2,8,L1,3.288
+476,91,B73,SynCom8,L5,L5,1/4 Hoagland,2,8,L2,10.773
+477,91,B73,SynCom8,L5,L5,1/4 Hoagland,2,8,L3,22.089
+478,91,B73,SynCom8,L5,L5,1/4 Hoagland,2,8,L4,26.238
+479,91,B73,SynCom8,L5,L5,1/4 Hoagland,2,8,L5,12.863
+480,92,B73,SynCom8,L5,L5,1/4 Hoagland,2,8,L1,5.16
+481,92,B73,SynCom8,L5,L5,1/4 Hoagland,2,8,L2,8.738
+482,92,B73,SynCom8,L5,L5,1/4 Hoagland,2,8,L3,21.147
+483,92,B73,SynCom8,L5,L5,1/4 Hoagland,2,8,L4,15.11
+484,92,B73,SynCom8,L5,L5,1/4 Hoagland,2,8,L5,9.49
+485,93,B73,SynCom8,L5,L5,1/4 Hoagland,2,8,L1,4.435
+486,93,B73,SynCom8,L5,L5,1/4 Hoagland,2,8,L2,10.975
+487,93,B73,SynCom8,L5,L5,1/4 Hoagland,2,8,L3,15.561
+488,93,B73,SynCom8,L5,L5,1/4 Hoagland,2,8,L4,24.541
+489,93,B73,SynCom8,L5,L5,1/4 Hoagland,2,8,L5,11.54
+490,94,B73,SynCom8,L5,L5,1/4 Hoagland,2,8,L1,6.08
+491,94,B73,SynCom8,L5,L5,1/4 Hoagland,2,8,L2,8.534
+492,94,B73,SynCom8,L5,L5,1/4 Hoagland,2,8,L3,18.297
+493,94,B73,SynCom8,L5,L5,1/4 Hoagland,2,8,L4,16.454
+494,94,B73,SynCom8,L5,L5,1/4 Hoagland,2,8,L5,14.372
+495,95,B73,SynCom8,L5,L5,1/4 Hoagland,2,8,L1,4.992
+496,95,B73,SynCom8,L5,L5,1/4 Hoagland,2,8,L2,6.065
+497,95,B73,SynCom8,L5,L5,1/4 Hoagland,2,8,L3,17.919
+498,95,B73,SynCom8,L5,L5,1/4 Hoagland,2,8,L4,16.29
+499,95,B73,SynCom8,L5,L5,1/4 Hoagland,2,8,L5,7.244
+500,96,B73,SynCom8,L5,L5,1/4 Hoagland,2,8,L1,5.691
+501,96,B73,SynCom8,L5,L5,1/4 Hoagland,2,8,L2,10.701
+502,96,B73,SynCom8,L5,L5,1/4 Hoagland,2,8,L3,25.043
+503,96,B73,SynCom8,L5,L5,1/4 Hoagland,2,8,L4,27.285
+504,96,B73,SynCom8,L5,L5,1/4 Hoagland,2,8,L5,12.663
