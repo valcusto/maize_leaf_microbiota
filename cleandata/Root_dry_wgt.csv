@@ -1,0 +1,241 @@
+UiD,num_pot,genotype,soil,treatment,tray,experiment,municipalities,region,north_lat_y,west_lon_x,Country,rdw_mg
+1,1,CVSt,Tarrafal,50%FC,2,1,Tarrafal,Colonato,15.254874,-23.744146,Cabo Verde,286.6
+2,2,CVSt,Tarrafal,50%FC,11,1,Tarrafal,Colonato,15.254874,-23.744146,Cabo Verde,376.6
+3,3,CVSt,Tarrafal,50%FC,1,1,Tarrafal,Colonato,15.254874,-23.744146,Cabo Verde,605.4
+4,10,Matuba,Tarrafal,50%FC,2,1,Tarrafal,Colonato,15.254874,-23.744146,Cabo Verde,209.1
+5,11,Matuba,Tarrafal,50%FC,6,1,Tarrafal,Colonato,15.254874,-23.744146,Cabo Verde,323.5
+6,12,Matuba,Tarrafal,50%FC,8,1,Tarrafal,Colonato,15.254874,-23.744146,Cabo Verde,325.4
+7,49,Zm523,Tarrafal,50%FC,9,1,Tarrafal,Colonato,15.254874,-23.744146,Cabo Verde,351.6
+8,50,Zm523,Tarrafal,50%FC,8,1,Tarrafal,Colonato,15.254874,-23.744146,Cabo Verde,196.1
+9,51,Zm523,Tarrafal,50%FC,13,1,Tarrafal,Colonato,15.254874,-23.744146,Cabo Verde,333.1
+10,58,B73,Tarrafal,50%FC,10,1,Tarrafal,Colonato,15.254874,-23.744146,Cabo Verde,221.6
+11,59,B73,Tarrafal,50%FC,5,1,Tarrafal,Colonato,15.254874,-23.744146,Cabo Verde,225.5
+12,60,B73,Tarrafal,50%FC,13,1,Tarrafal,Colonato,15.254874,-23.744146,Cabo Verde,256.3
+16,16,CVSt,Sao Domingos,50%FC,10,1,Sao Domingos,Ribeira São Domingos (Nora),15.018798,-23.548427,Cabo Verde,192.5
+17,17,CVSt,Sao Domingos,50%FC,3,1,Sao Domingos,Ribeira São Domingos (Nora),15.018798,-23.548427,Cabo Verde,351.5
+18,18,CVSt,Sao Domingos,50%FC,6,1,Sao Domingos,Ribeira São Domingos (Nora),15.018798,-23.548427,Cabo Verde,181.9
+19,25,Matuba,Sao Domingos,50%FC,8,1,Sao Domingos,Ribeira São Domingos (Nora),15.018798,-23.548427,Cabo Verde,264.9
+20,26,Matuba,Sao Domingos,50%FC,5,1,Sao Domingos,Ribeira São Domingos (Nora),15.018798,-23.548427,Cabo Verde,304.1
+21,27,Matuba,Sao Domingos,50%FC,12,1,Sao Domingos,Ribeira São Domingos (Nora),15.018798,-23.548427,Cabo Verde,225.8
+22,64,Zm523,Sao Domingos,50%FC,2,1,Sao Domingos,Ribeira São Domingos (Nora),15.018798,-23.548427,Cabo Verde,251.7
+23,65,Zm523,Sao Domingos,50%FC,7,1,Sao Domingos,Ribeira São Domingos (Nora),15.018798,-23.548427,Cabo Verde,476.8
+24,66,Zm523,Sao Domingos,50%FC,7,1,Sao Domingos,Ribeira São Domingos (Nora),15.018798,-23.548427,Cabo Verde,391.6
+25,73,B73,Sao Domingos,50%FC,1,1,Sao Domingos,Ribeira São Domingos (Nora),15.018798,-23.548427,Cabo Verde,195
+26,74,B73,Sao Domingos,50%FC,4,1,Sao Domingos,Ribeira São Domingos (Nora),15.018798,-23.548427,Cabo Verde,156.6
+27,75,B73,Sao Domingos,50%FC,14,1,Sao Domingos,Ribeira São Domingos (Nora),15.018798,-23.548427,Cabo Verde,160.6
+31,31,CVSt,Sutton Bonington,50%FC,9,1,Sutton Bonington,Sutton Bonington,52.833265,-1.24906,UK,372.9
+32,32,CVSt,Sutton Bonington,50%FC,1,1,Sutton Bonington,Sutton Bonington,52.833265,-1.24906,UK,313.1
+33,33,CVSt,Sutton Bonington,50%FC,15,1,Sutton Bonington,Sutton Bonington,52.833265,-1.24906,UK,346.4
+34,34,CVSt,Sutton Bonington,20%FC,5,1,Sutton Bonington,Sutton Bonington,52.833265,-1.24906,UK,199.4
+35,35,CVSt,Sutton Bonington,20%FC,3,1,Sutton Bonington,Sutton Bonington,52.833265,-1.24906,UK,234.7
+36,36,CVSt,Sutton Bonington,20%FC,6,1,Sutton Bonington,Sutton Bonington,52.833265,-1.24906,UK,196.8
+37,37,CVSt,Sutton Bonington,9%FC,11,1,Sutton Bonington,Sutton Bonington,52.833265,-1.24906,UK,29.9
+38,38,CVSt,Sutton Bonington,9%FC,3,1,Sutton Bonington,Sutton Bonington,52.833265,-1.24906,UK,31
+39,39,CVSt,Sutton Bonington,9%FC,11,1,Sutton Bonington,Sutton Bonington,52.833265,-1.24906,UK,26.7
+40,40,Matuba,Sutton Bonington,50%FC,6,1,Sutton Bonington,Sutton Bonington,52.833265,-1.24906,UK,352.7
+41,41,Matuba,Sutton Bonington,50%FC,1,1,Sutton Bonington,Sutton Bonington,52.833265,-1.24906,UK,331.2
+42,42,Matuba,Sutton Bonington,50%FC,4,1,Sutton Bonington,Sutton Bonington,52.833265,-1.24906,UK,484.2
+43,43,Matuba,Sutton Bonington,20%FC,15,1,Sutton Bonington,Sutton Bonington,52.833265,-1.24906,UK,122.8
+44,44,Matuba,Sutton Bonington,20%FC,13,1,Sutton Bonington,Sutton Bonington,52.833265,-1.24906,UK,165.2
+45,45,Matuba,Sutton Bonington,20%FC,12,1,Sutton Bonington,Sutton Bonington,52.833265,-1.24906,UK,122.1
+46,76,Matuba,Sutton Bonington,9%FC,15,1,Sutton Bonington,Sutton Bonington,52.833265,-1.24906,UK,21.3
+47,77,Matuba,Sutton Bonington,9%FC,4,1,Sutton Bonington,Sutton Bonington,52.833265,-1.24906,UK,64.4
+48,78,Matuba,Sutton Bonington,9%FC,10,1,Sutton Bonington,Sutton Bonington,52.833265,-1.24906,UK,9.1
+49,79,Zm523,Sutton Bonington,50%FC,14,1,Sutton Bonington,Sutton Bonington,52.833265,-1.24906,UK,481.1
+50,80,Zm523,Sutton Bonington,50%FC,10,1,Sutton Bonington,Sutton Bonington,52.833265,-1.24906,UK,370
+51,81,Zm523,Sutton Bonington,50%FC,2,1,Sutton Bonington,Sutton Bonington,52.833265,-1.24906,UK,507.3
+52,82,Zm523,Sutton Bonington,20%FC,11,1,Sutton Bonington,Sutton Bonington,52.833265,-1.24906,UK,265.4
+53,83,Zm523,Sutton Bonington,20%FC,14,1,Sutton Bonington,Sutton Bonington,52.833265,-1.24906,UK,222.8
+54,84,Zm523,Sutton Bonington,20%FC,15,1,Sutton Bonington,Sutton Bonington,52.833265,-1.24906,UK,235.9
+55,85,Zm523,Sutton Bonington,9%FC,15,1,Sutton Bonington,Sutton Bonington,52.833265,-1.24906,UK,41.3
+56,86,Zm523,Sutton Bonington,9%FC,15,1,Sutton Bonington,Sutton Bonington,52.833265,-1.24906,UK,74.6
+57,87,Zm523,Sutton Bonington,9%FC,6,1,Sutton Bonington,Sutton Bonington,52.833265,-1.24906,UK,34.2
+58,88,B73,Sutton Bonington,50%FC,11,1,Sutton Bonington,Sutton Bonington,52.833265,-1.24906,UK,251.7
+59,89,B73,Sutton Bonington,50%FC,13,1,Sutton Bonington,Sutton Bonington,52.833265,-1.24906,UK,239.6
+60,90,B73,Sutton Bonington,50%FC,1,1,Sutton Bonington,Sutton Bonington,52.833265,-1.24906,UK,206.1
+61,121,B73,Sutton Bonington,20%FC,4,1,Sutton Bonington,Sutton Bonington,52.833265,-1.24906,UK,173.2
+62,122,B73,Sutton Bonington,20%FC,3,1,Sutton Bonington,Sutton Bonington,52.833265,-1.24906,UK,156.8
+63,123,B73,Sutton Bonington,20%FC,9,1,Sutton Bonington,Sutton Bonington,52.833265,-1.24906,UK,78.4
+64,124,B73,Sutton Bonington,9%FC,9,1,Sutton Bonington,Sutton Bonington,52.833265,-1.24906,UK,24.4
+65,125,B73,Sutton Bonington,9%FC,3,1,Sutton Bonington,Sutton Bonington,52.833265,-1.24906,UK,8.3
+66,126,B73,Sutton Bonington,9%FC,13,1,Sutton Bonington,Sutton Bonington,52.833265,-1.24906,UK,6.6
+76,1,CVSt,Tarrafal,50%FC,7,2,Tarrafal,Colonato,15.254874,-23.744146,Cabo Verde,476.4
+77,2,CVSt,Tarrafal,50%FC,9,2,Tarrafal,Colonato,15.254874,-23.744146,Cabo Verde,399.9
+78,3,CVSt,Tarrafal,50%FC,12,2,Tarrafal,Colonato,15.254874,-23.744146,Cabo Verde,337.1
+79,4,Matuba,Tarrafal,50%FC,12,2,Tarrafal,Colonato,15.254874,-23.744146,Cabo Verde,410.4
+80,5,Matuba,Tarrafal,50%FC,7,2,Tarrafal,Colonato,15.254874,-23.744146,Cabo Verde,172.8
+81,6,Matuba,Tarrafal,50%FC,5,2,Tarrafal,Colonato,15.254874,-23.744146,Cabo Verde,522.4
+82,7,Zm523,Tarrafal,50%FC,5,2,Tarrafal,Colonato,15.254874,-23.744146,Cabo Verde,550.4
+83,8,Zm523,Tarrafal,50%FC,11,2,Tarrafal,Colonato,15.254874,-23.744146,Cabo Verde,620.7
+84,9,Zm523,Tarrafal,50%FC,11,2,Tarrafal,Colonato,15.254874,-23.744146,Cabo Verde,386.3
+85,10,B73,Tarrafal,50%FC,2,2,Tarrafal,Colonato,15.254874,-23.744146,Cabo Verde,236
+86,11,B73,Tarrafal,50%FC,6,2,Tarrafal,Colonato,15.254874,-23.744146,Cabo Verde,265.2
+87,12,B73,Tarrafal,50%FC,6,2,Tarrafal,Colonato,15.254874,-23.744146,Cabo Verde,228.8
+91,16,CVSt,Sao Domingos,50%FC,8,2,Sao Domingos,Ribeira São Domingos (Nora),15.018798,-23.548427,Cabo Verde,316.4
+92,17,CVSt,Sao Domingos,50%FC,9,2,Sao Domingos,Ribeira São Domingos (Nora),15.018798,-23.548427,Cabo Verde,288.1
+93,18,CVSt,Sao Domingos,50%FC,1,2,Sao Domingos,Ribeira São Domingos (Nora),15.018798,-23.548427,Cabo Verde,391.2
+94,19,Matuba,Sao Domingos,50%FC,6,2,Sao Domingos,Ribeira São Domingos (Nora),15.018798,-23.548427,Cabo Verde,249.8
+95,20,Matuba,Sao Domingos,50%FC,2,2,Sao Domingos,Ribeira São Domingos (Nora),15.018798,-23.548427,Cabo Verde,309.4
+96,21,Matuba,Sao Domingos,50%FC,1,2,Sao Domingos,Ribeira São Domingos (Nora),15.018798,-23.548427,Cabo Verde,187.1
+97,22,Zm523,Sao Domingos,50%FC,11,2,Sao Domingos,Ribeira São Domingos (Nora),15.018798,-23.548427,Cabo Verde,310.9
+98,23,Zm523,Sao Domingos,50%FC,3,2,Sao Domingos,Ribeira São Domingos (Nora),15.018798,-23.548427,Cabo Verde,490.5
+99,24,Zm523,Sao Domingos,50%FC,6,2,Sao Domingos,Ribeira São Domingos (Nora),15.018798,-23.548427,Cabo Verde,517.2
+100,25,B73,Sao Domingos,50%FC,8,2,Sao Domingos,Ribeira São Domingos (Nora),15.018798,-23.548427,Cabo Verde,156
+101,26,B73,Sao Domingos,50%FC,2,2,Sao Domingos,Ribeira São Domingos (Nora),15.018798,-23.548427,Cabo Verde,273.8
+102,27,B73,Sao Domingos,50%FC,2,2,Sao Domingos,Ribeira São Domingos (Nora),15.018798,-23.548427,Cabo Verde,294.3
+106,31,CVSt,Sutton Bonington,50%FC,5,2,Sutton Bonington,Sutton Bonington,52.833265,-1.24906,UK,409.7
+107,32,CVSt,Sutton Bonington,50%FC,8,2,Sutton Bonington,Sutton Bonington,52.833265,-1.24906,UK,283.1
+108,33,CVSt,Sutton Bonington,50%FC,13,2,Sutton Bonington,Sutton Bonington,52.833265,-1.24906,UK,292.5
+109,34,CVSt,Sutton Bonington,20%FC,4,2,Sutton Bonington,Sutton Bonington,52.833265,-1.24906,UK,403.6
+110,35,CVSt,Sutton Bonington,20%FC,7,2,Sutton Bonington,Sutton Bonington,52.833265,-1.24906,UK,226.2
+111,36,CVSt,Sutton Bonington,20%FC,8,2,Sutton Bonington,Sutton Bonington,52.833265,-1.24906,UK,310.5
+112,37,CVSt,Sutton Bonington,9%FC,5,2,Sutton Bonington,Sutton Bonington,52.833265,-1.24906,UK,195.7
+113,38,CVSt,Sutton Bonington,9%FC,12,2,Sutton Bonington,Sutton Bonington,52.833265,-1.24906,UK,168.2
+114,39,CVSt,Sutton Bonington,9%FC,5,2,Sutton Bonington,Sutton Bonington,52.833265,-1.24906,UK,135.2
+115,40,Matuba,Sutton Bonington,50%FC,2,2,Sutton Bonington,Sutton Bonington,52.833265,-1.24906,UK,229.4
+116,41,Matuba,Sutton Bonington,50%FC,7,2,Sutton Bonington,Sutton Bonington,52.833265,-1.24906,UK,370.2
+117,42,Matuba,Sutton Bonington,50%FC,9,2,Sutton Bonington,Sutton Bonington,52.833265,-1.24906,UK,168.1
+118,43,Matuba,Sutton Bonington,20%FC,4,2,Sutton Bonington,Sutton Bonington,52.833265,-1.24906,UK,468.3
+119,44,Matuba,Sutton Bonington,20%FC,4,2,Sutton Bonington,Sutton Bonington,52.833265,-1.24906,UK,328
+120,45,Matuba,Sutton Bonington,20%FC,3,2,Sutton Bonington,Sutton Bonington,52.833265,-1.24906,UK,242.9
+121,46,Matuba,Sutton Bonington,9%FC,4,2,Sutton Bonington,Sutton Bonington,52.833265,-1.24906,UK,49.4
+122,47,Matuba,Sutton Bonington,9%FC,8,2,Sutton Bonington,Sutton Bonington,52.833265,-1.24906,UK,210.9
+123,48,Matuba,Sutton Bonington,9%FC,11,2,Sutton Bonington,Sutton Bonington,52.833265,-1.24906,UK,80.3
+124,49,Zm523,Sutton Bonington,50%FC,1,2,Sutton Bonington,Sutton Bonington,52.833265,-1.24906,UK,471.2
+125,50,Zm523,Sutton Bonington,50%FC,1,2,Sutton Bonington,Sutton Bonington,52.833265,-1.24906,UK,501.2
+126,51,Zm523,Sutton Bonington,50%FC,9,2,Sutton Bonington,Sutton Bonington,52.833265,-1.24906,UK,699
+127,52,Zm523,Sutton Bonington,20%FC,11,2,Sutton Bonington,Sutton Bonington,52.833265,-1.24906,UK,308.1
+128,53,Zm523,Sutton Bonington,20%FC,11,2,Sutton Bonington,Sutton Bonington,52.833265,-1.24906,UK,638.1
+129,54,Zm523,Sutton Bonington,20%FC,10,2,Sutton Bonington,Sutton Bonington,52.833265,-1.24906,UK,412.5
+130,55,Zm523,Sutton Bonington,9%FC,2,2,Sutton Bonington,Sutton Bonington,52.833265,-1.24906,UK,218.7
+131,56,Zm523,Sutton Bonington,9%FC,7,2,Sutton Bonington,Sutton Bonington,52.833265,-1.24906,UK,225.4
+132,57,Zm523,Sutton Bonington,9%FC,12,2,Sutton Bonington,Sutton Bonington,52.833265,-1.24906,UK,239.7
+133,,B73,Sutton Bonington,50%FC,8,2,Sutton Bonington,Sutton Bonington,52.833265,-1.24906,UK,NA
+134,59,B73,Sutton Bonington,50%FC,10,2,Sutton Bonington,Sutton Bonington,52.833265,-1.24906,UK,200.6
+135,60,B73,Sutton Bonington,50%FC,10,2,Sutton Bonington,Sutton Bonington,52.833265,-1.24906,UK,169.6
+136,61,B73,Sutton Bonington,20%FC,11,2,Sutton Bonington,Sutton Bonington,52.833265,-1.24906,UK,196.4
+137,62,B73,Sutton Bonington,20%FC,5,2,Sutton Bonington,Sutton Bonington,52.833265,-1.24906,UK,184.5
+138,63,B73,Sutton Bonington,20%FC,12,2,Sutton Bonington,Sutton Bonington,52.833265,-1.24906,UK,229.3
+139,64,B73,Sutton Bonington,9%FC,7,2,Sutton Bonington,Sutton Bonington,52.833265,-1.24906,UK,118.9
+140,65,B73,Sutton Bonington,9%FC,9,2,Sutton Bonington,Sutton Bonington,52.833265,-1.24906,UK,100.6
+141,66,B73,Sutton Bonington,9%FC,3,2,Sutton Bonington,Sutton Bonington,52.833265,-1.24906,UK,82.2
+151,R84,Zm523,Tarrafal,50%FC,9,2,Tarrafal,Colonato,15.254874,-23.744146,Cabo Verde,597.5
+152,R85,Zm523,Tarrafal,50%FC,12,2,Tarrafal,Colonato,15.254874,-23.744146,Cabo Verde,529.4
+153,R86,Zm523,Tarrafal,50%FC,10,2,Tarrafal,Colonato,15.254874,-23.744146,Cabo Verde,537.7
+154,R87,Zm523,Tarrafal,50%FC,7,2,Tarrafal,Colonato,15.254874,-23.744146,Cabo Verde,759.9
+155,R88,Zm523,Tarrafal,50%FC,6,2,Tarrafal,Colonato,15.254874,-23.744146,Cabo Verde,255.2
+156,R89,Zm523,Sao Domingos,50%FC,3,2,Sao Domingos,Ribeira São Domingos (Nora),15.018798,-23.548427,Cabo Verde,499.5
+157,R90,Zm523,Sao Domingos,50%FC,3,2,Sao Domingos,Ribeira São Domingos (Nora),15.018798,-23.548427,Cabo Verde,443.1
+158,R91,Zm523,Sao Domingos,50%FC,1,2,Sao Domingos,Ribeira São Domingos (Nora),15.018798,-23.548427,Cabo Verde,637.8
+159,R92,Zm523,Sao Domingos,50%FC,8,2,Sao Domingos,Ribeira São Domingos (Nora),15.018798,-23.548427,Cabo Verde,324.9
+160,R93,Zm523,Sao Domingos,50%FC,7,2,Sao Domingos,Ribeira São Domingos (Nora),15.018798,-23.548427,Cabo Verde,784.9
+161,R94,Zm523,Sutton Bonington,50%FC,12,2,Sutton Bonington,Sutton Bonington,52.833265,-1.24906,UK,778.6
+162,R95,Zm523,Sutton Bonington,50%FC,5,2,Sutton Bonington,Sutton Bonington,52.833265,-1.24906,UK,395.8
+163,R96,Zm523,Sutton Bonington,50%FC,6,2,Sutton Bonington,Sutton Bonington,52.833265,-1.24906,UK,422.4
+164,R97,Zm523,Sutton Bonington,50%FC,6,2,Sutton Bonington,Sutton Bonington,52.833265,-1.24906,UK,347.9
+165,R98,Zm523,Sutton Bonington,50%FC,11,2,Sutton Bonington,Sutton Bonington,52.833265,-1.24906,UK,513.3
+166,R99,Zm523,Sutton Bonington,20%FC,2,2,Sutton Bonington,Sutton Bonington,52.833265,-1.24906,UK,667
+167,R100,Zm523,Sutton Bonington,20%FC,3,2,Sutton Bonington,Sutton Bonington,52.833265,-1.24906,UK,494.5
+168,R101,Zm523,Sutton Bonington,20%FC,3,2,Sutton Bonington,Sutton Bonington,52.833265,-1.24906,UK,687
+169,R102,Zm523,Sutton Bonington,20%FC,2,2,Sutton Bonington,Sutton Bonington,52.833265,-1.24906,UK,344.9
+170,R103,Zm523,Sutton Bonington,20%FC,4,2,Sutton Bonington,Sutton Bonington,52.833265,-1.24906,UK,563.9
+171,R104,B73,Tarrafal,50%FC,1,2,Tarrafal,Colonato,15.254874,-23.744146,Cabo Verde,287.3
+172,R105,B73,Tarrafal,50%FC,12,2,Tarrafal,Colonato,15.254874,-23.744146,Cabo Verde,374.8
+173,R106,B73,Tarrafal,50%FC,2,2,Tarrafal,Colonato,15.254874,-23.744146,Cabo Verde,290.9
+174,R107,B73,Tarrafal,50%FC,13,2,Tarrafal,Colonato,15.254874,-23.744146,Cabo Verde,252.5
+175,R108,B73,Tarrafal,50%FC,5,2,Tarrafal,Colonato,15.254874,-23.744146,Cabo Verde,271
+176,R109,B73,Sao Domingos,50%FC,10,2,Sao Domingos,Ribeira São Domingos (Nora),15.018798,-23.548427,Cabo Verde,115.8
+177,R110,B73,Sao Domingos,50%FC,3,2,Sao Domingos,Ribeira São Domingos (Nora),15.018798,-23.548427,Cabo Verde,409.8
+178,R111,B73,Sao Domingos,50%FC,3,2,Sao Domingos,Ribeira São Domingos (Nora),15.018798,-23.548427,Cabo Verde,240
+179,R112,B73,Sao Domingos,50%FC,12,2,Sao Domingos,Ribeira São Domingos (Nora),15.018798,-23.548427,Cabo Verde,375.6
+180,R113,B73,Sao Domingos,50%FC,9,2,Sao Domingos,Ribeira São Domingos (Nora),15.018798,-23.548427,Cabo Verde,406.5
+181,R114,B73,Sutton Bonington,50%FC,11,2,Sutton Bonington,Sutton Bonington,52.833265,-1.24906,UK,216
+182,R115,B73,Sutton Bonington,50%FC,4,2,Sutton Bonington,Sutton Bonington,52.833265,-1.24906,UK,472.6
+183,R116,B73,Sutton Bonington,50%FC,7,2,Sutton Bonington,Sutton Bonington,52.833265,-1.24906,UK,319.1
+184,R117,B73,Sutton Bonington,50%FC,7,2,Sutton Bonington,Sutton Bonington,52.833265,-1.24906,UK,291.1
+185,R118,B73,Sutton Bonington,50%FC,10,2,Sutton Bonington,Sutton Bonington,52.833265,-1.24906,UK,329.5
+186,R119,B73,Sutton Bonington,20%FC,1,2,Sutton Bonington,Sutton Bonington,52.833265,-1.24906,UK,291.4
+187,R120,B73,Sutton Bonington,20%FC,5,2,Sutton Bonington,Sutton Bonington,52.833265,-1.24906,UK,323.3
+188,R121,B73,Sutton Bonington,20%FC,10,2,Sutton Bonington,Sutton Bonington,52.833265,-1.24906,UK,402.3
+189,R122,B73,Sutton Bonington,20%FC,1,2,Sutton Bonington,Sutton Bonington,52.833265,-1.24906,UK,250.4
+190,R123,B73,Sutton Bonington,20%FC,13,2,Sutton Bonington,Sutton Bonington,52.833265,-1.24906,UK,257.9
+191,1,CVSt,Tarrafal,50%FC,3,3,Tarrafal,Tarrafal,15.254874,-23.744146,Cabo Verde,350.1
+192,2,CVSt,Tarrafal,50%FC,3,3,Tarrafal,Tarrafal,15.254874,-23.744146,Cabo Verde,421.8
+193,3,CVSt,Tarrafal,50%FC,3,3,Tarrafal,Tarrafal,15.254874,-23.744146,Cabo Verde,356.5
+194,4,CVSt,Tarrafal,50%FC,1,3,Tarrafal,Tarrafal,15.254874,-23.744146,Cabo Verde,362.9
+195,5,CVSt,Tarrafal,50%FC,2,3,Tarrafal,Tarrafal,15.254874,-23.744146,Cabo Verde,494.7
+196,6,Matuba,Tarrafal,50%FC,6,3,Tarrafal,Tarrafal,15.254874,-23.744146,Cabo Verde,400.5
+197,7,Matuba,Tarrafal,50%FC,8,3,Tarrafal,Tarrafal,15.254874,-23.744146,Cabo Verde,497.5
+198,8,Matuba,Tarrafal,50%FC,6,3,Tarrafal,Tarrafal,15.254874,-23.744146,Cabo Verde,572.9
+199,9,Matuba,Tarrafal,50%FC,5,3,Tarrafal,Tarrafal,15.254874,-23.744146,Cabo Verde,291.1
+200,10,Matuba,Tarrafal,50%FC,1,3,Tarrafal,Tarrafal,15.254874,-23.744146,Cabo Verde,274
+201,11,Zm523,Tarrafal,50%FC,7,3,Tarrafal,Tarrafal,15.254874,-23.744146,Cabo Verde,436.3
+202,12,Zm523,Tarrafal,50%FC,7,3,Tarrafal,Tarrafal,15.254874,-23.744146,Cabo Verde,521
+203,13,Zm523,Tarrafal,50%FC,5,3,Tarrafal,Tarrafal,15.254874,-23.744146,Cabo Verde,608.7
+204,14,B73,Tarrafal,50%FC,5,3,Tarrafal,Tarrafal,15.254874,-23.744146,Cabo Verde,185
+205,15,B73,Tarrafal,50%FC,6,3,Tarrafal,Tarrafal,15.254874,-23.744146,Cabo Verde,137.9
+206,16,B73,Tarrafal,50%FC,8,3,Tarrafal,Tarrafal,15.254874,-23.744146,Cabo Verde,147.8
+207,17,CVSt,Sao Domingos,50%FC,3,3,Sao Domingos,S‹o Domingos,15.018798,-23.548427,Cabo Verde,577.8
+208,18,CVSt,Sao Domingos,50%FC,7,3,Sao Domingos,S‹o Domingos,15.018798,-23.548427,Cabo Verde,448.3
+209,19,CVSt,Sao Domingos,50%FC,2,3,Sao Domingos,S‹o Domingos,15.018798,-23.548427,Cabo Verde,417.6
+210,20,CVSt,Sao Domingos,50%FC,1,3,Sao Domingos,S‹o Domingos,15.018798,-23.548427,Cabo Verde,297
+211,21,CVSt,Sao Domingos,50%FC,7,3,Sao Domingos,S‹o Domingos,15.018798,-23.548427,Cabo Verde,390.7
+212,22,Matuba,Sao Domingos,50%FC,2,3,Sao Domingos,S‹o Domingos,15.018798,-23.548427,Cabo Verde,126.3
+213,23,Matuba,Sao Domingos,50%FC,8,3,Sao Domingos,S‹o Domingos,15.018798,-23.548427,Cabo Verde,444.4
+214,24,Matuba,Sao Domingos,50%FC,1,3,Sao Domingos,S‹o Domingos,15.018798,-23.548427,Cabo Verde,419.5
+215,25,Matuba,Sao Domingos,50%FC,8,3,Sao Domingos,S‹o Domingos,15.018798,-23.548427,Cabo Verde,260.7
+216,26,Matuba,Sao Domingos,50%FC,1,3,Sao Domingos,S‹o Domingos,15.018798,-23.548427,Cabo Verde,392
+217,27,Zm523,Sao Domingos,50%FC,7,3,Sao Domingos,S‹o Domingos,15.018798,-23.548427,Cabo Verde,593.2
+218,28,Zm523,Sao Domingos,50%FC,3,3,Sao Domingos,S‹o Domingos,15.018798,-23.548427,Cabo Verde,866.5
+219,29,Zm523,Sao Domingos,50%FC,4,3,Sao Domingos,S‹o Domingos,15.018798,-23.548427,Cabo Verde,650.2
+220,30,B73,Sao Domingos,50%FC,6,3,Sao Domingos,S‹o Domingos,15.018798,-23.548427,Cabo Verde,233.3
+221,31,B73,Sao Domingos,50%FC,5,3,Sao Domingos,S‹o Domingos,15.018798,-23.548427,Cabo Verde,158.7
+222,32,B73,Sao Domingos,50%FC,4,3,Sao Domingos,S‹o Domingos,15.018798,-23.548427,Cabo Verde,185
+223,33,CVSt,Sutton Bonington,50%FC,5,3,Sutton Bonington,Sutton Bonington,52.833265,-1.24906,UK,295.1
+224,34,CVSt,Sutton Bonington,50%FC,8,3,Sutton Bonington,Sutton Bonington,52.833265,-1.24906,UK,494.9
+225,35,CVSt,Sutton Bonington,50%FC,3,3,Sutton Bonington,Sutton Bonington,52.833265,-1.24906,UK,310.1
+226,36,CVSt,Sutton Bonington,50%FC,2,3,Sutton Bonington,Sutton Bonington,52.833265,-1.24906,UK,280.2
+227,37,CVSt,Sutton Bonington,50%FC,1,3,Sutton Bonington,Sutton Bonington,52.833265,-1.24906,UK,208.8
+228,38,CVSt,Sutton Bonington,20%FC,7,3,Sutton Bonington,Sutton Bonington,52.833265,-1.24906,UK,210.4
+229,39,CVSt,Sutton Bonington,20%FC,2,3,Sutton Bonington,Sutton Bonington,52.833265,-1.24906,UK,319.5
+230,40,CVSt,Sutton Bonington,20%FC,6,3,Sutton Bonington,Sutton Bonington,52.833265,-1.24906,UK,275.7
+231,41,CVSt,Sutton Bonington,20%FC,3,3,Sutton Bonington,Sutton Bonington,52.833265,-1.24906,UK,336.2
+232,42,CVSt,Sutton Bonington,20%FC,1,3,Sutton Bonington,Sutton Bonington,52.833265,-1.24906,UK,234.9
+233,43,CVSt,Sutton Bonington,9%FC,4,3,Sutton Bonington,Sutton Bonington,52.833265,-1.24906,UK,128.4
+234,44,CVSt,Sutton Bonington,9%FC,4,3,Sutton Bonington,Sutton Bonington,52.833265,-1.24906,UK,129.8
+235,45,CVSt,Sutton Bonington,9%FC,7,3,Sutton Bonington,Sutton Bonington,52.833265,-1.24906,UK,174.5
+236,46,CVSt,Sutton Bonington,9%FC,8,3,Sutton Bonington,Sutton Bonington,52.833265,-1.24906,UK,107.3
+237,47,CVSt,Sutton Bonington,9%FC,4,3,Sutton Bonington,Sutton Bonington,52.833265,-1.24906,UK,145.5
+238,48,Matuba,Sutton Bonington,50%FC,4,3,Sutton Bonington,Sutton Bonington,52.833265,-1.24906,UK,401.8
+239,49,Matuba,Sutton Bonington,50%FC,1,3,Sutton Bonington,Sutton Bonington,52.833265,-1.24906,UK,415.7
+240,50,Matuba,Sutton Bonington,50%FC,5,3,Sutton Bonington,Sutton Bonington,52.833265,-1.24906,UK,359.9
+241,51,Matuba,Sutton Bonington,50%FC,1,3,Sutton Bonington,Sutton Bonington,52.833265,-1.24906,UK,NA
+242,52,Matuba,Sutton Bonington,50%FC,2,3,Sutton Bonington,Sutton Bonington,52.833265,-1.24906,UK,197.7
+243,53,Matuba,Sutton Bonington,20%FC,2,3,Sutton Bonington,Sutton Bonington,52.833265,-1.24906,UK,226.4
+244,54,Matuba,Sutton Bonington,20%FC,7,3,Sutton Bonington,Sutton Bonington,52.833265,-1.24906,UK,219
+245,55,Matuba,Sutton Bonington,20%FC,5,3,Sutton Bonington,Sutton Bonington,52.833265,-1.24906,UK,187.9
+246,56,Matuba,Sutton Bonington,20%FC,7,3,Sutton Bonington,Sutton Bonington,52.833265,-1.24906,UK,363.3
+247,57,Matuba,Sutton Bonington,20%FC,5,3,Sutton Bonington,Sutton Bonington,52.833265,-1.24906,UK,110.3
+248,58,Matuba,Sutton Bonington,9%FC,6,3,Sutton Bonington,Sutton Bonington,52.833265,-1.24906,UK,81.3
+249,59,Matuba,Sutton Bonington,9%FC,6,3,Sutton Bonington,Sutton Bonington,52.833265,-1.24906,UK,93.7
+250,60,Matuba,Sutton Bonington,9%FC,6,3,Sutton Bonington,Sutton Bonington,52.833265,-1.24906,UK,69.4
+251,61,Matuba,Sutton Bonington,9%FC,5,3,Sutton Bonington,Sutton Bonington,52.833265,-1.24906,UK,66.3
+252,62,Matuba,Sutton Bonington,9%FC,8,3,Sutton Bonington,Sutton Bonington,52.833265,-1.24906,UK,81.5
+253,63,Zm523,Sutton Bonington,50%FC,4,3,Sutton Bonington,Sutton Bonington,52.833265,-1.24906,UK,369.5
+254,64,Zm523,Sutton Bonington,50%FC,6,3,Sutton Bonington,Sutton Bonington,52.833265,-1.24906,UK,402.6
+255,65,Zm523,Sutton Bonington,50%FC,3,3,Sutton Bonington,Sutton Bonington,52.833265,-1.24906,UK,432.1
+256,66,Zm523,Sutton Bonington,20%FC,8,3,Sutton Bonington,Sutton Bonington,52.833265,-1.24906,UK,399.5
+257,67,Zm523,Sutton Bonington,20%FC,4,3,Sutton Bonington,Sutton Bonington,52.833265,-1.24906,UK,461.3
+258,68,Zm523,Sutton Bonington,20%FC,8,3,Sutton Bonington,Sutton Bonington,52.833265,-1.24906,UK,350.1
+259,69,Zm523,Sutton Bonington,9%FC,3,3,Sutton Bonington,Sutton Bonington,52.833265,-1.24906,UK,171.3
+260,70,Zm523,Sutton Bonington,9%FC,1,3,Sutton Bonington,Sutton Bonington,52.833265,-1.24906,UK,170.2
+261,71,Zm523,Sutton Bonington,9%FC,4,3,Sutton Bonington,Sutton Bonington,52.833265,-1.24906,UK,100.5
+262,72,B73,Sutton Bonington,50%FC,8,3,Sutton Bonington,Sutton Bonington,52.833265,-1.24906,UK,125.5
+263,73,B73,Sutton Bonington,50%FC,5,3,Sutton Bonington,Sutton Bonington,52.833265,-1.24906,UK,110.9
+264,74,B73,Sutton Bonington,50%FC,2,3,Sutton Bonington,Sutton Bonington,52.833265,-1.24906,UK,NA
+265,75,B73,Sutton Bonington,20%FC,3,3,Sutton Bonington,Sutton Bonington,52.833265,-1.24906,UK,170.4
+266,76,B73,Sutton Bonington,20%FC,2,3,Sutton Bonington,Sutton Bonington,52.833265,-1.24906,UK,149.1
+267,77,B73,Sutton Bonington,20%FC,4,3,Sutton Bonington,Sutton Bonington,52.833265,-1.24906,UK,175.5
+268,78,B73,Sutton Bonington,9%FC,6,3,Sutton Bonington,Sutton Bonington,52.833265,-1.24906,UK,90.3
+269,79,B73,Sutton Bonington,9%FC,7,3,Sutton Bonington,Sutton Bonington,52.833265,-1.24906,UK,81.6
+270,80,B73,Sutton Bonington,9%FC,2,3,Sutton Bonington,Sutton Bonington,52.833265,-1.24906,UK,69.9
